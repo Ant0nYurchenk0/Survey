@@ -1,0 +1,1162 @@
+$,employment_start-date-year,VALTECH EMPLOYMENT,When did you start working at Valtech?,If your company was acquired by Valtech; please answer according to when you started working at your original company.,MULTIPLE OPTIONS - ONE CHOICE,"Options:
+ - Before 2022
+ - During 2022
+ - During 2023",Total days of year to factor in to calculations,,,,,¿Cuándo empezaste a trabajar en Valtech?,Si su empresa fue adquirida por Valtech; responda de acuerdo con cuando comenzó a trabajar en su empresa original.,"Opciones:
+- Antes de 2022
+- Durante 2022
+- Durante 2023", , ,,Quand avez-vous commencé à travailler chez Valtech?,Si votre entreprise a été acquise par Valtech; veuillez répondre en fonction du moment où vous avez commencé à travailler dans votre entreprise d'origine.,"Options
+ - Avant 2022
+ - Courant 2022
+ - Courant 2023", , ,,Quando você começou a trabalhar na Valtech?,Se sua empresa foi adquirida pela Valtech; responda de acordo com quando você começou a trabalhar em sua empresa original.,"Opções:
+- Antes de 2022
+- Durante 2022
+- Durante 2023", , 
+$,employment_start-date-month,VALTECH EMPLOYMENT,In which month did you start working at Valtech in that year?,,DATE,"Options:
+ - January
+ - February
+ - March
+ - April
+ - May
+ - June
+ - July
+ - August
+ - September
+ - October
+ - November
+ - December",,,,,,¿En qué mes comenzó a trabajar en Valtech en ese año?, ,"Opciones:
+- Enero
+- Febrero
+- Marzo
+- Abril
+- Mayo
+- Junio
+- Julio
+- Agosto
+- Septiembre
+- Octubre
+- Noviembre
+- Diciembre", , ,,En quel mois avez-vous commencé à travailler chez Valtech cette année-là?, ,"Options:
+ - Janvier
+ - Février
+ - Mars
+ - Avril
+ - Mai
+ - Juin
+ - Juillet
+ - Août
+ - Septembre
+ - Octobre
+ - Novembre
+ - Décembre", , ,,Em que mês você começou a trabalhar na Valtech naquele ano?, ,"Opções:
+- Janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro", , 
+$,employment_base-office-moved,VALTECH EMPLOYMENT,Did you move your base / normal Valtech office in 2022?,"By ""base / normal office""; we mean the Valtech office you officially formed a part of in 2022. This may or may not have been your closest office; geographically; but it should be the main Valtech office you went to in 2022 if / when you commuted. 
+
+If you don't have a base office; please select ""No"".",MULTIPLE OPTIONS - ONE CHOICE,"Options:
+ - No (default)
+ - Yes",,,,,,¿Trasladó su oficina base / normal de Valtech en 2022?,"Por ""oficina base / normal""; nos referimos a la oficina de Valtech de la que formaste parte oficialmente en 2022. Esta puede o no haber sido su oficina más cercana; geográficamente; pero debería ser la oficina principal de Valtech a la que fue en 2022 si / cuando viajó.
+
+Si no tienes una oficina base; seleccione ""No"".","Opciones:
+ - No (predeterminado)
+- Sí", , ,,Avez-vous changé de bureau "de base" Valtech en 2022?,"Par ""bureau de base""; nous entendons le bureau de Valtech dont vous faisiez officiellement partie en 2022. Il s'agit du bureau Valtech où vous vous êtes rendu le plus souvent en 2022.
+
+Si vous n'avez pas de bureau de base; veuillez sélectionner ""Non"".","Options:
+ - Non (par défaut)
+ - Oui", , ,,Você mudou sua base /escritório normal da Valtech em 2022?,"Por ""escritório base / normal""; queremos dizer o escritório da Valtech do qual você fez parte oficialmente em 2022. Este pode ou não ter sido o seu escritório mais próximo; geograficamente; mas deve ser o escritório principal da Valtech que você visitou em 2022 se / quando você comutou.
+
+Se você não tiver um escritório base; selecione ""Não"".","Opções:
+- Não (padrão)
+- Sim", , 
+$,employment_base-office-location,VALTECH EMPLOYMENT,Which was your base / normal Valtech office in 2022? ,If your contract shows that you are based 100% at home; please select "I don't have a base office",MULTIPLE OPTIONS - ONE CHOICE,"Options:
+ - A LIST OF ALL VALTECH OFFICES (ENTITIES) FROM DROP DOWN
+ - Other [specify]
+ - Include ""I don't have a base office"" as an option",Useful for office data survey,,"* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different office
+* UNKNOWN OPTION: I don't have a base office",,,¿Cuál era su oficina base / normal de Valtech en 2022? ,Si su contrato muestra que usted está basado 100% en casa; por favor seleccione "No tengo una oficina base","Opciones:
+ - una LISTA DE TODAS LAS OFICINAS (ENTIDADES) DE VALTECH DEL MENÚ DESPLEGABLE
+- Otro [especificar]
+- Incluya ""No tengo una oficina base"" como opción","* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: Oficina diferente
+* OPCIÓN DESCONOCIDA: No tengo una oficina base", ,,Quel était votre bureau "de base" Valtech en 2022? ,Si votre contrat montre que vous êtes 100% en télétravail (full remote); veuillez sélectionner "Je n'ai pas de bureau de base","Options:
+ - une LISTE DE TOUS LES BUREAUX (ENTITÉS) DE VALTECH À PARTIR DE LA liste DÉROULANTE
+ - Autre [préciser]
+ - Inclure ""Je n'ai pas de bureau de base"" en option","* AUTRE TEXTE: Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ: Bureau différent
+* OPTION INCONNUE: Je n'ai pas de bureau de base", ,,Qual era o seu escritório base / normal da Valtech em 2022? ,Se o seu contrato disser que você está 100% em casa; selecione "Eu não tenho um escritório base","Opções:
+ - LISTA DE TODOS OS ESCRITÓRIOS (ENTIDADES) DA VALTECH DO MENU SUSPENSO
+- Outro [especificar]
+- Incluir como opção ""Não tenho escritório base""","* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: escritório diferente
+* OPÇÃO DESCONHECIDA: Eu não tenho um escritório base", 
+$,employment_base-office-location-original,VALTECH EMPLOYMENT,Which was the base / normal Valtech office you had at the start of 2022?,,MULTIPLE OPTIONS - ONE CHOICE,"Options:
+ - Office list
+ - Other [specify]",,,"* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different office",,,¿Cuál era la oficina de Valtech base / normal que tenía a principios de 2022?, ,"Opciones:
+- Lista de oficinas
+- Otros [especificar]","* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: Oficina diferente", ,,Quel était le bureau de base de Valtech que vous aviez au début de 2022?, ,"Options:
+ - Liste des bureaux
+ - Autre [préciser]","* AUTRE TEXTE: Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ: Bureau différent", ,,Qual era o escritório base / normal da Valtech que você tinha no início de 2022?, ,"Opções:
+- Lista de escritórios
+- Outros [especificar]","* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: escritório diferente", 
+$,employment_base-office-location-new,VALTECH EMPLOYMENT,Which was the base / normal Valtech office you moved to during the course of 2022?,If you moved offices more than once in 2022; please select the office you ended the year in. ,MULTIPLE OPTIONS - ONE CHOICE,"Options:
+ - Office list
+ - Other [specify]",,,"* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different office",,,¿Cuál fue la oficina base / normal de Valtech a la que se mudó durante el transcurso de 2022?,Si mudó oficinas más de una vez en 2022; seleccione la oficina en la que terminó el año. ,"Opciones:
+- Lista de oficinas
+- Otros [especificar]","* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: Oficina diferente", ,,Quel était le bureau de base Valtech dans lequel vous avez déménagé au cours de l'année 2022?,Si vous avez déménagé plus d'une fois en 2022; veuillez sélectionner le bureau dans lequel vous avez terminé l'année. ,"Options:
+ - Liste des bureaux
+ - Autre [préciser]","* AUTRE TEXTE: Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ: Bureau différent", ,,Qual foi o escritório base/ normal da Valtech para o qual você se mudou durante o ano de 2022?,Se você mudou de escritório mais de uma vez em 2022; selecione o escritório em que terminou o ano. ,"Opções:
+- Lista de escritórios
+- Outros [especificar]","* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: escritório diferente", 
+$,employment_business-unit,VALTECH EMPLOYMENT,Which Valtech business unit / service line / team do you work for?,This is the team you work for; day-to-day; irrespective of where you live. For example; you might live in Germany but work for Valtech France. Please look at the whole list before answering.,MULTIPLE OPTIONS - ONE CHOICE,"Options:
+ - List on ""VT offices and teams list"" tab",,,* PLACEHOLDER: Select your business unit...,,,¿Para qué unidad de negocio/línea de servicio/ equipo de Valtech trabaja?,Este es el equipo para el que trabajas; día a día; independientemente de dónde vivas. Por ejemplo; puedes vivir en Alemania; pero trabajar para Valtech Francia. Por favor; mire toda la lista antes de responder.,"Opciones:
+- Enumere en la pestaña ""Lista de oficinas y equipos de VT""",* MARCADOR DE POSICIÓN: Seleccione su unidad de negocio..., ,,Pour quelle unité commerciale/ligne de service/ équipe Valtech travaillez-vous?,C'est l'équipe pour laquelle vous travaillez; au jour le jour; quel que soit l'endroit où vous vivez. Par exemple; vous pourriez vivre en Allemagne mais travailler pour Valtech France. Veuillez consulter la liste complète avant de répondre.,"Options:
+ - Liste sur l'onglet ""Liste des bureaux et équipes VT""",* ESPACE RÉSERVÉ: Sélectionnez votre unité d'affaires..., ,,Para qual unidade de negócios / linha de serviço/ equipe da Valtech você trabalha?,Esta é a equipe para a qual você trabalha; no dia-a-dia; independentemente de onde você mora. Por exemplo; você pode morar na Alemanha; mas trabalhar para a Valtech França. Veja a lista completa antes de responder.,"Opções:
+- Lista na guia ""Lista de escritórios e equipes VT""",* ESPAÇO RESERVADO: Selecione sua unidade de negócios..., 
+$,employment_home-country,VALTECH EMPLOYMENT,Which country did you live in; in 2022?,This will help us to determine the emission intensity of your local grid. If you split your working time between houses in different areas / countries; or moved area / country during 2022; please answer according to the location in which you spent the majority of the year.,MULTIPLE OPTIONS - ONE CHOICE,"Options:
+ - List of all Valtech countries (i.e. where we have offices)
+ - Other: specify (free text)",Grid electricity; location based calculation,,"* PLACEHOLDER: Select your country...
+* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different country",,,¿En qué país vivió en 2022?,Esto nos ayudará a determinar la intensidad de emisión de su red local. Si dividió su tiempo de trabajo entre casas en diferentes áreas / países; o se mudó de área / país durante 2022; responda de acuerdo con la ubicación en la que pasó la mayor parte del año.,"Opciones:
+- Lista de todos los países de Valtech (es decir; donde tenemos oficinas)
+- Otro: especificar (texto libre)","* MARCADOR DE POSICIÓN: Seleccione su país…* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: Oficina diferente", ,,Dans quel pays avez-vous vécu en 2022?,Cela nous aidera à déterminer l'intensité des émissions de votre réseau électrique local. Si vous partagez votre temps de travail entre des maisons situées dans différentes zones / pays ou dans une zone /un pays déplacé en 2022; veuillez répondre en fonction du lieu où vous avez passé la majeure partie de l'année.,"Options:
+ - Liste de tous les pays Valtech (c'est-à-dire où nous avons des bureaux)
+ - Autre: préciser (texte libre)","* PLACEHOLDER: Sélectionnez votre pays...* AUTRE TEXTE: Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ: Bureau différent", ,,Em que país você morou; em 2022?,Isso nos ajudará a determinar a intensidade de emissão de sua rede local. Se você dividir seu tempo de trabalho entre casas em diferentes áreas / países ou mudou de área / país durante 2022; responda de acordo com o local em que passou a maior parte do ano.,"Opções:
+ - Lista de todos os países da Valtech (ou seja; onde temos escritórios)
+- Outro: especificar (texto livre)","* ESPAÇO RESERVADO: Selecione seu país...* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: escritório diferente", 
+$,employment_home-region,VALTECH EMPLOYMENT,Which province / state / county / region did you live in in 2022; within your country? ,This helps us calculate your emissions with greater accuracy; as energy mixes can vary significantly between areas of a country. If you split your working time between houses in different areas / countries; or moved area / country during 2022; please answer according to the location in which you spent the majority of the year.,MULTIPLE OPTIONS - ONE CHOICE,WILL THEN AUTOMATE TO A LIST OF ALL PROVINCES / REGIONS / COUNTIES WITHIN THE COUNTRY SELECTED,Regional grid electricity; location based,,* PLACEHOLDER: Select your region...,,,¿En qué provincia / estado / condado / región vivió en 2022; dentro de su país? ,Esto nos ayuda a calcular sus emisiones con mayor precisión; ya que las mezclas de energía pueden variar significativamente entre las áreas de un país. Si dividió su tiempo de trabajo entre casas en diferentes áreas / países; o se mudó de área / país durante 2022; responda de acuerdo con la ubicación en la que pasó la mayor parte del año.,A CONTINUACIÓN; SE AUTOMATIZARÁ A UNA LISTA DE TODAS LAS PROVINCIAS / REGIONES / CONDADOS DENTRO DEL PAÍS SELECCIONADO,* MARCADOR DE POSICIÓN: Seleccione su región..., ,,Dans quelle province / état/comté / région viviez-vous en 2022; dans votre pays? ,Cela nous aide à calculer vos émissions avec une plus grande précision; car les mix énergétiques peuvent varier considérablement d'une région à l'autre d'un pays. Si vous partagez votre temps de travail entre des maisons situées dans différentes zones / pays ou dans une zone /un pays déplacé en 2022; veuillez répondre en fonction du lieu où vous avez passé la majeure partie de l'année.,AUTOMATISERA ENSUITE VERS UNE LISTE DE TOUTES LES PROVINCES / RÉGIONS / COMTÉS DANS LE PAYS SÉLECTIONNÉ,* ESPACE RESERVÉ: Sélectionnez votre région..., ,,Em que província / estado / condado / região você morou em 2022; dentro do seu país? ,Isso nos ajuda a calcular suas emissões com maior precisão; pois a mistura de energias pode variar significativamente entre as áreas de um país. Se você dividir seu tempo de trabalho entre casas em diferentes áreas / países ou mudou de área / país durante 2022; responda de acordo com o local em que passou a maior parte do ano.,ENTÃO AUTOMATIZARÁ PARA UMA LISTA DE TODAS AS PROVÍNCIAS / REGIÕES / CONDADOS DENTRO DO PAÍS SELECIONADO,* ESPAÇO RESERVADO: Selecione sua região..., 
+$,employment_working-days-per-week,VALTECH EMPLOYMENT,In 2022; on average how many days did you work per week; in a typical week?,Please **don't** factor in any significant periods of time off work here (e.g. on sick leave). Just give your standard working pattern. If your working pattern changed during 2022; please just give your best estimate as to the average number of days you worked per week that year.,MULTIPLE OPTIONS - MULTIPLE CHOICE,"Options:
+ - 0.5 day per week
+ - 1 day per week
+ - 1.5 days per week
+ - 2 days per week
+ - 2.5 days per week
+ - 3 days per week 
+ - 3.5 days per week
+ - 4 days per week
+ - 4.5 days per week
+ - 5 days per week ",Days needed to multiply by hours for WFH emissions,,* UNIT: [N] days per week,,,En 2022; en promedio; ¿cuántos días trabajó por semana; en una semana típica?,Por favor; **no** tenga en cuenta los períodos significativos de tiempo fuera del trabajo aquí (por ejemplo; con licencia por enfermedad). Simplemente dé su patrón de trabajo estándar. Si su patrón de trabajo cambió durante 2022; simplemente dé su mejor estimación en cuanto a la cantidad promedio de días que trabajó por semana ese año.,"Opciones:
+- 0.5 días por semana
+- 1 día por semana
+- 1.5 días por semana
+- 2 días a la semana
+- 2.5 días por semana
+- 3 días a la semana
+- 3.5 días por semana
+- 4 días a la semana
+- 4.5 días por semana
+- 5 días a la semana ",* UNIDAD: [N] días por semana, ,,En 2022; en moyenne; combien de jours avez-vous travaillés par semaine; dans une semaine typique ?,Veuillez **ne pas** tenir compte des périodes de congé importantes (par exemple; un congé de maladie). Donnez simplement votre modèle de travail standard. Si votre rythme de travail a changé en 2022; veuillez simplement donner votre meilleure estimation du nombre moyen de jours de travail par semaine cette année-là.,"Options :
+ - 0;5 jour par semaine
+ - 1 jour par semaine
+ - 1;5 jour par semaine
+ - 2 jours par semaine
+ - 2;5 jours par semaine
+ - 3 jours par semaine
+ - 3;5 jours par semaine
+ - 4 jours par semaine
+ - 4;5 jours par semaine
+ - 5 jours par semaine ",* UNITÉ : [N] jours par semaine, ,,Em 2022; em média; quantos dias você trabalhou por semana; em uma semana típica?,Por favor; **não** considere quaisquer períodos significativos de afastamento do trabalho aqui (por exemplo; em licença médica). Forneça apenas seu padrão de modelo de trabalho. Se o seu modelo de trabalho mudou durante 2022; forneça sua melhor estimativa quanto ao número médio de dias que você trabalhou por semana naquele ano.,"Opções:
+- 0;5 dia por semana
+- 1 dia por semana
+- 1;5 dias por semana
+- 2 dias por semana
+- 2;5 dias por semana
+- 3 dias por semana
+- 3;5 dias por semana
+- 4 dias por semana
+- 4;5 dias por semana
+- 5 dias por semana ",* UNIDADE: [N] dias por semana, 
+$,employment_working-hours-per-day,VALTECH EMPLOYMENT,On an average working day in 2022; how many hours did you work?,Please estimate the number of hours you worked on a normal working day. If your working pattern changed substantially during the year (e.g. you went from working 8 hours each day for the first half of 2022 to 4 hours each day for the second half of 2022); please do your best to work out a rough average (in this example; it would be 6 hours a day).,MULTIPLE OPTIONS - ONE CHOICE,"Options:
+ - 1 hour
+ - 2 hours
+ - 3 hours
+ - 4 hours
+ - 5 hours
+ - 6 hours 
+ - 7 hours
+ - 8 hours
+ - 9 hours
+ - 10 hours 
+ - 11 hours
+ - 12 hours",Calculating total time working,,* UNIT: [N] hours per day,,,En un día laboral promedio en 2022; ¿cuántas horas trabajó?,Por favor; calcule el número de horas que trabajó en un día normal de trabajo. Si su patrón de trabajo cambió sustancialmente durante el año (por ejemplo; pasó de trabajar 8 horas al día durante la primera mitad de 2022 a 4 horas al día durante la segunda mitad de 2022); haga todo lo posible para calcular un promedio aproximado (en este ejemplo; serían 6 horas al día).,"Opciones:
+- 1 hora
+- 2 horas
+- 3 horas
+- 4 horas
+- 5 horas
+- 6 horas
+- 7 horas
+- 8 horas
+- 9 horas
+- 10 horas
+- 11 horas
+- 12 horas",* UNIDAD: [N] horas por día, ,,Sur une journée de travail moyenne en 2022; combien d'heures avez-vous travaillées ?,Veuillez estimer le nombre d'heures que vous avez travaillé au cours d'une journée de travail normal. Si votre rythme de travail a considérablement changé au cours de l'année (par exemple; vous êtes passé de 8 heures de travail par jour au premier semestre 2022 à 4 heures par jour au second semestre 2022); veuillez faire de votre mieux pour calculer une moyenne approximative (dans cet exemple; il s'agirait de 6 heures par jour).,"Options :
+ - 1 heure
+ - 2 heures
+ - 3 heures
+ - 4 heures
+ - 5 heures
+ - 6 heures
+ - 7 heures
+ - 8 heures
+ - 9 heures
+ - 10 heures
+ - 11 heures
+ - 12 heures",* UNITÉ : [N] heures par jour, ,,Em um dia de trabalho médio em 2022; quantas horas você trabalhou?,Por favor; estime o número de horas que você trabalhou em um dia normal de trabalho. Se o seu modelo de trabalho mudou substancialmente durante o ano (por exemplo; você passou de 8 horas por dia no primeiro semestre de 2022 para 4 horas por dia no segundo semestre de 2022); por favor faça o seu melhor para calcular uma média aproximada (neste exemplo; seriam 6 horas por dia).,"Opções:
+- 1 hora
+- 2 horas
+- 3 horas
+- 4 horas
+- 5 horas
+- 6 horas
+- 7 horas
+- 8 horas
+- 9 horas
+- 10 horas
+- 11 horas
+- 12 horas",* UNIDADE: [N] horas por dia, 
+$,employment_time-off,VALTECH EMPLOYMENT,Did you take a significant length of time off work (totalling 1 month or more) in 2022; that did not form part of your annual leave? ,"
+This might have been for maternity / paternity / shared parental leave; sick leave; sabbatical etc. We're asking this because we're trying to understand the overall picture of emissions generated when working from home. Significant periods of absence need to be deducted from our total individual emissions.
+
+Please account for any substantial time cumulatively (e.g. you took 3 weeks in January and 2 weeks in June = 5 weeks total; which you'd round down to 1 month; or you took 6 months in one block). ",MULTIPLE OPTIONS - ONE CHOICE,YES/NO,Needed to ensure not overcounting worked hours,,,,,¿Tomó una cantidad significativa de tiempo libre (un total de 1 mes o más) en 2022; que no formó parte de sus vacaciones anuales? ,"
+Esto podría haber sido por maternidad / paternidad /licencia parental compartida; licencia por enfermedad; año sabático; etc. Estamos preguntando esto porque estamos tratando de comprender el panorama general de las emisiones generadas cuando se trabaja desde casa. Los períodos significativos de ausencia deben deducirse de nuestras emisiones individuales totales.
+
+Por favor; tenga en cuenta cualquier tiempo sustancial acumulado (por ejemplo; tomó 3 semanas en enero y 2 semanas en junio = 5 semanas en total; que redondearía a 1 mes; o tomó 6 meses en un bloque). ",SÍ/NO, , ,,Avez-vous pris un congé important (totalisant 1 mois ou plus) en 2022; qui ne faisait pas partie de votre congé annuel ? ,"
+Il peut s'agir d'un congé de maternité / paternité /parental partagé; d'un congé de maladie; d'un congé sabbatique; etc. Nous posons cette question parce que nous essayons de comprendre l'image globale des émissions générées par le travail à domicile. Des périodes d'absence importantes doivent être déduites de nos émissions individuelles totales.
+
+Veuillez tenir compte de tout temps important cumulé (par exemple; vous avez pris 3 semaines en janvier et 2 semaines en juin = 5 semaines au total; que vous arrondiriez à 1 mois). ",OUI/NON, , ,,Você tirou um período significativo de folga do trabalho (totalizando 1 mês ou mais) em 2022; que não fazia parte de suas férias anuais? ,"
+Isso pode ter sido para licença maternidade / paternidade /parental compartilhada; licença médica; licença sabática; etc. Estamos perguntando isso porque estamos tentando entender o quadro geral das emissões geradas quando se trabalha em casa. Períodos significativos de ausência precisam ser deduzidos de nossas emissões individuais totais.
+
+Por favor; contabilize qualquer tempo substancial cumulativamente (por exemplo; você tirou 3 semanas em janeiro e 2 semanas em junho = 5 semanas no total; o que você arredondaria para 1 mês; ou você tirou 6 meses em um bloco). ",SIM/NÃO, , 
+$,employment_time-off-months,VALTECH EMPLOYMENT,How many months did you take off work in total in 2022; *not* including your annual leave?,Please estimate this to the nearest whole month.,MULTIPLE OPTIONS - ONE CHOICE,"Options: 
+ - 1 month
+ - 2 months
+ - 3 months
+ - 4 months
+ - 5 months
+ - 6 months
+ - 7 months
+ - 8  months
+ - 9 months
+ - 10 months
+ - 11 months
+ - 12 months",,,* UNIT: [N] months,,,¿Cuántos meses tomó fuera del trabajo en total en 2022; *no* incluidas sus vacaciones anuales?,Por favor; calcule esto al mes entero más cercano.,"Opciones:
+- 1 mes
+- 2 meses
+- 3 meses
+- 4 meses
+- 5 meses
+- 6 meses
+- 7 meses
+- 8 meses
+- 9 meses
+- 10 meses
+- 11 meses
+- 12 meses",* UNIDAD: [N] meses, ,,Combien de mois avez-vous pris votre congé au total en 2022; *sans* compter vos congés annuels ?,Veuillez arrondir au mois entier le plus proche.,"Options :
+ - 1 mois
+ - 2 mois
+ - 3 mois
+ - 4 mois
+ - 5 mois
+ - 6 mois
+ - 7 mois
+ - 8  mois
+ - 9 mois
+ - 10 mois
+ - 11 mois
+ - 12 mois",* UNITÉ : [N] mois, ,,Quantos meses de folga você tirou do trabalho no total em 2022; *não* incluindo suas férias anuais?,Por favor; estime isso para o mês inteiro mais próximo.,"Opções:
+- 1 mês
+- 2 meses
+- 3 meses
+- 4 meses
+- 5 meses
+- 6 meses
+- 7 meses
+- 8 meses
+- 9 meses
+- 10 meses
+- 11 meses
+- 12 meses",* UNIDADE: [N] meses, 
+$,employment_working-pattern-split,VALTECH EMPLOYMENT,Thinking about only the days you *did* work in 2022; how did you split your working time between these activities?,The total must sum to 100%. Please round up to the nearest 5%. For example; even if you only took one flight for business in 2022; please put 5% against business travel.,Table,"See table on ""working location split table"" tab.
+
+Rows:
+- Working from home
+- Working from your base Valtech office
+- Working from a different Valtech office (not your base / normal office)
+- Working from a client office as part of your standard working pattern
+- Travelling on business (e.g. to an event)
+
+Columns:
+- Percentage split",,,,"* ERROR TEXT OVER 100%: Total share can not exceed 100%!
+* ERROR TEXT UNDER 100%: Total share should be 100%!",,Pensando solo en los días que *trabajó* en 2022; ¿cómo dividió su tiempo de trabajo entre estas actividades?,El total debe sumar 100%. Por favor redondee al 5% más cercano. Por ejemplo; incluso si solo tomaste un vuelo de negocios en 2022; pon un 5% en contra de los viajes de negocios.,"
+
+Filas:
+- Trabajar desde casa
+- Trabajando desde su oficina base de Valtech
+- Trabajar desde una oficina de Valtech diferente (no su oficina base / normal)
+- Trabajar desde una oficina del cliente como parte de su patrón de trabajo estándar
+Viajar por negocios (por ejemplo; a un evento)
+
+Columnas:
+- Porcentaje de división", ,* TEXTO DE ERROR SUPERIOR AL 100%: ¡La participación total no puede exceder el 100%!    * TEXTO DE ERROR INFERIOR AL 100%: ¡La participación total debe ser del 100%!,,En pensant uniquement aux jours où vous * avez * travaillé en 2022; comment avez-vous réparti votre temps de travail entre ces activités ?,Le total doit être de 100%. Veuillez arrondir à 5% près. Par exemple; même si vous n'avez pris qu'un seul vol pour affaires en 2022; veuillez mettre 5% en voyages d'affaires.,"Reportez-vous au tableau de l'onglet ""Table fractionnée de l'emplacement de travail"".
+
+Rangées :
+- Travail à domicile (remote)
+- Travail dans votre bureau de base Valtech
+- Travail dans un autre bureau Valtech 
+- Travail à partir d'un bureau client 
+- Voyage d'affaires (ex. pour un événement)
+
+Colonnes:
+- Répartition en pourcentage", ,* TEXTE D'ERREUR SUPÉRIEUR À 100% : la part totale ne peut pas dépasser 100% !* TEXTE D'ERREUR INFÉRIEUR à 100% : la part totale doit être de 100% !,,Pensando apenas nos dias em que você *trabalhou* em 2022; como você dividiu seu tempo de trabalho entre essas atividades?,O total deve somar 100%. Arredonde para os 5% mais próximos. Por exemplo; mesmo que você tenha pegado apenas um voo para negócios em 2022; liste 5% em viagens de negócios.,"Consulte a tabela na guia ""working location split table"".
+
+Linhas:
+- Trabalhar em casa
+- Trabalhar em seu escritório base da Valtech
+- Trabalhar em um escritório da Valtech diferente (não em sua base /escritório normal)
+- Trabalhar no escritório do cliente como parte de seu modelo de trabalho padrão
+- Viajar a negócios (por exemplo; para um evento)
+
+Colunas:
+- Porcentagem dividida", ,* TEXTO DE ERRO ACIMA DE 100%: A participação total não pode exceder 100%!* TEXTO DE ERRO ABAIXO de 100%: A participação total deve ser de 100%!
+$,wfh-emissions_home-type,WORKING FROM HOME EMISSIONS,What type of home do you live in?,If you moved home in 2022; please tell us about the home you spent the majority of the year in. If you split your time between more than one home; please tell us about the one you spent the most time in; in 2022. ,MULTIPLE OPTIONS - ONE CHOICE,"Options:
+ - Flat / apartment
+ - Terraced / row house / townhouse (i.e. not detached)
+ - Semi-detached house
+ - Detached house
+ - Bungalow 
+ - Other [please specify]
+",,,,,,¿En qué tipo de zona vive?,Si se mudó a casa en 2022; cuéntenos sobre la casa en la que se encontraba al final del año. Si dividiste tu tiempo entre más de un alojamiento; cuéntanos cuál fue en el que pasaste más tiempo; en 2022. ,"Opciones:
+ - Piso / departamento / condominio
+- Terraza /casa adosada/casa adosada (es decir; no independiente)
+- Casa adosada
+- Casa unifamiliar
+- Bungaló
+- Otro [especifique]", , ,,Quel est votre type de domicile?,Si vous avez déménagé en 2022; parlez-nous de la maison où vous avez passé le plus de temps. Si vous partagez votre temps entre plus d'un logement; veuillez nous parler de celui dans lequel vous avez passé le plus de temps en 2022. ,"Options :
+ - Appartement / copropriété
+ - Maison avec jardin
+ - Maison jumelée
+ - Maison individuelle
+ - Bungalow
+ - Autre [veuillez préciser]", , ,,Em que tipo de casa você mora?,Se você se mudou de casa em 2022; conte-nos sobre a casa em que estava no final do ano. Se você dividiu seu tempo entre mais de uma casa; conte-nos sobre a que você passou mais tempo em 2022. ,"Opções:
+ - Apartamento / prédio / condomínio
+- Avarandada / casario / conjugada (ou seja; não independente)
+- Casa geminada
+- Casa independente
+- Chalé
+- Outro [especifique]", , 
+$,wfh-emissions_people-working-from-home,WORKING FROM HOME EMISSIONS,In 2022; on average how many people tended to work from your home each day (*including* you)?,,MULTIPLE OPTIONS - ONE CHOICE,"Options:
+ - 1 
+ - 2 
+ - 3 
+ - 4 
+ - 5+",Needed to divide emissions by other people working in the home,,* UNIT: [N] person(s),,,Cuando trabajaba desde casa en 2022; en promedio; ¿cuántas personas tendían a trabajar desde casa en su hogar (*incluido* usted)?, ,"Opciones:
+- 1
+- 2
+- 3
+- 4
+- 5+",* UNIDAD: [N] persona(s), ,,En 2022; combien de personnes en moyenne travaillaient à votre domicile chaque jour (vous compris) ?, ,"Options :
+ - 1
+ - 2
+ - 3
+ - 4
+ - 5+",* UNITÉ : [N] personne(s), ,,Quando você estava trabalhando em casa em 2022; em média; quantas pessoas costumavam trabalhar em casa em sua casa (*incluindo* você)?, ,"Opções:
+- 1
+- 2
+- 3
+- 4
+- 5+",* UNIDADE: [N] pessoa(s), 
+$,wfh-emissions_electricity-supplier-name,WORKING FROM HOME EMISSIONS,What is the name of the current electricity supplier for your home?,Please let us know the name of the company or state provider that supplies you with your home electricity. You should be able to find this on your electricity bill. If you don't know or don't want to say; please leave this blank. If you're not connected to mains electricity at all; please type "off grid".,OPEN TEXT,Open text,Market-based emissions per employee,,,,,¿Cuál es el nombre del proveedor de electricidad actual para su hogar?,Por favor; háganos saber el nombre de la compañía o proveedor estatal que le suministra la electricidad de su hogar. Usted debe ser capaz de encontrar esto en su factura de electricidad. Si usted no sabe o no quiere decir; por favor deje esto en blanco. Si no está conectado a la red eléctrica; escriba "fuera de la red".,Texto abierto, , ,,Quel est le nom du fournisseur d'électricité actuel pour votre maison ?,Veuillez nous indiquer le nom de l'entreprise ou du fournisseur d'État qui vous fournit l'électricité à domicile. Vous devriez pouvoir le trouver sur votre facture d'électricité. Si vous ne savez pas ou ne voulez pas le dire; veuillez laisser ce champ vide. Si vous n'êtes pas connecté au réseau électrique du tout; veuillez taper "hors réseau".,Texte libre, , ,,Qual é o nome do atual fornecedor de eletricidade da sua casa?,Por favor; informe-nos o nome da empresa ou provedor estadual que lhe fornece a eletricidade de sua casa. Você deve conseguir encontrar esta informação em sua conta de luz. Se você não sabe ou não quer dizer; por favor; deixe em branco. Se você não estiver conectado à rede elétrica; digite "off grid".,Texto livre, , 
+$,wfh-emissions_electricity-supplier-renewable,WORKING FROM HOME EMISSIONS,Is the electricity you receive from your electricity supplier certified 100% renewable?,If you have an electricity bill; check to see whether you're on a renewable electricity (or "green") contract. Some suppliers may **only** provide renewable electricity while others offer specific contracts which are based on renewable electricity. If you don't know; please say "no".,MULTIPLE OPTIONS - ONE CHOICE,"Options:
+ - Yes
+ - No
+ - I don't know",Market-based emissions per employee; whether to give 0 as electricity emissions,,,,,¿La electricidad que recibe de su proveedor de electricidad está certificada como 100% renovable?,Si tiene una factura de electricidad; verifique si tiene un contrato de electricidad renovable (o "verde"). Algunos proveedores pueden **solo** proporcionar electricidad renovable; mientras que otros ofrecen contratos específicos basados en electricidad renovable. Si no lo sabe; por favor diga "no".,"Opciones:
+- Sí
+- No
+- No lo sé", , ,,L'électricité que vous recevez de votre fournisseur d'électricité est-elle certifiée 100% renouvelable ?,Si vous avez une facture d'électricité; vérifiez si vous êtes sur un contrat d'électricité renouvelable (ou "vert"). Certains fournisseurs peuvent * * seulement * * fournir de l'électricité renouvelable; tandis que d'autres proposent des contrats spécifiques basés sur l'électricité renouvelable. Si vous ne le savez pas; dites "non".,"Options :
+ - Oui
+ - Non
+ - Je ne sais pas", , ,,A eletricidade que você recebe do seu fornecedor de eletricidade é certificada 100% renovável?,Se você tiver uma conta de eletricidade; verifique se você está em um contrato de eletricidade renovável (ou "verde"). Alguns fornecedores podem **apenas** fornecer eletricidade renovável; enquanto outros oferecem contratos específicos baseados em eletricidade renovável. Se você não sabe; por favor diga "não".,"Opções:
+ - Sim
+- Não
+- Não sei", , 
+$,wfh-emissions_electricity-supplier-changed-to-renewable,WORKING FROM HOME EMISSIONS,Did you change your electricity supplier or contract to this renewable ("green energy") option within the 2022 calendar year? ,If you swapped between two or more 100% renewable energy contracts / providers within 2022; please select "no"; as the emissions will not change. ,MULTIPLE OPTIONS - ONE CHOICE,"Options:
+ - Yes; I started on my renewable electricity contract / supplier **within** the 2022 calendar year.
+ - No; I started on my renewable electricity contract / supplier **before** 2022.
+",To ensure not overcounting renewables,,,,,¿Cambió su proveedor de electricidad o contrato a esta opción renovable ("energía verde") dentro del año calendario 2022? ,Si intercambió entre dos o más contratos / proveedores de energía 100% renovable dentro de 2022; seleccione "no"; ya que las emisiones no cambiarán. ,"Opciones:
+- Sí; comencé con mi contrato / proveedor de electricidad renovable **dentro del** año calendario 2022.                                                                                                                                                  - No; comencé con mi contrato / proveedor de electricidad renovable **antes de** 2022.", , ,,Avez-vous changé votre fournisseur d'électricité ou votre contrat pour cette option renouvelable ("énergie verte") au cours de l'année civile 2022? ,Si vous avez échangé entre deux contrats ou fournisseurs d’énergie 100 % renouvelable ou plus en 2022; veuillez sélectionner « non »; car les émissions ne changeront pas. ,"Options :
+ - Oui; j'ai commencé mon contrat / fournisseur d'électricité renouvelable **dans** l'année civile 2022.
+ - Non; j'ai commencé sur mon contrat / fournisseur d'électricité renouvelable **avant** 2022.", , ,,Você mudou seu fornecedor de eletricidade ou contrato para esta opção renovável ("energia verde") dentro do ano civil de 2022? ,Se você trocou entre dois ou mais contratos / provedores de energia 100% renovável dentro de 2022; selecione "não"; pois as emissões não mudarão. ,"Opções:
+ - Sim; iniciei meu contrato / fornecedor de eletricidade renovável * * dentro ** do ano civil de 2022. - Não; iniciei meu contrato / fornecedor de eletricidade renovável **antes** de 2022.", , 
+$,wfh-emissions_electricity-supplier-changed-to-renewable-month,WORKING FROM HOME EMISSIONS,In which month of 2022 did you switch to a renewable electricity supplier / contract?,,MULTIPLE OPTIONS - ONE CHOICE,"Options:
+ - January
+ - February
+ - March
+ - April
+ - May
+ - June
+ - July
+ - August
+ - September
+ - October
+ - November
+ - December",,,,,,¿En qué mes de 2022 cambió a un proveedor / contrato de electricidad renovable?, ,"Opciones:
+ - Enero
+- Febrero
+- Marzo
+- Abril
+- Mayo
+- Junio
+- Julio
+- Agosto
+- Septiembre
+- Octubre
+- Noviembre
+- Diciembre", , ,,Au cours de quel mois de 2022 êtes-vous passé à un fournisseur / contrat d'électricité renouvelable ?, ,"Options:
+ - Janvier
+ - Février
+ - Mars
+ - Avril
+ - Mai
+ - Juin
+ - Juillet
+ - Août
+ - Septembre
+ - Octobre
+ - Novembre
+ - Décembre", , ,,Em que mês de 2022 você mudou para um fornecedor / contrato de eletricidade renovável?, ,"Opções:
+- Janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro", , 
+$,wfh-emissions_electricity-generation,WORKING FROM HOME EMISSIONS,Did you generate any of your own electricity at home in 2022?,This means any electricity generated at your home / building. E.g. solar or a diesel generator. This is  separate from your energy supply from a provider (the grid).,MULTIPLE OPTIONS - ONE CHOICE,"Options:
+ - Yes
+ - No",Offset this against any grid based or heating emissions,,,,,¿Generaste tu propia energía renovable en casa en 2022?,Por ejemplo; solar; viento.,"Opciones:
+ - Sí
+- No", , ,,Avez-vous produit votre propre électricité à la maison en 2022 ?,Par exemple solaire; vent.,"Options :
+ - Oui
+ - Non", , ,,Quando você começou a gerar sua própria energia renovável em casa?,Por favor; dê a sua melhor suposição se você não consegue se lembrar exatamente,"Opções:
+- SELECIONADOR DE DATA (apenas mês + ano necessário; mas o dia também pode ser coletado se for mais fácil)", , 
+$,wfh-emissions_electricity-generation-types,WORKING FROM HOME EMISSIONS,Which options best describe how you generate electricity from your home or building?,Select the options that best describe how you generate your electricity (both renewable and non-renewable). If "other"; please describe your generation method. Note: we also need to know about any back-up generators used occasionally over the course of the year.,MULTIPLE OPTIONS - MULTIPLE CHOICE,"Options:
+- Gas-powered generator
+- Oil-powered generator
+- Coal-powered generator
+- Biomass-powered generator
+- Solar panels
+- Wind turbine
+- Hydroelectricity
+- Other (please specify)",,,,,,¿Cuándo comenzó a generar su propia energía renovable en casa?,Por favor; dé su mejor conjetura si no puede recordar exactamente,"Opciones:
+- SELECTOR DE FECHA (solo se necesita mes + año; pero el día también se puede recopilar si es más fácil)", , ,,Quelles options décrivent le mieux la façon dont vous produisez de l'électricité depuis de votre maison ?,Sélectionnez les options qui décrivent le mieux la façon dont vous produisez votre électricité (renouvelable et non renouvelable). Si vous avez choisi "autre"; veuillez décrire votre méthode de production. Remarque : nous avons également besoin de connaître les générateurs de secours utilisés occasionnellement au cours de l'année.,"Options :
+- Générateur à gaz
+- Générateur au fioul
+- Générateur à charbon
+- Générateur à biomasse
+- Panneaux solaires
+- Eolienne
+- Hydroélectricité
+- Autre (veuillez préciser)",,,,Como você gera sua própria energia renovável em casa?, ,"Opções:
+ - Painéis solares
+- Água quente solar
+- Energia eólica
+- Sistema hidrelétrico
+- Outro (especifique)","* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: Fonte de energia renovável diferente", 
+$,wfh-emissions_electricity-generation-overview,WORKING FROM HOME EMISSIONS,How was your electricity usage split between electricity supplied from the grid; electricity you generated from renewable sources and electricity you generated from non-renewable sources?,Estimate as best you can the split of electricity used over 2022. Ensure it adds up to 100%. "Renewables" refers to electricity generated from solar; wind; biomass; and water."Non-renewables" refers to electricity generated from fossil fuels.,Table,"Rows:
+- Electricity from a supplier (via the grid)
+- Electricity generated from renewables at your home
+- Electricity generated from non-renewables at your home
+
+Columns:
+- Percentage split",,,,"* ERROR TEXT OVER 100%: Total share can not exceed 100%!
+* ERROR TEXT UNDER 100%: Total share should be 100%!",,¿Cómo generar tu propia energía renovable en casa?, ,"Opciones:
+ - Paneles solares
+- Agua caliente solar
+- Energía eólica
+- Sistema hidroeléctrico
+- Otro (especifique)","* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: diferente fuente de energía renovable", ,,Comment votre consommation d'électricité se répartit-elle entre l'électricité fournie par le réseau; l'électricité que vous produisez à partir de sources renouvelables et l'électricité que vous produisez à partir de sources non renouvelables ?,Estimez au mieux la répartition de la consommation d'électricité sur 2022. Veillez à ce que la somme soit égale à 100 %. Les "énergies renouvelables" désignent l'électricité produite à partir de l'énergie solaire; de l'énergie éolienne; de la biomasse et de l'eau. Les "énergies non renouvelables" désignent l'électricité produite à partir de combustibles fossiles.,"Lignes :
+- Électricité provenant d'un fournisseur (via le réseau)
+- Électricité produite à partir de sources d'énergie renouvelables à votre domicile
+- Électricité produite à partir de sources d'énergie non renouvelables à votre domicile
+
+Colonnes :
+- Pourcentage de répartition",,"TEXTE D'ERREUR SUPÉRIEUR À 100 % : La part totale ne peut pas dépasser 100% !
+* TEXTE D'ERREUR INFÉRIEUR À 100% : La part totale devrait être de 100% !",,Aproximadamente que proporção das necessidades de eletricidade da sua casa foi atendida pela sua própria geração de energia renovável em 2022? ,Arredonde para os 10% mais próximos. Se você realmente não sabe; basta dar o seu melhor palpite! Se você só começou a gerar sua própria eletricidade renovável em 2022; responda com base na % das necessidades de eletricidade da sua casa que foram cobertas **desde que o sistema foi instalado**. ,"Opções:
+ - 10%
+- 20%
+- 30%
+- 40%
+- 50%
+- 60%
+- 70%
+- 80%
+- 90%
+- 100%", , 
+$,wfh-emissions_home-heating,WORKING FROM HOME EMISSIONS,Do you ever use any source of heat in the room you usually work in at home; during working hours? ,This includes **any** source of heat. For example; you might use central heating or district heating. Or you may use something smaller-scale such as infrared panels or an electric blanket / throw that goes on your knees.,MULTIPLE OPTIONS - ONE CHOICE,"Options:
+ - Yes
+ - No",Whether heating emissions relevant,,,,,Ahora te vamos a preguntar si y cómo *calientas* tu casa, , , , ,,Avez-vous déjà utilisé une source de chaleur dans la pièce où vous travaillez habituellement à la maison; pendant les heures de travail ? ,Cela inclut **toute** source de chaleur. Par exemple; vous pouvez utiliser le chauffage central ou un chauffage d'appoint.,"Options :
+ - Oui
+ - Non", , ,,Você já usou alguma fonte de calor no cômodo em que costuma trabalhar em casa; durante o horário de trabalho? ,Isso inclui **qualquer** fonte de calor. Por exemplo; você pode usar aquecimento central ou aquecimento urbano. Ou você pode usar algo em menor escala; como painéis infravermelhos ou um cobertor elétrico que coloca sobre as pernas.,"Opções:
+- Sim
+- Não", , 
+$,wfh-emissions_home-heating-sources,WORKING FROM HOME EMISSIONS,Which heat sources best describe how you heat the room in your home that you usually work from?,,MULTIPLE OPTIONS - MULTIPLE CHOICE,"Options:
+ - Gas (natural gas; propane; LPG)
+ - Oil (diesel; kerosene; heating oil)
+ - Electricity
+ - Renewable / biomass 
+ - Coal
+ - District heating
+ - Other (please specify)",,,,,,¿Alguna vez usa alguna fuente de calor en la habitación en la que trabaja habitualmente en casa; durante las horas de trabajo? ,Esto incluye **cualquier** fuente de calor. Por ejemplo; puede usar calefacción central o calefacción urbana. O puede usar algo de menor escala; como paneles infrarrojos o una manta / tiro eléctrico que se pone de rodillas.,"Opciones:
+- Sí
+- No", , ,,Quelles sources de chaleur utilisez-vous le plus souvent pour chauffez la pièce de votre maison dans laquelle vous travaillez habituellement ?, ,"Options :
+ - Gaz (gaz naturel; propane; GPL)
+ - Huile (diesel; kérosène; mazout de chauffage)
+ - Électricité
+ - Énergies renouvelables / biomasse
+ - Charbon
+ - Chauffage collectif
+ - Autre (veuillez préciser)", , ,,Por favor; selecione as fontes de calor que melhor descrevem como você aquece o cômodo que você costuma trabalhar em sua casa., ,"Opções:
+ - Gás (gás natural; propano; GPL)
+- Óleo (diesel; querosene; óleo de aquecimento)
+- Eletricidade
+- Renováveis / biomassa
+- Carvão
+- Aquecimento urbano
+- Outro (especifique)", , 
+$,wfh-emissions_home-heating-sources-during-months-of-year-explanation,WORKING FROM HOME EMISSIONS,,"*Instructions:*
+
+Select all the heating sources you use in the room you usually work in. Then specify how many hours *of the working day* you use each heat source for on average within each month.
+
+E.g. if your gas furnace is typically on for 4 hours of your working day from Dec-Jan; select ""gas furnace"" and ""4"" in December and January in the question below. If you also use an electric throw for 2 hours of your working day in Jan; select ""electric blanket / throw"" and ""2"" in January.
+
+*Note:*
+ - If your usage or working room varies; please give your best estimate.
+ - You can add as many sources as applicable.
+ - If your heating is controlled automatically (e.g. ""always-on"" thermostat / centrally controlled system); select ""auto"" in the months your system is on.",,,,,,,,Seleccione las fuentes de calor que mejor describan cómo calienta la habitación de su hogar desde la que normalmente trabaja., ,"Opciones:
+ - Gas (gas natural; propano; GLP)
+- Aceite (diesel; queroseno; aceite de calefacción)
+- Electricidad
+- Renovable / biomasa
+- Carbón
+- Calefacción urbana
+- Otro (especifique)", , ,, ,"Instructions:  ""Sélectionnez toutes les sources de chauffage que vous utilisez dans la pièce où vous travaillez habituellement. Précisez ensuite combien d'heures *de la journée de travail* vous utilisez chaque source de chaleur en moyenne au cours de chaque mois.
+
+Par exemple; si votre chaudière à gaz fonctionne généralement pendant 4 heures de votre journée de travail de décembre à janvier; sélectionnez ""chaudière à gaz"" et ""4"" en décembre et janvier dans la question ci-dessous. Si vous utilisez également une couverture électrique pendant 2 heures de votre journée de travail en janvier; sélectionnez """"couverture électrique / couverture"""" et """"2"""" en janvier.
+
+*Note:*
+ - Si votre utilisation ou votre espace de travail varie; veuillez donner votre meilleure estimation.
+ - Vous pouvez ajouter autant de sources que nécessaire.
+ - Si votre chauffage est contrôlé automatiquement (par exemple; thermostat ""toujours allumé"" / système à commande centralisée); sélectionnez ""auto"" pour les mois où votre système est en marche.", , , ,, ,"Selecione todas as fontes de aquecimento que você usa. Em seguida; especifique quantas horas *durante o dia útil* você usa cada fonte de calor; em média; em cada mês.
+
+Por exemplo; se você usar um forno a gás de novembro a fevereiro; por 4 horas por dia enquanto estiver trabalhando; selecione ""forno a gás"" e depois ""4"" em novembro; dezembro; janeiro; fevereiro. Se você usar um cobertor elétrico por 2 horas por dia durante os meses mais frios; selecione ""cobertor / manta elétrica"" e depois ""2"" em dezembro e janeiro.
+
+Se o seu uso ou sala de trabalho variar; forneça sua melhor estimativa do seu uso médio. Você pode adicionar quantas fontes forem necessárias.
+
+Se sua fonte de aquecimento for controlada automaticamente (por exemplo; em um termostato ""sempre ligado"" ou sistema controlado centralmente); selecione ""automático"" nas listas suspensas nos meses em que seu sistema estiver ligado.", , , 
+$,wfh-emissions_home-heating-sources-during-months-of-year-gas,WORKING FROM HOME EMISSIONS,Tell us about the gas heating sources you use *in the room you usually work in at home*. ,Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. ,Table,"(Use heating table in ""WFH table"" tab)
+
+OPTIONS:
+ - Gas furnace
+ - Gas boiler
+ - Gas space heater / Portable gas heater",,,"* COLUMNS: 
+- Heating source
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+* AUTOMATIC OPTION: Automatic
+* ADD ROW TEXT: Add heating source
+* REMOVE ROW TEXT: Remove heating source
+* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different heating source",,, ,"Seleccione todas las fuentes de calefacción que utilice. Luego especifique cuántas horas *durante la jornada laboral * usa cada fuente de calor en promedio dentro de cada mes.
+
+Por ejemplo; si usa un horno de gas de noviembre a febrero; durante 4 horas al día mientras trabaja; seleccione ""horno de gas"" y luego ""4"" en noviembre; diciembre; enero; febrero. Si usa un tiro eléctrico durante 2 horas al día durante los meses más fríos; seleccione ""manta / tiro eléctrico"" y luego ""2"" en diciembre y enero.
+
+Si su uso o sala de trabajo varía; por favor dé su mejor estimación de su uso promedio. Puede agregar tantas fuentes como sea necesario.
+
+Si su fuente de calefacción se controla automáticamente (por ejemplo; en un termostato ""siempre encendido"" o un sistema controlado centralmente); seleccione ""automático"" en los menús desplegables en los meses en que su sistema está encendido.", , , ,,Indiquez-nous les sources de chauffage au gaz que vous utilisez *dans la pièce où vous travaillez habituellement à la maison*. ,Ajoutez toutes les sources de chauffage concernées et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. ,"(Utiliser la table de chauffage dans l'onglet ""Table WFH"")
+
+OPTIONS :
+ - Chaudière à gaz - Chaudière
+ à gaz
+ - Chauffage au gaz - Chauffage
+ au gaz portable","* COLONNES :
+- Source de chauffage
+- Janvier
+- Février
+- Mars
+- Avril
+- Mai
+- Juin
+- Juillet
+- Août
+- Septembre
+- Octobre
+- Novembre
+- Décembre
+
+* OPTION AUTOMATIQUE : Automatique
+* AJOUTER UN TEXTE DE LIGNE :
+Ajouter une source de chauffage
+* SUPPRIMER LE TEXTE
+DE LA LIGNE : Supprimer la source de chauffage
+* AUTRE TEXTE : Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ : Source de chauffage différente", ,,Conte-nos mais sobre as fontes de aquecimento a gás que você usa *no cômodo em que você costuma trabalhar em casa*; durante o horário de trabalho., ,"
+
+OPÇÕES:
+ - Fornalha a gás
+- Caldeira a gás
+- Aquecedor de ambiente a gás
+- Aquecedor de gás portátil","* COLUNAS:
+- Fonte de aquecimento
+- Janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro
+
+* OPÇÃO AUTOMÁTICA: Automático
+* ADICIONAR TEXTO DA LINHA: Adicionar fonte de aquecimento
+* REMOVER TEXTO DA LINHA: Remover fonte de aquecimento
+* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: Fonte de aquecimento diferente", 
+$,wfh-emissions_home-heating-sources-during-months-of-year-oil,WORKING FROM HOME EMISSIONS,Tell us more about the oil heating sources you use *in the room you usually work in at home*.,Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. ,Table,"(Use heating table in ""WFH table"" tab)
+
+OPTIONS:
+ - Oil furnace
+ - Oil boiler
+ - Oil space heater / Portable oil heater",,,"* COLUMNS: 
+- Heating source
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+* AUTOMATIC OPTION: Automatic
+* ADD ROW TEXT: Add heating source
+* REMOVE ROW TEXT: Remove heating source
+* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different heating source",,,Cuéntanos más sobre las fuentes de calefacción de gas que usas *en la habitación en la que trabajas habitualmente en casa*; durante las horas de trabajo., ,"
+
+OPCIONES:
+- Horno de gas
+- Caldera de gas
+- Calentador de gas
+- Calentador de gas portátil","* COLUMNAS:
+- Fuente de calefacción
+- Enero
+- Febrero
+- Marzo
+- Abril
+- Mayo
+- Junio
+- Julio
+- Agosto
+- Septiembre
+- Octubre
+- Noviembre
+- Diciembre
+
+* OPCIÓN AUTOMÁTICA: Automático
+* AÑADIR TEXTO DE FILA: Añadir fuente de calefacción
+* ELIMINAR EL TEXTO de la FILA: Eliminar fuente de calefacción
+* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: diferente fuente de calefacción", ,,Veuillez nous en dire plus sur les sources de chauffage à l'huile que vous utilisez *dans la pièce où vous travaillez habituellement à la maison*,Ajoutez toutes les sources de chauffage concernées et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. ,"(Utiliser la table de chauffage dans l'onglet ""Table WFH"")
+
+OPTIONS :
+ - Kérosène
+ - Diesel","* COLONNES :
+- Source de chauffage
+- Janvier
+- Février
+- Mars
+- Avril
+- Mai
+- Juin
+- Juillet
+- Août
+- Septembre
+- Octobre
+- Novembre
+- Décembre
+
+* OPTION AUTOMATIQUE : Automatique
+* AJOUTER UN TEXTE DE LIGNE :  Ajouter une source de chauffage
+* SUPPRIMER LE TEXTE DE LA LIGNE : Supprimer la source de chauffage
+* AUTRE TEXTE : Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ : Source de chauffage différente", ,,Conte-nos mais sobre as fontes de aquecimento a gás que você usa *no cômodo em que você costuma trabalhar em casa*; durante o horário de trabalho., ,"
+
+OPÇÕES:
+ - Fornalha a gás
+- Caldeira a gás
+- Aquecedor de ambiente a gás
+- Aquecedor de gás portátil","* COLUNAS:
+- Fonte de aquecimento
+- janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro
+
+* OPÇÃO AUTOMÁTICA: Automático
+* ADICIONAR TEXTO DA LINHA: Adicionar fonte de aquecimento
+* REMOVER TEXTO DA LINHA: Remover fonte de aquecimento
+* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: Fonte de aquecimento diferente", 
+$,wfh-emissions_home-heating-sources-during-months-of-year-electricity,WORKING FROM HOME EMISSIONS,Tell us more about the electricity heating sources you use *in the room you usually work in at home*.,Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. ,Table,"(Use heating table in ""WFH table"" tab)
+
+OPTIONS:
+ - Electric boiler
+ - Electric space heater
+ - Small plug-in electric heater
+ - Electric blanket / throw
+ - Air source heat pump
+ - Ground source heat pump
+ - Water source heat pump",,,"* COLUMNS: 
+- Heating source
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+* AUTOMATIC OPTION: Automatic
+* ADD ROW TEXT: Add heating source
+* REMOVE ROW TEXT: Remove heating source
+* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different heating source",,,Cuéntanos más sobre las fuentes de calefacción de gas que usas *en la habitación en la que trabajas habitualmente en casa*; durante las horas de trabajo., ,"
+
+OPCIONES:
+- Horno de gas
+- Caldera de gas
+- Calentador de gas
+- Calentador de gas portátil","* COLUMNAS:
+- Fuente de calefacción
+- Enero
+- Febrero
+- Marzo
+- Abril
+- Mayo
+- Junio
+- Julio
+- Agosto
+- Septiembre
+- Octubre
+- Noviembre
+- Diciembre
+
+* OPCIÓN AUTOMÁTICA: Automático
+* AÑADIR TEXTO DE FILA: Añadir fuente de calefacción
+* ELIMINAR EL TEXTO de la FILA: Eliminar fuente de calefacción
+* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: diferente fuente de calefacción", ,,Veuillez nous en dire plus sur les sources de chauffage éléctriques que vous utilisez *dans la pièce où vous travaillez habituellement à la maison*,Ajoutez toutes les sources de chauffage concernées et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. ,"(Utiliser la table de chauffage dans l'onglet ""Table WFH"")
+
+OPTIONS :
+ - Chaudière électrique
+ - Chauffage électrique d'appoint
+ - Petit chauffage électrique 
+ - Couverture électrique
+ - Pompe à chaleur à air
+ - Pompe à chaleur géothermique
+ - Pompe à chaleur à eau","* COLONNES :
+- Source de chauffage
+- Janvier
+- Février
+- Mars
+- Avril
+- Mai
+- Juin
+- Juillet
+- Août
+- Septembre
+- Octobre
+- Novembre
+- Décembre
+
+* OPTION AUTOMATIQUE : Automatique
+* AJOUTER UN TEXTE DE LIGNE : Ajouter une source de chauffage
+* SUPPRIMER LE TEXTE DE LA LIGNE : Supprimer la source de chauffage
+* AUTRE TEXTE : Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ : Source de chauffage différente", ,,Conte-nos mais sobre as fontes de aquecimento a gás que você usa *no cômodo em que você costuma trabalhar em casa*; durante o horário de trabalho., ,"
+
+OPÇÕES:
+ - Caldeira elétrica
+- Aquecedor de ambiente elétrico
+- Aquecedor elétrico portátil
+- Cobertor / manta elétrica
+- Bomba de calor de fonte de ar
+- Bomba de calor de fonte de solo
+- Bomba de calor de fonte de água","* COLUNAS:
+- Fonte de aquecimento
+- janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro
+
+* OPÇÃO AUTOMÁTICA: Automático
+* ADICIONAR TEXTO DA LINHA: Adicionar fonte de aquecimento
+* REMOVER TEXTO DA LINHA: Remover fonte de aquecimento
+* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: Fonte de aquecimento diferente", 
+$,wfh-emissions_home-heating-sources-during-months-of-year-renewable,WORKING FROM HOME EMISSIONS,Tell us more about the renewable / biomass heating sources you use *in the room you usually work in at home*.,Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. ,Table,"(Use heating table in ""WFH table"" tab)
+
+OPTIONS:
+ - Solar heating (hot water system)
+ - Wood burner system (logs; pellets; chips)
+ - Geothermal (natural; not electric heat pump)
+ - Hydrogen fuel cells",,,"* COLUMNS: 
+- Heating source
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+* AUTOMATIC OPTION: Automatic
+* ADD ROW TEXT: Add heating source
+* REMOVE ROW TEXT: Remove heating source
+* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different heating source",,,Cuéntanos más sobre las fuentes de calefacción de gas que usas *en la habitación en la que trabajas habitualmente en casa*; durante las horas de trabajo., ,"
+
+OPCIONES:
+- Caldera eléctrica
+- Calentador de espacio eléctrico
+- Calentador eléctrico portátil
+- Manta / tiro eléctrico
+- Bomba de calor de fuente de aire
+- Bomba de calor de fuente de tierra
+- Bomba de calor de fuente de agua","* COLUMNAS:
+- Fuente de calefacción
+- Enero
+- Febrero
+- Marzo
+- Abril
+- Mayo
+- Junio
+- Julio
+- Agosto
+- Septiembre
+- Octubre
+- Noviembre
+- Diciembre
+
+* OPCIÓN AUTOMÁTICA: Automático
+* AÑADIR TEXTO DE FILA: Añadir fuente de calefacción
+* ELIMINAR EL TEXTO de la FILA: Eliminar fuente de calefacción
+* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: diferente fuente de calefacción", ,,Veuillez nous en dire plus sur les sources de chauffage renouvelables que vous utilisez *dans la pièce où vous travaillez habituellement à la maison*,Ajoutez toutes les sources de chauffage concernées et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. ,"
+
+OPTIONS :
+ - Chauffage solaire (système d'eau chaude)
+ - Système de poêle à bois (bûches; granulés; copeaux)
+ - Géothermie (naturelle; pas de pompe à chaleur électrique)
+ - Piles à combustible à hydrogène","* COLONNES :
+- Source de chauffage
+- Janvier
+- Février
+- Mars
+- Avril
+- Mai
+- Juin
+- Juillet
+- Août
+- Septembre
+- Octobre
+- Novembre
+- Décembre
+
+* OPTION AUTOMATIQUE : Automatique
+* AJOUTER UN TEXTE DE LIGNE : Ajouter une source de chauffage
+* SUPPRIMER LE TEXTE DE LA LIGNE : Supprimer la source de chauffage
+* AUTRE TEXTE : Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ : Source de chauffage différente", ,,Conte-nos mais sobre as fontes de aquecimento a gás que você usa *no cômodo em que você costuma trabalhar em casa*; durante o horário de trabalho., ,"
+
+OPÇÕES:
+ - Aquecimento solar (sistema de água quente)
+- Sistema de queimador de madeira (toras; pellets; cavacos)
+- Geotérmica (bomba de calor natural; não elétrica)
+- Células de combustível de hidrogênio","* COLUNAS:
+- Fonte de aquecimento
+- janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro
+
+* OPÇÃO AUTOMÁTICA: Automático
+* ADICIONAR TEXTO DA LINHA: Adicionar fonte de aquecimento
+* REMOVER TEXTO DA LINHA: Remover fonte de aquecimento
+* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: Fonte de aquecimento diferente", 
+$,wfh-emissions_home-heating-sources-during-months-of-year-coal,WORKING FROM HOME EMISSIONS,Tell us more about the coal heating sources you use *in the room you usually work in at home*.,Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. ,Table,"(Use heating table in ""WFH table"" tab)
+
+OPTIONS:
+ - Coal furnace
+ - Coal burner
+ - Coal space heater
+ - Coal fireplace
+",,,"* COLUMNS: 
+- Heating source
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+* AUTOMATIC OPTION: Automatic
+* ADD ROW TEXT: Add heating source
+* REMOVE ROW TEXT: Remove heating source
+* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different heating source",,,Cuéntanos más sobre las fuentes de calefacción de gas que usas *en la habitación en la que trabajas habitualmente en casa*; durante las horas de trabajo., ,"
+
+OPCIONES:
+ - Calefacción solar (sistema de agua caliente)
+- Sistema de quemador de madera (troncos; pellets; astillas)
+- Geotérmica (bomba de calor natural; no eléctrica)
+- Pilas de combustible de hidrógeno","* COLUMNAS:
+- Fuente de calefacción
+- Enero
+- Febrero
+- Marzo
+- Abril
+- Mayo
+- Junio
+- Julio
+- Agosto
+- Septiembre
+- Octubre
+- Noviembre
+- Diciembre
+
+* OPCIÓN AUTOMÁTICA: Automático
+* AÑADIR TEXTO DE FILA: Añadir fuente de calefacción
+* ELIMINAR EL TEXTO de la FILA: Eliminar fuente de calefacción
+* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: diferente fuente de calefacción", ,,Veuillez nous en dire plus sur les sources de chauffage au charbon que vous utilisez *dans la pièce où vous travaillez habituellement à la maison*,Ajoutez toutes les sources de chauffage concernées et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. ,"
+
+OPTIONS :
+ - Four à charbon
+ - Brûleur à charbon
+ - Chauffe-eau à charbon
+ - Cheminée à charbon","* COLONNES :
+- Source de chauffage
+- Janvier
+- Février
+- Mars
+- Avril
+- Mai
+- Juin
+- Juillet
+- Août
+- Septembre
+- Octobre
+- Novembre
+- Décembre
+
+* OPTION AUTOMATIQUE : Automatique
+* AJOUTER UN TEXTE DE LIGNE : Ajouter une source de chauffage
+* SUPPRIMER LE TEXTE DE LA LIGNE : Supprimer la source de chauffage
+* AUTRE TEXTE : Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ : Source de chauffage différente", ,,Conte-nos mais sobre as fontes de aquecimento a gás que você usa *no cômodo em que você costuma trabalhar em casa*; durante o horário de trabalho., ,"
+
+OPÇÕES:
+ - Forno de carvão
+- Queimador de carvão
+- Aquecedor de carvão
+- Lareira de carvão","* COLUNAS:
+- Fonte de aquecimento
+- janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro
+
+* OPÇÃO AUTOMÁTICA: Automático
+* ADICIONAR TEXTO DA LINHA: Adicionar fonte de aquecimento
+* REMOVER TEXTO DA LINHA: Remover fonte de aquecimento
+* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: Fonte de aquecimento diferente", 
+$,wfh-emissions_home-heating-sources-during-months-of-year-district-heating,WORKING FROM HOME EMISSIONS,Tell us more about the district heating sources you use *in the room you usually work in at home*; during working hours.,Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. ,Table,"(Use heating table in ""WFH table"" tab)
+",,,"* COLUMNS: 
+- Heating source
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+* AUTOMATIC OPTION: Automatic
+* ADD ROW TEXT: Add heating source
+* REMOVE ROW TEXT: Remove heating source
+* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different heating source",,,Cuéntanos más sobre las fuentes de calefacción de gas que usas *en la habitación en la que trabajas habitualmente en casa*; durante las horas de trabajo., ,"
+OPCIONES:
+- Horno de carbón
+- Quemador de carbón
+- Calentador de carbón
+- Chimenea de carbón","* COLUMNAS:
+- Fuente de calefacción
+- Enero
+- Febrero
+- Marzo
+- Abril
+- Mayo
+- Junio
+- Julio
+- Agosto
+- Septiembre
+- Octubre
+- Noviembre
+- Diciembre
+
+* OPCIÓN AUTOMÁTICA: Automático
+* AÑADIR TEXTO DE FILA: Añadir fuente de calefacción
+* ELIMINAR EL TEXTO de la FILA: Eliminar fuente de calefacción
+* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: diferente fuente de calefacción", ,,Veuillez nous en dire plus sur les sources de chauffage collectifs que vous utilisez *dans la pièce où vous travaillez habituellement à la maison*,Ajoutez toutes les sources de chauffage concernées et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. ,,"* COLONNES :
+- Source de chauffage
+- Janvier
+- Février
+- Mars
+- Avril
+- Mai
+- Juin
+- Juillet
+- Août
+- Septembre
+- Octobre
+- Novembre
+- Décembre
+
+* OPTION AUTOMATIQUE : Automatique
+* AJOUTER UN TEXTE DE LIGNE : Ajouter une source de chauffage
+* SUPPRIMER LE TEXTE DE LA LIGNE : Supprimer la source de chauffage
+* AUTRE TEXTE : Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ : Source de chauffage différente", ,,Conte-nos mais sobre as fontes de aquecimento a gás que você usa *no cômodo em que você costuma trabalhar em casa*; durante o horário de trabalho., ,,"* COLUNAS:
+- Fonte de aquecimento
+- Janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro
+
+* OPÇÃO AUTOMÁTICA: Automático
+* ADICIONAR TEXTO DA LINHA: Adicionar fonte de aquecimento
+* REMOVER TEXTO DA LINHA: Remover fonte de aquecimento
+* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: Fonte de aquecimento diferente", 
