@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "KlJeaD8OY2I+xAcNE/iOTShp/vVNwDunwcvqmKvC/4edhqjMCMw7RZB5c7lcS9jT/fsOJs4LwmLuqywAcjMDzQ==",
+  "dgSpecHash": "aNyB/Etj5ANbl/dhDb33oDpubOZIrIz7arHpKZdXDwfwz4by28DoBLbFkhOVVY2LxBcyqaqf8c8bklKWemK9IA==",
   "success": true,
   "projectFilePath": "C:\\Users\\anton.yurchenko\\Documents\\Prog\\C#\\Survey\\Survey.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\anton.yurchenko\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\anton.yurchenko\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\anton.yurchenko\\.nuget\\packages\\syncfusion.compression.net.core\\21.2.6\\syncfusion.compression.net.core.21.2.6.nupkg.sha512",
+    "C:\\Users\\anton.yurchenko\\.nuget\\packages\\syncfusion.licensing\\21.2.6\\syncfusion.licensing.21.2.6.nupkg.sha512",
+    "C:\\Users\\anton.yurchenko\\.nuget\\packages\\syncfusion.xlsio.net.core\\21.2.6\\syncfusion.xlsio.net.core.21.2.6.nupkg.sha512"
   ],
   "logs": []
 }

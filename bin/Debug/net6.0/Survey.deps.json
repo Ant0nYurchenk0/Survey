@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "Survey/1.0.0": {
         "dependencies": {
-          "Newtonsoft.Json": "13.0.3"
+          "Newtonsoft.Json": "13.0.3",
+          "Syncfusion.XlsIO.Net.Core": "21.2.6"
         },
         "runtime": {
           "Survey.dll": {}
@@ -19,6 +20,34 @@
           "lib/net6.0/Newtonsoft.Json.dll": {
             "assemblyVersion": "13.0.0.0",
             "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "Syncfusion.Compression.Net.Core/21.2.6": {
+        "runtime": {
+          "lib/net6.0/Syncfusion.Compression.Portable.dll": {
+            "assemblyVersion": "21.2.6.0",
+            "fileVersion": "21.2.6.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/21.2.6": {
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "21.2.6.0",
+            "fileVersion": "21.2.6.0"
+          }
+        }
+      },
+      "Syncfusion.XlsIO.Net.Core/21.2.6": {
+        "dependencies": {
+          "Syncfusion.Compression.Net.Core": "21.2.6",
+          "Syncfusion.Licensing": "21.2.6"
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.XlsIO.Portable.dll": {
+            "assemblyVersion": "21.2.6.0",
+            "fileVersion": "21.2.6.0"
           }
         }
       }
@@ -36,6 +65,27 @@
       "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
       "path": "newtonsoft.json/13.0.3",
       "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "Syncfusion.Compression.Net.Core/21.2.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PAk5FomXLreSLtcJfoK/DyTkXRtXuB9huKw6lWf+FtvBnHL0S5jcWk+EMdctJKVTE+NFNOWnCiooUkVozJftzA==",
+      "path": "syncfusion.compression.net.core/21.2.6",
+      "hashPath": "syncfusion.compression.net.core.21.2.6.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/21.2.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1HbmjYmpI+KsaDYIEeqLuqVECL8hM6+T6Hem6rkCoYLoljUx+6X1oKxJs0qhsPo0bCtng1le8GG6j0HQF6B/mg==",
+      "path": "syncfusion.licensing/21.2.6",
+      "hashPath": "syncfusion.licensing.21.2.6.nupkg.sha512"
+    },
+    "Syncfusion.XlsIO.Net.Core/21.2.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1GSR7hB+pGjUrEz9mFipSL3EGnWrxDd7hvkyeu/iOYO8wesTngOIcgDTizw1dMsZ7c4g+DjZpM2koP2jMY+7tg==",
+      "path": "syncfusion.xlsio.net.core/21.2.6",
+      "hashPath": "syncfusion.xlsio.net.core.21.2.6.nupkg.sha512"
     }
   }
 }

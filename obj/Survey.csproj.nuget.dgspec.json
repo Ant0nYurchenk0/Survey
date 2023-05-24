@@ -13,9 +13,13 @@
         "packagesPath": "C:\\Users\\anton.yurchenko\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\anton.yurchenko\\Documents\\Prog\\C#\\Survey\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\21.2.3\\ToolboxNuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\anton.yurchenko\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -44,6 +48,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
+            },
+            "Syncfusion.XlsIO.Net.Core": {
+              "target": "Package",
+              "version": "[21.2.6, )"
             }
           },
           "imports": [

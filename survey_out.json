@@ -60,16 +60,16 @@
     {
       "name": "valtech-employment-section",
       "title": {
-        "Default": "Valtech employment",
-        "es": "",
-        "fr": "",
-        "pt_BR": ""
+        "Default": "Valtech employment section",
+        "es": "Sección de empleo de Valtech",
+        "fr": "Section emploi Valtech",
+        "pt_BR": "Seção: o trabalho na Valtech"
       },
       "description": {
         "Default": "Firstly, we're going to ask you about your working patterns and location in 2022. These are key inputs to emissions calculations!",
-        "es": "",
-        "fr": "",
-        "pt_BR": ""
+        "es": "En primer lugar, le preguntaremos sobre sus patrones de trabajo y ubicación en 2022. ¡Estos son insumos clave para los cálculos de emisiones!",
+        "fr": "Tout d'abord, nous allons vous poser des questions sur vos habitudes et vos lieux de travail en 2022. Ce sont des données clés pour le calcul des émissions !",
+        "pt_BR": "Em primeiro lugar, vamos perguntar sobre seus padrões de trabalho e localização em 2022. Estes são os principais insumos para os cálculos de emissões!"
       },
       "elements": [
         {
@@ -81,25 +81,25 @@
               "name": "employment_start-date-year",
               "title": {
                 "Default": "When did you start working at Valtech?",
-                "es": "�Cu�ndo empezaste a trabajar en Valtech?",
-                "fr": "Quand avez-vous commenc� � travailler chez Valtech?",
-                "pt_BR": "Quando voc� come�ou a trabalhar na Valtech?"
+                "es": "¿Cuándo empezaste a trabajar en Valtech?",
+                "fr": "Quand avez-vous commencé à travailler chez Valtech?",
+                "pt_BR": "Quando você começou a trabalhar na Valtech?"
               },
               "description": {
                 "Default": "If your company was acquired by Valtech, please answer according to when you started working at your original company.",
-                "es": "Si su empresa fue adquirida por Valtech, responda de acuerdo con cuando comenz� a trabajar en su empresa original.",
-                "fr": "Si votre entreprise a �t� acquise par Valtech, veuillez r�pondre en fonction du moment o� vous avez commenc� � travailler dans votre entreprise d'origine.",
-                "pt_BR": "Se sua empresa foi adquirida pela Valtech, responda de acordo com quando voc� come�ou a trabalhar em sua empresa original."
+                "es": "Si su empresa fue adquirida por Valtech, responda de acuerdo con cuando comenzó a trabajar en su empresa original.",
+                "fr": "Si votre entreprise a été acquise par Valtech, veuillez répondre en fonction du moment où vous avez commencé à travailler dans votre entreprise d'origine.",
+                "pt_BR": "Se sua empresa foi adquirida pela Valtech, responda de acordo com quando você começou a trabalhar em sua empresa original."
               },
               "isRequired": true,
               "choices": [
                 {
-                  "value": "Options:",
+                  "value": "\"Options:",
                   "text": {
-                    "Default": "Options:",
-                    "es": "Opciones:",
-                    "fr": "Options",
-                    "pt_BR": "Op��es:"
+                    "Default": "\"Options:",
+                    "es": "\"Opciones:",
+                    "fr": "\"Options",
+                    "pt_BR": "\"Opções:"
                   }
                 },
                 {
@@ -129,9 +129,9 @@
               "visibleIf": "{employment_start-date-year} = \"During 2022\"",
               "title": {
                 "Default": "In which month did you start working at Valtech in that year?",
-                "es": "�En qu� mes comenz� a trabajar en Valtech en ese a�o?",
-                "fr": "En quel mois avez-vous commenc� � travailler chez Valtech cette ann�e-l�?",
-                "pt_BR": "Em que m�s voc� come�ou a trabalhar na Valtech naquele ano?"
+                "es": "¿En qué mes comenzó a trabajar en Valtech en ese año?",
+                "fr": "En quel mois avez-vous commencé à travailler chez Valtech cette année-là?",
+                "pt_BR": "Em que mês você começou a trabalhar na Valtech naquele ano?"
               },
               "isRequired": true,
               "choicesByUrl": {
@@ -152,15 +152,15 @@
               "name": "employment_base-office-moved",
               "title": {
                 "Default": "Did you move your base / normal Valtech office in 2022?",
-                "es": "�Traslad� su oficina base / normal de Valtech en 2022?",
-                "fr": "Avez-vous chang� de bureau \"de base\" Valtech en 2022?",
-                "pt_BR": "Voc� mudou sua base /escrit�rio normal da Valtech em 2022?"
+                "es": "¿Trasladó su oficina base / normal de Valtech en 2022?",
+                "fr": "\"Avez-vous changé de bureau \"\"de base\"\" Valtech en 2022?\"",
+                "pt_BR": "Você mudou sua base /escritório normal da Valtech em 2022?"
               },
               "description": {
                 "Default": "\"By \"\"base / normal office\"\", we mean the Valtech office you officially formed a part of in 2022. This may or may not have been your closest office, geographically, but it should be the main Valtech office you went to in 2022 if / when you commuted. \n\nIf you don't have a base office, please select \"\"No\"\".\"",
-                "es": "\"Por \"\"oficina base / normal\"\", nos referimos a la oficina de Valtech de la que formaste parte oficialmente en 2022. Esta puede o no haber sido su oficina m�s cercana, geogr�ficamente, pero deber�a ser la oficina principal de Valtech a la que fue en 2022 si / cuando viaj�.\n\nSi no tienes una oficina base, seleccione \"\"No\"\".\"",
-                "fr": "\"Par \"\"bureau de base\"\", nous entendons le bureau de Valtech dont vous faisiez officiellement partie en 2022. Il s'agit du bureau Valtech o� vous vous �tes rendu le plus souvent en 2022.\n\nSi vous n'avez pas de bureau de base, veuillez s�lectionner \"\"Non\"\".\"",
-                "pt_BR": "\"Por \"\"escrit�rio base / normal\"\", queremos dizer o escrit�rio da Valtech do qual voc� fez parte oficialmente em 2022. Este pode ou n�o ter sido o seu escrit�rio mais pr�ximo, geograficamente, mas deve ser o escrit�rio principal da Valtech que voc� visitou em 2022 se / quando voc� comutou.\n\nSe voc� n�o tiver um escrit�rio base, selecione \"\"N�o\"\".\""
+                "es": "\"Por \"\"oficina base / normal\"\", nos referimos a la oficina de Valtech de la que formaste parte oficialmente en 2022. Esta puede o no haber sido su oficina más cercana, geográficamente, pero debería ser la oficina principal de Valtech a la que fue en 2022 si / cuando viajó.\n\nSi no tienes una oficina base, seleccione \"\"No\"\".\"",
+                "fr": "\"Par \"\"bureau de base\"\", nous entendons le bureau de Valtech dont vous faisiez officiellement partie en 2022. Il s'agit du bureau Valtech où vous vous êtes rendu le plus souvent en 2022.\n\nSi vous n'avez pas de bureau de base, veuillez sélectionner \"\"Non\"\".\"",
+                "pt_BR": "\"Por \"\"escritório base / normal\"\", queremos dizer o escritório da Valtech do qual você fez parte oficialmente em 2022. Este pode ou não ter sido o seu escritório mais próximo, geograficamente, mas deve ser o escritório principal da Valtech que você visitou em 2022 se / quando você comutou.\n\nSe você não tiver um escritório base, selecione \"\"Não\"\".\""
               },
               "DefaultValue": "false",
               "isRequired": true
@@ -169,16 +169,16 @@
               "type": "dropdown",
               "name": "employment_base-office-location",
               "title": {
-                "Default": "Which was your base / normal Valtech office in 2022? ",
-                "es": "�Cu�l era su oficina base / normal de Valtech en 2022? ",
-                "fr": "Quel �tait votre bureau \"de base\" Valtech en 2022? ",
-                "pt_BR": "Qual era o seu escrit�rio base / normal da Valtech em 2022? "
+                "Default": "Which was your base / normal Valtech office in 2022?",
+                "es": "¿Cuál era su oficina base / normal de Valtech en 2022?",
+                "fr": "\"Quel était votre bureau \"\"de base\"\" Valtech en 2022? \"",
+                "pt_BR": "Qual era o seu escritório base / normal da Valtech em 2022?"
               },
               "description": {
-                "Default": "If your contract shows that you are based 100% at home, please select \"I don't have a base office\"",
-                "es": "Si su contrato muestra que usted est� basado 100% en casa, por favor seleccione \"No tengo una oficina base\"",
-                "fr": "Si votre contrat montre que vous �tes 100% en t�l�travail (full remote), veuillez s�lectionner \"Je n'ai pas de bureau de base\"",
-                "pt_BR": "Se o seu contrato disser que voc� est� 100% em casa, selecione \"Eu n�o tenho um escrit�rio base\""
+                "Default": "\"If your contract shows that you are based 100% at home, please select \"\"I don't have a base office\"\"\"",
+                "es": "\"Si su contrato muestra que usted está basado 100% en casa, por favor seleccione \"\"No tengo una oficina base\"\"\"",
+                "fr": "\"Si votre contrat montre que vous êtes 100% en télétravail (full remote), veuillez sélectionner \"\"Je n'ai pas de bureau de base\"\"\"",
+                "pt_BR": "\"Se o seu contrato disser que você está 100% em casa, selecione \"\"Eu não tenho um escritório base\"\"\""
               },
               "visibleIf": "{employment_base-office-moved} = false",
               "isRequired": true,
@@ -190,15 +190,15 @@
               "showOtherItem": true,
               "otherPlaceholder": {
                 "Default": "Different office",
-                "es": "",
-                "fr": "",
-                "pt_BR": ""
+                "es": "Oficina diferente",
+                "fr": "Bureau différent",
+                "pt_BR": "escritório diferente"
               },
               "otherText": {
                 "Default": "Other (please specify)",
-                "es": "",
-                "fr": "",
-                "pt_BR": ""
+                "es": "Otro (especifique)",
+                "fr": "Autre (veuillez préciser)",
+                "pt_BR": "Outro (especifique)"
               }
             },
             {
@@ -210,9 +210,9 @@
                   "name": "employment_base-office-location-original",
                   "title": {
                     "Default": "Which was the base / normal Valtech office you had at the start of 2022?",
-                    "es": "�Cu�l era la oficina de Valtech base / normal que ten�a a principios de 2022?",
-                    "fr": "Quel �tait le bureau de base de Valtech que vous aviez au d�but de 2022?",
-                    "pt_BR": "Qual era o escrit�rio base / normal da Valtech que voc� tinha no in�cio de 2022?"
+                    "es": "¿Cuál era la oficina de Valtech base / normal que tenía a principios de 2022?",
+                    "fr": "Quel était le bureau de base de Valtech que vous aviez au début de 2022?",
+                    "pt_BR": "Qual era o escritório base / normal da Valtech que você tinha no início de 2022?"
                   },
                   "isRequired": true,
                   "choicesByUrl": {
@@ -223,15 +223,15 @@
                   "showOtherItem": true,
                   "otherPlaceholder": {
                     "Default": "Different office",
-                    "es": "",
-                    "fr": "",
-                    "pt_BR": ""
+                    "es": "Oficina diferente",
+                    "fr": "Bureau différent",
+                    "pt_BR": "escritório diferente"
                   },
                   "otherText": {
                     "Default": "Other (please specify)",
-                    "es": "",
-                    "fr": "",
-                    "pt_BR": ""
+                    "es": "Otro (especifique)",
+                    "fr": "Autre (veuillez préciser)",
+                    "pt_BR": "Outro (especifique)"
                   }
                 },
                 {
@@ -239,15 +239,15 @@
                   "name": "employment_base-office-location-new",
                   "title": {
                     "Default": "Which was the base / normal Valtech office you moved to during the course of 2022?",
-                    "es": "�Cu�l fue la oficina base / normal de Valtech a la que se mud� durante el transcurso de 2022?",
-                    "fr": "Quel �tait le bureau de base Valtech dans lequel vous avez d�m�nag� au cours de l'ann�e 2022?",
-                    "pt_BR": "Qual foi o escrit�rio base/ normal da Valtech para o qual voc� se mudou durante o ano de 2022?"
+                    "es": "¿Cuál fue la oficina base / normal de Valtech a la que se mudó durante el transcurso de 2022?",
+                    "fr": "Quel était le bureau de base Valtech dans lequel vous avez déménagé au cours de l'année 2022?",
+                    "pt_BR": "Qual foi o escritório base/ normal da Valtech para o qual você se mudou durante o ano de 2022?"
                   },
                   "description": {
-                    "Default": "If you moved offices more than once in 2022, please select the office you ended the year in. ",
-                    "es": "Si mud� oficinas m�s de una vez en 2022, seleccione la oficina en la que termin� el a�o. ",
-                    "fr": "Si vous avez d�m�nag� plus d'une fois en 2022, veuillez s�lectionner le bureau dans lequel vous avez termin� l'ann�e. ",
-                    "pt_BR": "Se voc� mudou de escrit�rio mais de uma vez em 2022, selecione o escrit�rio em que terminou o ano. "
+                    "Default": "If you moved offices more than once in 2022, please select the office you ended the year in.",
+                    "es": "Si mudó oficinas más de una vez en 2022, seleccione la oficina en la que terminó el año.",
+                    "fr": "Si vous avez déménagé plus d'une fois en 2022, veuillez sélectionner le bureau dans lequel vous avez terminé l'année.",
+                    "pt_BR": "Se você mudou de escritório mais de uma vez em 2022, selecione o escritório em que terminou o ano."
                   },
                   "isRequired": true,
                   "choicesByUrl": {
@@ -258,15 +258,15 @@
                   "showOtherItem": true,
                   "otherPlaceholder": {
                     "Default": "Different office",
-                    "es": "",
-                    "fr": "",
-                    "pt_BR": ""
+                    "es": "Oficina diferente",
+                    "fr": "Bureau différent",
+                    "pt_BR": "escritório diferente"
                   },
                   "otherText": {
                     "Default": "Other (please specify)",
-                    "es": "",
-                    "fr": "",
-                    "pt_BR": ""
+                    "es": "Otro (especifique)",
+                    "fr": "Autre (veuillez préciser)",
+                    "pt_BR": "Outro (especifique)"
                   }
                 }
               ]
@@ -276,15 +276,15 @@
               "name": "employment_business-unit",
               "title": {
                 "Default": "Which Valtech business unit / service line / team do you work for?",
-                "es": "�Para qu� unidad de negocio/l�nea de servicio/ equipo de Valtech trabaja?",
-                "fr": "Pour quelle unit� commerciale/ligne de service/ �quipe Valtech travaillez-vous?",
-                "pt_BR": "Para qual unidade de neg�cios / linha de servi�o/ equipe da Valtech voc� trabalha?"
+                "es": "¿Para qué unidad de negocio/línea de servicio/ equipo de Valtech trabaja?",
+                "fr": "Pour quelle unité commerciale/ligne de service/ équipe Valtech travaillez-vous?",
+                "pt_BR": "Para qual unidade de negócios / linha de serviço/ equipe da Valtech você trabalha?"
               },
               "description": {
                 "Default": "This is the team you work for, day-to-day, irrespective of where you live. For example, you might live in Germany but work for Valtech France. Please look at the whole list before answering.",
-                "es": "Este es el equipo para el que trabajas, d�a a d�a, independientemente de d�nde vivas. Por ejemplo, puedes vivir en Alemania, pero trabajar para Valtech Francia. Por favor, mire toda la lista antes de responder.",
-                "fr": "C'est l'�quipe pour laquelle vous travaillez, au jour le jour, quel que soit l'endroit o� vous vivez. Par exemple, vous pourriez vivre en Allemagne mais travailler pour Valtech France. Veuillez consulter la liste compl�te avant de r�pondre.",
-                "pt_BR": "Esta � a equipe para a qual voc� trabalha, no dia-a-dia, independentemente de onde voc� mora. Por exemplo, voc� pode morar na Alemanha, mas trabalhar para a Valtech Fran�a. Veja a lista completa antes de responder."
+                "es": "Este es el equipo para el que trabajas, día a día, independientemente de dónde vivas. Por ejemplo, puedes vivir en Alemania, pero trabajar para Valtech Francia. Por favor, mire toda la lista antes de responder.",
+                "fr": "C'est l'équipe pour laquelle vous travaillez, au jour le jour, quel que soit l'endroit où vous vivez. Par exemple, vous pourriez vivre en Allemagne mais travailler pour Valtech France. Veuillez consulter la liste complète avant de répondre.",
+                "pt_BR": "Esta é a equipe para a qual você trabalha, no dia-a-dia, independentemente de onde você mora. Por exemplo, você pode morar na Alemanha, mas trabalhar para a Valtech França. Veja a lista completa antes de responder."
               },
               "isRequired": true,
               "choicesByUrl": {
@@ -294,9 +294,9 @@
               },
               "placeholder": {
                 "Default": "Select your business unit...",
-                "es": "",
-                "fr": "",
-                "pt_BR": ""
+                "es": "Seleccione su unidad de negocio...",
+                "fr": "Sélectionnez votre unité d'affaires...",
+                "pt_BR": "Selecione sua unidade de negócios..."
               }
             },
             {
@@ -304,15 +304,15 @@
               "name": "employment_home-country",
               "title": {
                 "Default": "Which country did you live in, in 2022?",
-                "es": "�En qu� pa�s vivi� en 2022?",
-                "fr": "Dans quel pays avez-vous v�cu en 2022?",
-                "pt_BR": "Em que pa�s voc� morou, em 2022?"
+                "es": "¿En qué país vivió en 2022?",
+                "fr": "Dans quel pays avez-vous vécu en 2022?",
+                "pt_BR": "Em que país você morou, em 2022?"
               },
               "description": {
                 "Default": "This will help us to determine the emission intensity of your local grid. If you split your working time between houses in different areas / countries, or moved area / country during 2022, please answer according to the location in which you spent the majority of the year.",
-                "es": "Esto nos ayudar� a determinar la intensidad de emisi�n de su red local. Si dividi� su tiempo de trabajo entre casas en diferentes �reas / pa�ses, o se mud� de �rea / pa�s durante 2022, responda de acuerdo con la ubicaci�n en la que pas� la mayor parte del a�o.",
-                "fr": "Cela nous aidera � d�terminer l'intensit� des �missions de votre r�seau �lectrique local. Si vous partagez votre temps de travail entre des maisons situ�es dans diff�rentes zones / pays ou dans une zone /un pays d�plac� en 2022, veuillez r�pondre en fonction du lieu o� vous avez pass� la majeure partie de l'ann�e.",
-                "pt_BR": "Isso nos ajudar� a determinar a intensidade de emiss�o de sua rede local. Se voc� dividir seu tempo de trabalho entre casas em diferentes �reas / pa�ses ou mudou de �rea / pa�s durante 2022, responda de acordo com o local em que passou a maior parte do ano."
+                "es": "Esto nos ayudará a determinar la intensidad de emisión de su red local. Si dividió su tiempo de trabajo entre casas en diferentes áreas / países, o se mudó de área / país durante 2022, responda de acuerdo con la ubicación en la que pasó la mayor parte del año.",
+                "fr": "Cela nous aidera à déterminer l'intensité des émissions de votre réseau électrique local. Si vous partagez votre temps de travail entre des maisons situées dans différentes zones / pays ou dans une zone /un pays déplacé en 2022, veuillez répondre en fonction du lieu où vous avez passé la majeure partie de l'année.",
+                "pt_BR": "Isso nos ajudará a determinar a intensidade de emissão de sua rede local. Se você dividir seu tempo de trabalho entre casas em diferentes áreas / países ou mudou de área / país durante 2022, responda de acordo com o local em que passou a maior parte do ano."
               },
               "isRequired": true,
               "choicesByUrl": {
@@ -322,22 +322,22 @@
               },
               "placeholder": {
                 "Default": "Select your country...",
-                "es": "",
-                "fr": "",
-                "pt_BR": ""
+                "es": "Seleccione su país…",
+                "fr": "Sélectionnez votre pays...",
+                "pt_BR": "Selecione seu país..."
               },
               "showOtherItem": true,
               "otherPlaceholder": {
                 "Default": "Different country",
-                "es": "",
-                "fr": "",
-                "pt_BR": ""
+                "es": "Oficina diferente",
+                "fr": "Bureau différent",
+                "pt_BR": "escritório diferente"
               },
               "otherText": {
                 "Default": "Other (please specify)",
-                "es": "",
-                "fr": "",
-                "pt_BR": ""
+                "es": "Otro (especifique)",
+                "fr": "Autre (veuillez préciser)",
+                "pt_BR": "Outro (especifique)"
               }
             },
             {
@@ -346,16 +346,16 @@
               "visible": false,
               "visibleIf": "{employment_home-country} != \"\" && {employment_home-country} != \"other\"",
               "title": {
-                "Default": "Which province / state / county / region did you live in in 2022, within your country? ",
-                "es": "�En qu� provincia / estado / condado / regi�n vivi� en 2022, dentro de su pa�s? ",
-                "fr": "Dans quelle province / �tat/comt� / r�gion viviez-vous en 2022, dans votre pays? ",
-                "pt_BR": "Em que prov�ncia / estado / condado / regi�o voc� morou em 2022, dentro do seu pa�s? "
+                "Default": "Which province / state / county / region did you live in in 2022, within your country?",
+                "es": "¿En qué provincia / estado / condado / región vivió en 2022, dentro de su país?",
+                "fr": "Dans quelle province / état/comté / région viviez-vous en 2022, dans votre pays?",
+                "pt_BR": "Em que província / estado / condado / região você morou em 2022, dentro do seu país?"
               },
               "description": {
                 "Default": "This helps us calculate your emissions with greater accuracy, as energy mixes can vary significantly between areas of a country. If you split your working time between houses in different areas / countries, or moved area / country during 2022, please answer according to the location in which you spent the majority of the year.",
-                "es": "Esto nos ayuda a calcular sus emisiones con mayor precisi�n, ya que las mezclas de energ�a pueden variar significativamente entre las �reas de un pa�s. Si dividi� su tiempo de trabajo entre casas en diferentes �reas / pa�ses, o se mud� de �rea / pa�s durante 2022, responda de acuerdo con la ubicaci�n en la que pas� la mayor parte del a�o.",
-                "fr": "Cela nous aide � calculer vos �missions avec une plus grande pr�cision, car les mix �nerg�tiques peuvent varier consid�rablement d'une r�gion � l'autre d'un pays. Si vous partagez votre temps de travail entre des maisons situ�es dans diff�rentes zones / pays ou dans une zone /un pays d�plac� en 2022, veuillez r�pondre en fonction du lieu o� vous avez pass� la majeure partie de l'ann�e.",
-                "pt_BR": "Isso nos ajuda a calcular suas emiss�es com maior precis�o, pois a mistura de energias pode variar significativamente entre as �reas de um pa�s. Se voc� dividir seu tempo de trabalho entre casas em diferentes �reas / pa�ses ou mudou de �rea / pa�s durante 2022, responda de acordo com o local em que passou a maior parte do ano."
+                "es": "Esto nos ayuda a calcular sus emisiones con mayor precisión, ya que las mezclas de energía pueden variar significativamente entre las áreas de un país. Si dividió su tiempo de trabajo entre casas en diferentes áreas / países, o se mudó de área / país durante 2022, responda de acuerdo con la ubicación en la que pasó la mayor parte del año.",
+                "fr": "Cela nous aide à calculer vos émissions avec une plus grande précision, car les mix énergétiques peuvent varier considérablement d'une région à l'autre d'un pays. Si vous partagez votre temps de travail entre des maisons situées dans différentes zones / pays ou dans une zone /un pays déplacé en 2022, veuillez répondre en fonction du lieu où vous avez passé la majeure partie de l'année.",
+                "pt_BR": "Isso nos ajuda a calcular suas emissões com maior precisão, pois a mistura de energias pode variar significativamente entre as áreas de um país. Se você dividir seu tempo de trabalho entre casas em diferentes áreas / países ou mudou de área / país durante 2022, responda de acordo com o local em que passou a maior parte do ano."
               },
               "isRequired": true,
               "choicesByUrl": {
@@ -365,9 +365,9 @@
               },
               "placeholder": {
                 "Default": "Select your region...",
-                "es": "",
-                "fr": "",
-                "pt_BR": ""
+                "es": "Seleccione su región...",
+                "fr": "Sélectionnez votre région...",
+                "pt_BR": "Selecione sua região..."
               }
             }
           ]
@@ -378,15 +378,15 @@
           "visibleIf": "{employment_start-date-year} != \"During 2023\"",
           "title": {
             "Default": "In 2022, on average how many days did you work per week, in a typical week?",
-            "es": "En 2022, en promedio, �cu�ntos d�as trabaj� por semana, en una semana t�pica?",
-            "fr": "En 2022, en moyenne, combien de jours avez-vous travaill�s par semaine, dans une semaine typique�?",
-            "pt_BR": "Em 2022, em m�dia, quantos dias voc� trabalhou por semana, em uma semana t�pica?"
+            "es": "En 2022, en promedio, ¿cuántos días trabajó por semana, en una semana típica?",
+            "fr": "En 2022, en moyenne, combien de jours avez-vous travaillés par semaine, dans une semaine typique ?",
+            "pt_BR": "Em 2022, em média, quantos dias você trabalhou por semana, em uma semana típica?"
           },
           "description": {
             "Default": "Please **don't** factor in any significant periods of time off work here (e.g. on sick leave). Just give your standard working pattern. If your working pattern changed during 2022, please just give your best estimate as to the average number of days you worked per week that year.",
-            "es": "Por favor, **no** tenga en cuenta los per�odos significativos de tiempo fuera del trabajo aqu� (por ejemplo, con licencia por enfermedad). Simplemente d� su patr�n de trabajo est�ndar. Si su patr�n de trabajo cambi� durante 2022, simplemente d� su mejor estimaci�n en cuanto a la cantidad promedio de d�as que trabaj� por semana ese a�o.",
-            "fr": "Veuillez **ne pas** tenir compte des p�riodes de cong� importantes (par exemple, un cong� de maladie). Donnez simplement votre mod�le de travail standard. Si votre rythme de travail a chang� en 2022, veuillez simplement donner votre meilleure estimation du nombre moyen de jours de travail par semaine cette ann�e-l�.",
-            "pt_BR": "Por favor, **n�o** considere quaisquer per�odos significativos de afastamento do trabalho aqui (por exemplo, em licen�a m�dica). Forne�a apenas seu padr�o de modelo de trabalho. Se o seu modelo de trabalho mudou durante 2022, forne�a sua melhor estimativa quanto ao n�mero m�dio de dias que voc� trabalhou por semana naquele ano."
+            "es": "Por favor, **no** tenga en cuenta los períodos significativos de tiempo fuera del trabajo aquí (por ejemplo, con licencia por enfermedad). Simplemente dé su patrón de trabajo estándar. Si su patrón de trabajo cambió durante 2022, simplemente dé su mejor estimación en cuanto a la cantidad promedio de días que trabajó por semana ese año.",
+            "fr": "Veuillez **ne pas** tenir compte des périodes de congé importantes (par exemple, un congé de maladie). Donnez simplement votre modèle de travail standard. Si votre rythme de travail a changé en 2022, veuillez simplement donner votre meilleure estimation du nombre moyen de jours de travail par semaine cette année-là.",
+            "pt_BR": "Por favor, **não** considere quaisquer períodos significativos de afastamento do trabalho aqui (por exemplo, em licença médica). Forneça apenas seu padrão de modelo de trabalho. Se o seu modelo de trabalho mudou durante 2022, forneça sua melhor estimativa quanto ao número médio de dias que você trabalhou por semana naquele ano."
           },
           "isRequired": true,
           "rateMin": 0.5,
@@ -405,15 +405,15 @@
           "visibleIf": "{employment_start-date-year} != \"During 2023\"",
           "title": {
             "Default": "On an average working day in 2022, how many hours did you work?",
-            "es": "En un d�a laboral promedio en 2022, �cu�ntas horas trabaj�?",
-            "fr": "Sur une journ�e de travail moyenne en 2022, combien d'heures avez-vous travaill�es ?",
-            "pt_BR": "Em um dia de trabalho m�dio em 2022, quantas horas voc� trabalhou?"
+            "es": "En un día laboral promedio en 2022, ¿cuántas horas trabajó?",
+            "fr": "Sur une journée de travail moyenne en 2022, combien d'heures avez-vous travaillées ?",
+            "pt_BR": "Em um dia de trabalho médio em 2022, quantas horas você trabalhou?"
           },
           "description": {
             "Default": "Please estimate the number of hours you worked on a normal working day. If your working pattern changed substantially during the year (e.g. you went from working 8 hours each day for the first half of 2022 to 4 hours each day for the second half of 2022), please do your best to work out a rough average (in this example, it would be 6 hours a day).",
-            "es": "Por favor, calcule el n�mero de horas que trabaj� en un d�a normal de trabajo. Si su patr�n de trabajo cambi� sustancialmente durante el a�o (por ejemplo, pas� de trabajar 8 horas al d�a durante la primera mitad de 2022 a 4 horas al d�a durante la segunda mitad de 2022), haga todo lo posible para calcular un promedio aproximado (en este ejemplo, ser�an 6 horas al d�a).",
-            "fr": "Veuillez estimer le nombre d'heures que vous avez travaill� au cours d'une journ�e de travail normal. Si votre rythme de travail a consid�rablement chang� au cours de l'ann�e (par exemple, vous �tes pass� de 8 heures de travail par jour au premier semestre 2022 � 4 heures par jour au second semestre 2022), veuillez faire de votre mieux pour calculer une moyenne approximative (dans cet exemple, il s'agirait de 6 heures par jour).",
-            "pt_BR": "Por favor, estime o n�mero de horas que voc� trabalhou em um dia normal de trabalho. Se o seu modelo de trabalho mudou substancialmente durante o ano (por exemplo, voc� passou de 8 horas por dia no primeiro semestre de 2022 para 4 horas por dia no segundo semestre de 2022), por favor fa�a o seu melhor para calcular uma m�dia aproximada (neste exemplo, seriam 6 horas por dia)."
+            "es": "Por favor, calcule el número de horas que trabajó en un día normal de trabajo. Si su patrón de trabajo cambió sustancialmente durante el año (por ejemplo, pasó de trabajar 8 horas al día durante la primera mitad de 2022 a 4 horas al día durante la segunda mitad de 2022), haga todo lo posible para calcular un promedio aproximado (en este ejemplo, serían 6 horas al día).",
+            "fr": "Veuillez estimer le nombre d'heures que vous avez travaillé au cours d'une journée de travail normal. Si votre rythme de travail a considérablement changé au cours de l'année (par exemple, vous êtes passé de 8 heures de travail par jour au premier semestre 2022 à 4 heures par jour au second semestre 2022), veuillez faire de votre mieux pour calculer une moyenne approximative (dans cet exemple, il s'agirait de 6 heures par jour).",
+            "pt_BR": "Por favor, estime o número de horas que você trabalhou em um dia normal de trabalho. Se o seu modelo de trabalho mudou substancialmente durante o ano (por exemplo, você passou de 8 horas por dia no primeiro semestre de 2022 para 4 horas por dia no segundo semestre de 2022), por favor faça o seu melhor para calcular uma média aproximada (neste exemplo, seriam 6 horas por dia)."
           },
           "isRequired": true,
           "rateMax": 12,
@@ -433,16 +433,16 @@
               "type": "boolean",
               "name": "employment_time-off",
               "title": {
-                "Default": "Did you take a significant length of time off work�(totalling 1 month or more) in 2022, that did not form part of your annual leave? ",
-                "es": "�Tom� una cantidad significativa de tiempo libre (un total de 1 mes o m�s) en 2022, que no form� parte de sus vacaciones anuales? ",
-                "fr": "Avez-vous pris un cong� important (totalisant 1 mois ou plus) en 2022, qui ne faisait pas partie de votre cong� annuel ? ",
-                "pt_BR": "Voc� tirou um per�odo significativo de folga do trabalho�(totalizando 1 m�s ou mais) em 2022, que n�o fazia parte de suas f�rias anuais? "
+                "Default": "Did you take a significant length of time off work (totalling 1 month or more) in 2022, that did not form part of your annual leave?",
+                "es": "¿Tomó una cantidad significativa de tiempo libre (un total de 1 mes o más) en 2022, que no formó parte de sus vacaciones anuales?",
+                "fr": "Avez-vous pris un congé important (totalisant 1 mois ou plus) en 2022, qui ne faisait pas partie de votre congé annuel ?",
+                "pt_BR": "Você tirou um período significativo de folga do trabalho (totalizando 1 mês ou mais) em 2022, que não fazia parte de suas férias anuais?"
               },
               "description": {
-                "Default": "\"\nThis might have been for maternity / paternity / shared parental leave, sick leave, sabbatical etc. We're asking this because we're trying to understand the overall picture of emissions generated when working from home. Significant periods of absence need to be deducted from our total individual emissions.\n\nPlease account for any substantial time cumulatively (e.g. you took 3 weeks in January and 2 weeks in June = 5 weeks total, which you'd round down to 1 month, or you took 6 months in one block). \"",
-                "es": "\"\nEsto podr�a haber sido por maternidad / paternidad /licencia parental compartida, licencia por enfermedad, a�o sab�tico, etc. Estamos preguntando esto porque estamos tratando de comprender el panorama general de las emisiones generadas cuando se trabaja desde casa. Los per�odos significativos de ausencia deben deducirse de nuestras emisiones individuales totales.\n\nPor favor, tenga en cuenta cualquier tiempo sustancial acumulado (por ejemplo, tom� 3 semanas en enero y 2 semanas en junio = 5 semanas en total, que redondear�a a 1 mes, o tom� 6 meses en un bloque). \"",
-                "fr": "\"\nIl peut s'agir d'un cong� de maternit� / paternit� /parental partag�, d'un cong� de maladie, d'un cong� sabbatique, etc. Nous posons cette question parce que nous essayons de comprendre l'image globale des �missions g�n�r�es par le travail � domicile. Des p�riodes d'absence importantes doivent �tre d�duites de nos �missions individuelles totales.\n\nVeuillez tenir compte de tout temps important cumul� (par exemple, vous avez pris 3 semaines en janvier et 2 semaines en juin = 5 semaines au total, que vous arrondiriez � 1 mois). \"",
-                "pt_BR": "\"\nIsso pode ter sido para licen�a maternidade / paternidade /parental compartilhada, licen�a m�dica, licen�a sab�tica, etc. Estamos perguntando isso porque estamos tentando entender o quadro geral das emiss�es geradas quando se trabalha em casa. Per�odos significativos de aus�ncia precisam ser deduzidos de nossas emiss�es individuais totais.\n\nPor favor, contabilize qualquer tempo substancial cumulativamente (por exemplo, voc� tirou 3 semanas em janeiro e 2 semanas em junho = 5 semanas no total, o que voc� arredondaria para 1 m�s, ou voc� tirou 6 meses em um bloco). \""
+                "Default": "\"This might have been for maternity / paternity / shared parental leave, sick leave, sabbatical etc. We're asking this because we're trying to understand the overall picture of emissions generated when working from home. Significant periods of absence need to be deducted from our total individual emissions.\n\nPlease account for any substantial time cumulatively (e.g. you took 3 weeks in January and 2 weeks in June = 5 weeks total, which you'd round down to 1 month, or you took 6 months in one block). \"",
+                "es": "\"Esto podría haber sido por maternidad / paternidad /licencia parental compartida, licencia por enfermedad, año sabático, etc. Estamos preguntando esto porque estamos tratando de comprender el panorama general de las emisiones generadas cuando se trabaja desde casa. Los períodos significativos de ausencia deben deducirse de nuestras emisiones individuales totales.\n\nPor favor, tenga en cuenta cualquier tiempo sustancial acumulado (por ejemplo, tomó 3 semanas en enero y 2 semanas en junio = 5 semanas en total, que redondearía a 1 mes, o tomó 6 meses en un bloque). \"",
+                "fr": "\"Il peut s'agir d'un congé de maternité / paternité /parental partagé, d'un congé de maladie, d'un congé sabbatique, etc. Nous posons cette question parce que nous essayons de comprendre l'image globale des émissions générées par le travail à domicile. Des périodes d'absence importantes doivent être déduites de nos émissions individuelles totales.\n\nVeuillez tenir compte de tout temps important cumulé (par exemple, vous avez pris 3 semaines en janvier et 2 semaines en juin = 5 semaines au total, que vous arrondiriez à 1 mois). \"",
+                "pt_BR": "\"Isso pode ter sido para licença maternidade / paternidade /parental compartilhada, licença médica, licença sabática, etc. Estamos perguntando isso porque estamos tentando entender o quadro geral das emissões geradas quando se trabalha em casa. Períodos significativos de ausência precisam ser deduzidos de nossas emissões individuais totais.\n\nPor favor, contabilize qualquer tempo substancial cumulativamente (por exemplo, você tirou 3 semanas em janeiro e 2 semanas em junho = 5 semanas no total, o que você arredondaria para 1 mês, ou você tirou 6 meses em um bloco). \""
               },
               "isRequired": true
             },
@@ -453,15 +453,15 @@
               "visibleIf": "{employment_time-off} = true",
               "title": {
                 "Default": "How many months did you take off work in total in 2022, *not* including your annual leave?",
-                "es": "�Cu�ntos meses tom� fuera del trabajo en total en 2022, *no* incluidas sus vacaciones anuales?",
-                "fr": "Combien de mois avez-vous pris votre cong� au total en 2022, *sans* compter vos cong�s annuels ?",
-                "pt_BR": "Quantos meses de folga voc� tirou do trabalho no total em 2022, *n�o* incluindo suas f�rias anuais?"
+                "es": "¿Cuántos meses tomó fuera del trabajo en total en 2022, *no* incluidas sus vacaciones anuales?",
+                "fr": "Combien de mois avez-vous pris votre congé au total en 2022, *sans* compter vos congés annuels ?",
+                "pt_BR": "Quantos meses de folga você tirou do trabalho no total em 2022, *não* incluindo suas férias anuais?"
               },
               "description": {
                 "Default": "Please estimate this to the nearest whole month.",
-                "es": "Por favor, calcule esto al mes entero m�s cercano.",
+                "es": "Por favor, calcule esto al mes entero más cercano.",
                 "fr": "Veuillez arrondir au mois entier le plus proche.",
-                "pt_BR": "Por favor, estime isso para o m�s inteiro mais pr�ximo."
+                "pt_BR": "Por favor, estime isso para o mês inteiro mais próximo."
               },
               "isRequired": true,
               "rateMax": 12,
@@ -480,15 +480,15 @@
           "visibleIf": "{employment_start-date-year} != \"During 2023\"",
           "title": {
             "Default": "Thinking about only the days you *did* work in 2022, how did you split your working time between these activities?",
-            "es": "Pensando solo en los d�as que *trabaj�* en 2022, �c�mo dividi� su tiempo de trabajo entre estas actividades?",
-            "fr": "En pensant uniquement aux jours o� vous * avez * travaill� en 2022, comment avez-vous r�parti votre temps de travail entre ces activit�s�?",
-            "pt_BR": "Pensando apenas nos dias em que voc� *trabalhou* em 2022, como voc� dividiu seu tempo de trabalho entre essas atividades?"
+            "es": "Pensando solo en los días que *trabajó* en 2022, ¿cómo dividió su tiempo de trabajo entre estas actividades?",
+            "fr": "En pensant uniquement aux jours où vous * avez * travaillé en 2022, comment avez-vous réparti votre temps de travail entre ces activités ?",
+            "pt_BR": "Pensando apenas nos dias em que você *trabalhou* em 2022, como você dividiu seu tempo de trabalho entre essas atividades?"
           },
           "description": {
             "Default": "The total must sum to 100%. Please round up to the nearest 5%. For example, even if you only took one flight for business in 2022, please put 5% against business travel.",
-            "es": "El total debe sumar 100%. Por favor redondee al 5% m�s cercano. Por ejemplo, incluso si solo tomaste un vuelo de negocios en 2022, pon un 5% en contra de los viajes de negocios.",
-            "fr": "Le total doit �tre de 100%. Veuillez arrondir � 5% pr�s. Par exemple, m�me si vous n'avez pris qu'un seul vol pour affaires en 2022, veuillez mettre 5% en voyages d'affaires.",
-            "pt_BR": "O total deve somar 100%. Arredonde para os 5% mais pr�ximos. Por exemplo, mesmo que voc� tenha pegado apenas um voo para neg�cios em 2022, liste 5% em viagens de neg�cios."
+            "es": "El total debe sumar 100%. Por favor redondee al 5% más cercano. Por ejemplo, incluso si solo tomaste un vuelo de negocios en 2022, pon un 5% en contra de los viajes de negocios.",
+            "fr": "Le total doit être de 100%. Veuillez arrondir à 5% près. Par exemple, même si vous n'avez pris qu'un seul vol pour affaires en 2022, veuillez mettre 5% en voyages d'affaires.",
+            "pt_BR": "O total deve somar 100%. Arredonde para os 5% mais próximos. Por exemplo, mesmo que você tenha pegado apenas um voo para negócios em 2022, liste 5% em viagens de negócios."
           },
           "isRequired": true,
           "validators": [
@@ -496,9 +496,9 @@
               "type": "expression",
               "text": {
                 "Default": "Total share can not exceed 100%!",
-                "es": "",
-                "fr": "",
-                "pt_BR": ""
+                "es": "¡La participación total no puede exceder el 100%!",
+                "fr": "la part totale ne peut pas dépasser 100% !",
+                "pt_BR": "A participação total não pode exceder 100%!"
               },
               "expression": "{employment_working-pattern-split.home.sharePercentage} + {employment_working-pattern-split.baseOffice.sharePercentage} + {employment_working-pattern-split.otherOffice.sharePercentage} + {employment_working-pattern-split.client.sharePercentage} + {employment_working-pattern-split.businessTravel.sharePercentage} <= 100"
             },
@@ -506,9 +506,9 @@
               "type": "expression",
               "text": {
                 "Default": "Total share should be 100%!",
-                "es": "",
-                "fr": "",
-                "pt_BR": ""
+                "es": "¡La participación total debe ser del 100%!",
+                "fr": "la part totale doit être de 100% !",
+                "pt_BR": "A participação total deve ser de 100%!"
               },
               "expression": "{employment_working-pattern-split.home.sharePercentage} + {employment_working-pattern-split.baseOffice.sharePercentage} + {employment_working-pattern-split.otherOffice.sharePercentage} + {employment_working-pattern-split.client.sharePercentage} + {employment_working-pattern-split.businessTravel.sharePercentage} > 99"
             }
@@ -609,15 +609,15 @@
           "name": "wfh-emissions_home-type",
           "title": {
             "Default": "What type of home do you live in?",
-            "es": "�En qu� tipo de zona vive?",
-            "fr": "Quel est votre type de domicile?",
-            "pt_BR": "Em que tipo de casa voc� mora?"
+            "es": "",
+            "fr": "",
+            "pt_BR": ""
           },
           "description": {
-            "Default": "If you moved home in 2022, please tell us about the home you spent the majority of the year in. If you split your time between more than one home, please tell us about the one you spent the most time in, in 2022. ",
-            "es": "Si se mud� a casa en 2022, cu�ntenos sobre la casa en la que se encontraba al final del a�o. Si dividiste tu tiempo entre m�s de un alojamiento, cu�ntanos cu�l fue en el que pasaste m�s tiempo, en 2022. ",
-            "fr": "Si vous avez d�m�nag� en 2022, parlez-nous de la maison o� vous avez pass� le plus de temps. Si vous partagez votre temps entre plus d'un logement, veuillez nous parler de celui dans lequel vous avez pass� le plus de temps en 2022. ",
-            "pt_BR": "Se voc� se mudou de casa em 2022, conte-nos sobre a casa em que estava no final do ano. Se voc� dividiu seu tempo entre mais de uma casa, conte-nos sobre a que voc� passou mais tempo em 2022. "
+            "Default": "If you moved home in 2022, please tell us about the home you were in at the end of the year. If you split your time between more than one home, please tell us about the one you spent the most time in, in 2022.",
+            "es": "",
+            "fr": "",
+            "pt_BR": ""
           },
           "isRequired": true,
           "choicesByUrl": {
@@ -644,9 +644,9 @@
           "name": "wfh-emissions_people-working-from-home",
           "title": {
             "Default": "In 2022, on average how many people tended to work from your home each day (*including* you)?",
-            "es": "Cuando trabajaba desde casa en 2022, en promedio, �cu�ntas personas tend�an a trabajar desde casa en su hogar (*incluido* usted)?",
-            "fr": "En 2022, combien de personnes en moyenne travaillaient � votre domicile chaque jour (vous compris) ?",
-            "pt_BR": "Quando voc� estava trabalhando em casa em 2022, em m�dia, quantas pessoas costumavam trabalhar em casa em sua casa (*incluindo* voc�)?"
+            "es": "",
+            "fr": "",
+            "pt_BR": ""
           },
           "isRequired": true,
           "rateValues": [
@@ -672,15 +672,15 @@
           "name": "wfh-emissions_electricity-supplier-name",
           "title": {
             "Default": "What is the name of the current electricity supplier for your home?",
-            "es": "�Cu�l es el nombre del proveedor de electricidad actual para su hogar?",
-            "fr": "Quel est le nom du fournisseur d'�lectricit� actuel pour votre maison ?",
-            "pt_BR": "Qual � o nome do atual fornecedor de eletricidade da sua casa?"
+            "es": "",
+            "fr": "",
+            "pt_BR": ""
           },
           "description": {
             "Default": "Please let us know the name of the company or state provider that supplies you with your home electricity. You should be able to find this on your electricity bill. If you don't know or don't want to say, please leave this blank. If you're not connected to mains electricity at all, please type \"off grid\".",
-            "es": "Por favor, h�ganos saber el nombre de la compa��a o proveedor estatal que le suministra la electricidad de su hogar. Usted debe ser capaz de encontrar esto en su factura de electricidad. Si usted no sabe o no quiere decir, por favor deje esto en blanco. Si no est� conectado a la red el�ctrica, escriba \"fuera de la red\".",
-            "fr": "Veuillez nous indiquer le nom de l'entreprise ou du fournisseur d'�tat qui vous fournit l'�lectricit� � domicile. Vous devriez pouvoir le trouver sur votre facture d'�lectricit�. Si vous ne savez pas ou ne voulez pas le dire, veuillez laisser ce champ vide. Si vous n'�tes pas connect� au r�seau �lectrique du tout, veuillez taper \"hors r�seau\".",
-            "pt_BR": "Por favor, informe-nos o nome da empresa ou provedor estadual que lhe fornece a eletricidade de sua casa. Voc� deve conseguir encontrar esta informa��o em sua conta de luz. Se voc� n�o sabe ou n�o quer dizer, por favor, deixe em branco. Se voc� n�o estiver conectado � rede el�trica, digite \"off grid\"."
+            "es": "",
+            "fr": "",
+            "pt_BR": ""
           }
         },
         {
@@ -704,43 +704,43 @@
               "name": "wfh-emissions_electricity-supplier-renewable",
               "title": {
                 "Default": "Is the electricity you receive from your electricity supplier certified 100% renewable?",
-                "es": "�La electricidad que recibe de su proveedor de electricidad est� certificada como 100% renovable?",
-                "fr": "L'�lectricit� que vous recevez de votre fournisseur d'�lectricit� est-elle certifi�e 100% renouvelable ?",
-                "pt_BR": "A eletricidade que voc� recebe do seu fornecedor de eletricidade � certificada 100% renov�vel?"
+                "es": "",
+                "fr": "",
+                "pt_BR": ""
               },
               "description": {
-                "Default": "If you have an electricity bill, check to see whether you're on a renewable electricity (or \"green\") contract. Some suppliers may **only** provide renewable electricity while others offer specific contracts which are based on renewable electricity. If you don't know, please say \"no\".",
-                "es": "Si tiene una factura de electricidad, verifique si tiene un contrato de electricidad renovable (o \"verde\"). Algunos proveedores pueden **solo** proporcionar electricidad renovable, mientras que otros ofrecen contratos espec�ficos basados en electricidad renovable. Si no lo sabe, por favor diga \"no\".",
-                "fr": "Si vous avez une facture d'�lectricit�, v�rifiez si vous �tes sur un contrat d'�lectricit� renouvelable (ou \"vert\"). Certains fournisseurs peuvent * * seulement * * fournir de l'�lectricit� renouvelable, tandis que d'autres proposent des contrats sp�cifiques bas�s sur l'�lectricit� renouvelable. Si vous ne le savez pas, dites \"non\".",
-                "pt_BR": "Se voc� tiver uma conta de eletricidade, verifique se voc� est� em um contrato de eletricidade renov�vel (ou \"verde\"). Alguns fornecedores podem **apenas** fornecer eletricidade renov�vel, enquanto outros oferecem contratos espec�ficos baseados em eletricidade renov�vel. Se voc� n�o sabe, por favor diga \"n�o\"."
+                "Default": "If you have an electricity bill, check to see whether you're on a renewable electricity (or \"green\") contract. Some suppliers may **only** provide renewable electricity while others offer specific contracts which are based on renewable electricity. If you don't know, please say \"no\"",
+                "es": "",
+                "fr": "",
+                "pt_BR": ""
               },
               "isRequired": true,
               "choices": [
                 {
-                  "value": "Options:",
-                  "text": {
-                    "Default": "Options:",
-                    "es": "Opciones:",
-                    "fr": "Options :",
-                    "pt_BR": "Op��es:"
-                  }
-                },
-                {
-                  "value": "Yes",
+                  "value": "yes",
                   "text": {
                     "Default": "Yes",
-                    "es": "S�",
-                    "fr": "Oui",
-                    "pt_BR": "Sim"
+                    "es": "",
+                    "fr": "",
+                    "pt_BR": ""
                   }
                 },
                 {
-                  "value": "No",
+                  "value": "no",
                   "text": {
                     "Default": "No",
-                    "es": "No",
-                    "fr": "Non",
-                    "pt_BR": "N�o"
+                    "es": "",
+                    "fr": "",
+                    "pt_BR": ""
+                  }
+                },
+                {
+                  "value": "unknown",
+                  "text": {
+                    "Default": "I don't know",
+                    "es": "",
+                    "fr": "",
+                    "pt_BR": ""
                   }
                 }
               ]
@@ -755,35 +755,35 @@
                   "type": "radiogroup",
                   "name": "wfh-emissions_electricity-supplier-changed-to-renewable",
                   "title": {
-                    "Default": "Did you change your electricity supplier or contract to this renewable (\"green energy\") option within the 2022 calendar year? ",
-                    "es": "�Cambi� su proveedor de electricidad o contrato a esta opci�n renovable (\"energ�a verde\") dentro del a�o calendario 2022? ",
-                    "fr": "Avez-vous chang� votre fournisseur d'�lectricit� ou votre contrat pour cette option renouvelable (\"�nergie verte\") au cours de l'ann�e civile 2022? ",
-                    "pt_BR": "Voc� mudou seu fornecedor de eletricidade ou contrato para esta op��o renov�vel (\"energia verde\") dentro do ano civil de 2022? "
+                    "Default": "Did you change your electricity supplier or contract to this renewable (\"green energy\") option within the 2022 calendar year?",
+                    "es": "",
+                    "fr": "",
+                    "pt_BR": ""
                   },
                   "description": {
-                    "Default": "If you swapped between two or more 100% renewable energy contracts / providers within 2022, please select \"no\", as the emissions will not change. ",
-                    "es": "Si intercambi� entre dos o m�s contratos / proveedores de energ�a 100% renovable dentro de 2022, seleccione \"no\", ya que las emisiones no cambiar�n. ",
-                    "fr": "Si vous avez �chang� entre deux contrats ou fournisseurs d��nergie 100�% renouvelable ou plus en 2022, veuillez s�lectionner ��non��, car les �missions ne changeront pas. ",
-                    "pt_BR": "Se voc� trocou entre dois ou mais contratos / provedores de energia 100% renov�vel dentro de 2022, selecione \"n�o\", pois as emiss�es n�o mudar�o. "
+                    "Default": "If you swapped between two or more 100% renewable energy contracts / providers within 2022, please select \"no\", as the emissions will not change.",
+                    "es": "",
+                    "fr": "",
+                    "pt_BR": ""
                   },
                   "isRequired": true,
                   "choices": [
                     {
-                      "value": "Options:",
+                      "value": "yes",
                       "text": {
-                        "Default": "Options:",
-                        "es": "Opciones:",
-                        "fr": "Options :",
-                        "pt_BR": "Op��es:"
+                        "Default": "Yes, I started on my renewable electricity contract / supplier **within** the 2022 calendar year.",
+                        "es": "",
+                        "fr": "",
+                        "pt_BR": ""
                       }
                     },
                     {
-                      "value": "Yes, I started on my renewable electricity contract / supplier **within** the 2022 calendar year.",
+                      "value": "no",
                       "text": {
-                        "Default": "Yes, I started on my renewable electricity contract / supplier **within** the 2022 calendar year.",
-                        "es": "S�, comenc� con mi contrato / proveedor de electricidad renovable **dentro del** a�o calendario 2022.",
-                        "fr": "Oui, j'ai commenc� mon contrat / fournisseur d'�lectricit� renouvelable **dans** l'ann�e civile 2022.",
-                        "pt_BR": "Sim, iniciei meu contrato / fornecedor de eletricidade renov�vel * * dentro ** do ano civil de 2022."
+                        "Default": "No, I started on my renewable electricity contract / supplier **before** 2022.",
+                        "es": "",
+                        "fr": "",
+                        "pt_BR": ""
                       }
                     }
                   ]
@@ -824,15 +824,15 @@
               "name": "wfh-emissions_electricity-generation",
               "title": {
                 "Default": "Did you generate any of your own electricity at home in 2022?",
-                "es": "�Generaste tu propia energ�a renovable en casa en 2022?",
-                "fr": "Avez-vous produit votre propre �lectricit� � la maison en 2022 ?",
-                "pt_BR": "Quando voc� come�ou a gerar sua pr�pria energia renov�vel em casa?"
+                "es": "",
+                "fr": "",
+                "pt_BR": ""
               },
               "description": {
                 "Default": "This means any electricity generated at your home / building. E.g. solar or a diesel generator. This is  separate from your energy supply from a provider (the grid).",
-                "es": "Por ejemplo, solar, viento.",
-                "fr": "Par exemple solaire, vent.",
-                "pt_BR": "Por favor, d� a sua melhor suposi��o se voc� n�o consegue se lembrar exatamente"
+                "es": "",
+                "fr": "",
+                "pt_BR": ""
               },
               "isRequired": true
             },
@@ -843,15 +843,15 @@
               "visibleIf": "{wfh-emissions_electricity-generation} = true",
               "title": {
                 "Default": "Which options best describe how you generate electricity from your home or building?",
-                "es": "�Cu�ndo comenz� a generar su propia energ�a renovable en casa?",
-                "fr": "Quelles options d�crivent le mieux la fa�on dont vous produisez de l'�lectricit� depuis de votre maison ?",
-                "pt_BR": "Como voc� gera sua pr�pria energia renov�vel em casa?"
+                "es": "",
+                "fr": "",
+                "pt_BR": ""
               },
               "description": {
                 "Default": "Select the options that best describe how you generate your electricity (both renewable and non-renewable). If \"other\", please describe your generation method. Note: we also need to know about any back-up generators used occasionally over the course of the year.",
-                "es": "Por favor, d� su mejor conjetura si no puede recordar exactamente",
-                "fr": "S�lectionnez les options qui d�crivent le mieux la fa�on dont vous produisez votre �lectricit� (renouvelable et non renouvelable). Si vous avez choisi \"autre\", veuillez d�crire votre m�thode de production. Remarque : nous avons �galement besoin de conna�tre les g�n�rateurs de secours utilis�s occasionnellement au cours de l'ann�e.",
-                "pt_BR": "�"
+                "es": "",
+                "fr": "",
+                "pt_BR": ""
               },
               "isRequired": true,
               "choicesByUrl": {
@@ -880,16 +880,16 @@
               "visible": false,
               "visibleIf": "{wfh-emissions_electricity-generation} = true",
               "title": {
-                "Default": "How was your electricity usage split between electricity supplied from the grid, electricity you generated from renewable sources and electricity you generated from non-renewable sources?",
-                "es": "�C�mo generar tu propia energ�a renovable en casa?",
-                "fr": "Comment votre consommation d'�lectricit� se r�partit-elle entre l'�lectricit� fournie par le r�seau, l'�lectricit� que vous produisez � partir de sources renouvelables et l'�lectricit� que vous produisez � partir de sources non renouvelables ?",
-                "pt_BR": "Aproximadamente que propor��o das necessidades de eletricidade da sua casa foi atendida pela sua pr�pria gera��o de energia renov�vel em 2022? "
+                "Default": "How was your electricity usage split over electricity supplied from the grid, electricity generated from renewable and non-renewable sources?",
+                "es": "",
+                "fr": "",
+                "pt_BR": ""
               },
               "description": {
                 "Default": "Estimate as best you can the split of electricity used over 2022. Ensure it adds up to 100%. \"Renewables\" refers to electricity generated from solar, wind, biomass, and water.\"Non-renewables\" refers to electricity generated from fossil fuels.",
-                "es": "�",
-                "fr": "Estimez au mieux la r�partition de la consommation d'�lectricit� sur 2022. Veillez � ce que la somme soit �gale � 100 %. Les \"�nergies renouvelables\" d�signent l'�lectricit� produite � partir de l'�nergie solaire, de l'�nergie �olienne, de la biomasse et de l'eau. Les \"�nergies non renouvelables\" d�signent l'�lectricit� produite � partir de combustibles fossiles.",
-                "pt_BR": "Arredonde para os 10% mais pr�ximos. Se voc� realmente n�o sabe, basta dar o seu melhor palpite! Se voc� s� come�ou a gerar sua pr�pria eletricidade renov�vel em 2022, responda com base na % das necessidades de eletricidade da sua casa que foram cobertas **desde que o sistema foi instalado**. "
+                "es": "",
+                "fr": "",
+                "pt_BR": ""
               },
               "isRequired": true,
               "validators": [
@@ -985,16 +985,16 @@
               "type": "boolean",
               "name": "wfh-emissions_home-heating",
               "title": {
-                "Default": "Do you ever use any source of heat in the room you usually work in at home, during working hours? ",
-                "es": "Ahora te vamos a preguntar si y c�mo *calientas* tu casa",
-                "fr": "Avez-vous d�j� utilis� une source de chaleur dans la pi�ce o� vous travaillez habituellement � la maison, pendant les heures de travail ? ",
-                "pt_BR": "Voc� j� usou alguma fonte de calor no c�modo em que costuma trabalhar em casa, durante o hor�rio de trabalho? "
+                "Default": "Do you ever use any source of heat in the room you usually work in at home, during working hours?",
+                "es": "",
+                "fr": "",
+                "pt_BR": ""
               },
               "description": {
                 "Default": "This includes **any** source of heat. For example, you might use central heating or district heating. Or you may use something smaller-scale such as infrared panels or an electric blanket / throw that goes on your knees.",
-                "es": "�",
-                "fr": "Cela inclut **toute** source de chaleur. Par exemple, vous pouvez utiliser le chauffage central ou un chauffage d'appoint.",
-                "pt_BR": "Isso inclui **qualquer** fonte de calor. Por exemplo, voc� pode usar aquecimento central ou aquecimento urbano. Ou voc� pode usar algo em menor escala, como pain�is infravermelhos ou um cobertor el�trico que coloca sobre as pernas."
+                "es": "",
+                "fr": "",
+                "pt_BR": ""
               },
               "isRequired": true
             },
@@ -1005,9 +1005,9 @@
               "visibleIf": "{wfh-emissions_home-heating} = true",
               "title": {
                 "Default": "Which heat sources best describe how you heat the room in your home that you usually work from?",
-                "es": "�Alguna vez usa alguna fuente de calor en la habitaci�n en la que trabaja habitualmente en casa, durante las horas de trabajo? ",
-                "fr": "Quelles sources de chaleur utilisez-vous le plus souvent pour chauffez la pi�ce de votre maison dans laquelle vous travaillez habituellement ?",
-                "pt_BR": "Por favor, selecione as fontes de calor que melhor descrevem como voc� aquece o c�modo que voc� costuma trabalhar em sua casa."
+                "es": "",
+                "fr": "",
+                "pt_BR": ""
               },
               "isRequired": true,
               "choicesByUrl": {
@@ -1052,16 +1052,16 @@
                   "visible": false,
                   "visibleIf": "{wfh-emissions_home-heating-sources} contains \"Gas (natural gas, propane, LPG)\"",
                   "title": {
-                    "Default": "Tell us about the gas heating sources you use *in the room you usually work in at home*. ",
-                    "es": "�",
-                    "fr": "Indiquez-nous les sources de chauffage au gaz que vous utilisez *dans la pi�ce o� vous travaillez habituellement � la maison*. ",
-                    "pt_BR": "Conte-nos mais sobre as fontes de aquecimento a g�s que voc� usa *no c�modo em que voc� costuma trabalhar em casa*, durante o hor�rio de trabalho."
+                    "Default": "Tell us about the gas heating sources you use *in the room you usually work in at home*.",
+                    "es": "",
+                    "fr": "",
+                    "pt_BR": ""
                   },
                   "description": {
-                    "Default": "Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. ",
-                    "es": "\"Seleccione todas las fuentes de calefacci�n que utilice. Luego especifique cu�ntas horas *durante la jornada laboral * usa cada fuente de calor en promedio dentro de cada mes.\n\nPor ejemplo, si usa un horno de gas de noviembre a febrero, durante 4 horas al d�a mientras trabaja, seleccione \"\"horno de gas\"\" y luego \"\"4\"\" en noviembre, diciembre, enero, febrero. Si usa un tiro el�ctrico durante 2 horas al d�a durante los meses m�s fr�os, seleccione \"\"manta / tiro el�ctrico\"\" y luego \"\"2\"\" en diciembre y enero.\n\nSi su uso o sala de trabajo var�a, por favor d� su mejor estimaci�n de su uso promedio. Puede agregar tantas fuentes como sea necesario.\n\nSi su fuente de calefacci�n se controla autom�ticamente (por ejemplo, en un termostato \"\"siempre encendido\"\" o un sistema controlado centralmente), seleccione \"\"autom�tico\"\" en los men�s desplegables en los meses en que su sistema est� encendido.\"",
-                    "fr": "Ajoutez toutes les sources de chauffage concern�es et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. ",
-                    "pt_BR": "�"
+                    "Default": "Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month.",
+                    "es": "",
+                    "fr": "",
+                    "pt_BR": ""
                   },
                   "isRequired": true,
                   "verticalAlign": "top",
@@ -1266,15 +1266,15 @@
                   "visibleIf": "{wfh-emissions_home-heating-sources} contains \"Oil (diesel, kerosene, heating oil)\"",
                   "title": {
                     "Default": "Tell us more about the oil heating sources you use *in the room you usually work in at home*.",
-                    "es": "Cu�ntanos m�s sobre las fuentes de calefacci�n de gas que usas *en la habitaci�n en la que trabajas habitualmente en casa*, durante las horas de trabajo.",
-                    "fr": "Veuillez nous en dire plus sur les sources de chauffage � l'huile que vous utilisez *dans la pi�ce o� vous travaillez habituellement � la maison*",
-                    "pt_BR": "Conte-nos mais sobre as fontes de aquecimento a g�s que voc� usa *no c�modo em que voc� costuma trabalhar em casa*, durante o hor�rio de trabalho."
+                    "es": "",
+                    "fr": "",
+                    "pt_BR": ""
                   },
                   "description": {
-                    "Default": "Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. ",
-                    "es": "�",
-                    "fr": "Ajoutez toutes les sources de chauffage concern�es et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. ",
-                    "pt_BR": "�"
+                    "Default": "Add all applicable heating sources and the number of hours you typically use them for*during a working day* in each month. ",
+                    "es": "",
+                    "fr": "",
+                    "pt_BR": ""
                   },
                   "isRequired": true,
                   "verticalAlign": "top",
@@ -1479,15 +1479,15 @@
                   "visibleIf": "{wfh-emissions_home-heating-sources} contains \"Electricity\"",
                   "title": {
                     "Default": "Tell us more about the electricity heating sources you use *in the room you usually work in at home*.",
-                    "es": "Cu�ntanos m�s sobre las fuentes de calefacci�n de gas que usas *en la habitaci�n en la que trabajas habitualmente en casa*, durante las horas de trabajo.",
-                    "fr": "Veuillez nous en dire plus sur les sources de chauffage �l�ctriques que vous utilisez *dans la pi�ce o� vous travaillez habituellement � la maison*",
-                    "pt_BR": "Conte-nos mais sobre as fontes de aquecimento a g�s que voc� usa *no c�modo em que voc� costuma trabalhar em casa*, durante o hor�rio de trabalho."
+                    "es": "",
+                    "fr": "",
+                    "pt_BR": ""
                   },
                   "description": {
-                    "Default": "Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. ",
-                    "es": "�",
-                    "fr": "Ajoutez toutes les sources de chauffage concern�es et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. ",
-                    "pt_BR": "�"
+                    "Default": "Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month.",
+                    "es": "",
+                    "fr": "",
+                    "pt_BR": ""
                   },
                   "isRequired": true,
                   "verticalAlign": "top",
@@ -1692,15 +1692,15 @@
                   "visibleIf": "{wfh-emissions_home-heating-sources} contains \"Renewable / biomass\"",
                   "title": {
                     "Default": "Tell us more about the renewable / biomass heating sources you use *in the room you usually work in at home*.",
-                    "es": "Cu�ntanos m�s sobre las fuentes de calefacci�n de gas que usas *en la habitaci�n en la que trabajas habitualmente en casa*, durante las horas de trabajo.",
-                    "fr": "Veuillez nous en dire plus sur les sources de chauffage renouvelables que vous utilisez *dans la pi�ce o� vous travaillez habituellement � la maison*",
-                    "pt_BR": "Conte-nos mais sobre as fontes de aquecimento a g�s que voc� usa *no c�modo em que voc� costuma trabalhar em casa*, durante o hor�rio de trabalho."
+                    "es": "",
+                    "fr": "",
+                    "pt_BR": ""
                   },
                   "description": {
-                    "Default": "Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. ",
-                    "es": "�",
-                    "fr": "Ajoutez toutes les sources de chauffage concern�es et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. ",
-                    "pt_BR": "�"
+                    "Default": "Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month.",
+                    "es": "",
+                    "fr": "",
+                    "pt_BR": ""
                   },
                   "isRequired": true,
                   "verticalAlign": "top",
@@ -1905,15 +1905,15 @@
                   "visibleIf": "{wfh-emissions_home-heating-sources} contains \"Coal\"",
                   "title": {
                     "Default": "Tell us more about the coal heating sources you use *in the room you usually work in at home*.",
-                    "es": "Cu�ntanos m�s sobre las fuentes de calefacci�n de gas que usas *en la habitaci�n en la que trabajas habitualmente en casa*, durante las horas de trabajo.",
-                    "fr": "Veuillez nous en dire plus sur les sources de chauffage au charbon que vous utilisez *dans la pi�ce o� vous travaillez habituellement � la maison*",
-                    "pt_BR": "Conte-nos mais sobre as fontes de aquecimento a g�s que voc� usa *no c�modo em que voc� costuma trabalhar em casa*, durante o hor�rio de trabalho."
+                    "es": "",
+                    "fr": "",
+                    "pt_BR": ""
                   },
                   "description": {
-                    "Default": "Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. ",
-                    "es": "�",
-                    "fr": "Ajoutez toutes les sources de chauffage concern�es et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. ",
-                    "pt_BR": "�"
+                    "Default": "Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month.",
+                    "es": "",
+                    "fr": "",
+                    "pt_BR": ""
                   },
                   "isRequired": true,
                   "verticalAlign": "top",
@@ -2118,15 +2118,15 @@
                   "visibleIf": "{wfh-emissions_home-heating-sources} contains \"District heating\"",
                   "title": {
                     "Default": "Tell us more about the district heating sources you use *in the room you usually work in at home*, during working hours.",
-                    "es": "Cu�ntanos m�s sobre las fuentes de calefacci�n de gas que usas *en la habitaci�n en la que trabajas habitualmente en casa*, durante las horas de trabajo.",
-                    "fr": "Veuillez nous en dire plus sur les sources de chauffage collectifs que vous utilisez *dans la pi�ce o� vous travaillez habituellement � la maison*",
-                    "pt_BR": "Conte-nos mais sobre as fontes de aquecimento a g�s que voc� usa *no c�modo em que voc� costuma trabalhar em casa*, durante o hor�rio de trabalho."
+                    "es": "",
+                    "fr": "",
+                    "pt_BR": ""
                   },
                   "description": {
-                    "Default": "Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. ",
-                    "es": "�",
-                    "fr": "Ajoutez toutes les sources de chauffage concern�es et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. ",
-                    "pt_BR": "�"
+                    "Default": "Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month.",
+                    "es": "",
+                    "fr": "",
+                    "pt_BR": ""
                   },
                   "isRequired": true,
                   "verticalAlign": "top",

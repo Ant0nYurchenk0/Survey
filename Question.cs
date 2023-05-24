@@ -12,7 +12,12 @@
     public string Title { get; set; }
     public string Description { get; set; }
     public List<string> Options { get; set; }
-    public string Additional { get; set; }
-    public string Error { get; set; }
+    public string ErrorOver { get; set; }
+    public string ErrorUnder { get; set; }
+    public string Unit { get; set; }
+    public string Placeholder { get; set; }
+    public string UnknownOption { get; set; }
+    public string OtherPlaceholder { get; set; }
+    public string OtherText { get; set; }
   }
 }

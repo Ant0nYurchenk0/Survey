@@ -14,6 +14,45 @@
             "related": ".xml"
           }
         }
+      },
+      "Syncfusion.Compression.Net.Core/21.2.6": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Compression.Portable.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Compression.Portable.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Licensing/21.2.6": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.XlsIO.Net.Core/21.2.6": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Compression.Net.Core": "21.2.6",
+          "Syncfusion.Licensing": "21.2.6"
+        },
+        "compile": {
+          "lib/net6.0/Syncfusion.XlsIO.Portable.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.XlsIO.Portable.dll": {
+            "related": ".xml"
+          }
+        }
       }
     }
   },
@@ -47,15 +86,82 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
+    },
+    "Syncfusion.Compression.Net.Core/21.2.6": {
+      "sha512": "PAk5FomXLreSLtcJfoK/DyTkXRtXuB9huKw6lWf+FtvBnHL0S5jcWk+EMdctJKVTE+NFNOWnCiooUkVozJftzA==",
+      "type": "package",
+      "path": "syncfusion.compression.net.core/21.2.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/net6.0/Syncfusion.Compression.Portable.dll",
+        "lib/net6.0/Syncfusion.Compression.Portable.xml",
+        "lib/net7.0/Syncfusion.Compression.Portable.dll",
+        "lib/net7.0/Syncfusion.Compression.Portable.xml",
+        "lib/netstandard2.0/Syncfusion.Compression.Portable.dll",
+        "lib/netstandard2.0/Syncfusion.Compression.Portable.xml",
+        "syncfusion.compression.net.core.21.2.6.nupkg.sha512",
+        "syncfusion.compression.net.core.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Licensing/21.2.6": {
+      "sha512": "1HbmjYmpI+KsaDYIEeqLuqVECL8hM6+T6Hem6rkCoYLoljUx+6X1oKxJs0qhsPo0bCtng1le8GG6j0HQF6B/mg==",
+      "type": "package",
+      "path": "syncfusion.licensing/21.2.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/MonoAndroid90/Syncfusion.Licensing.dll",
+        "lib/Xamarin.Mac/Syncfusion.Licensing.dll",
+        "lib/Xamarin.iOS10/Syncfusion.Licensing.dll",
+        "lib/net40/Syncfusion.Licensing.dll",
+        "lib/net45/Syncfusion.Licensing.dll",
+        "lib/net451/Syncfusion.Licensing.dll",
+        "lib/net46/Syncfusion.Licensing.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Licensing.dll",
+        "lib/net6.0/Syncfusion.Licensing.dll",
+        "lib/net7.0-windows7.0/Syncfusion.Licensing.dll",
+        "lib/net7.0/Syncfusion.Licensing.dll",
+        "lib/netstandard2.0/Syncfusion.Licensing.dll",
+        "lib/uap10.0/Syncfusion.Licensing.dll",
+        "syncfusion.licensing.21.2.6.nupkg.sha512",
+        "syncfusion.licensing.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.XlsIO.Net.Core/21.2.6": {
+      "sha512": "1GSR7hB+pGjUrEz9mFipSL3EGnWrxDd7hvkyeu/iOYO8wesTngOIcgDTizw1dMsZ7c4g+DjZpM2koP2jMY+7tg==",
+      "type": "package",
+      "path": "syncfusion.xlsio.net.core/21.2.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net6.0/Syncfusion.XlsIO.Portable.dll",
+        "lib/net6.0/Syncfusion.XlsIO.Portable.xml",
+        "lib/net7.0/Syncfusion.XlsIO.Portable.dll",
+        "lib/net7.0/Syncfusion.XlsIO.Portable.xml",
+        "lib/netstandard2.0/Syncfusion.XlsIO.Portable.dll",
+        "lib/netstandard2.0/Syncfusion.XlsIO.Portable.xml",
+        "syncfusion.xlsio.net.core.21.2.6.nupkg.sha512",
+        "syncfusion.xlsio.net.core.nuspec",
+        "syncfusion_logo.png"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Newtonsoft.Json >= 13.0.3"
+      "Newtonsoft.Json >= 13.0.3",
+      "Syncfusion.XlsIO.Net.Core >= 21.2.6"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\anton.yurchenko\\.nuget\\packages\\": {}
+    "C:\\Users\\anton.yurchenko\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\21.2.3\\ToolboxNuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -66,9 +172,13 @@
       "packagesPath": "C:\\Users\\anton.yurchenko\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\anton.yurchenko\\Documents\\Prog\\C#\\Survey\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\21.2.3\\ToolboxNuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\anton.yurchenko\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -97,6 +207,10 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.3, )"
+          },
+          "Syncfusion.XlsIO.Net.Core": {
+            "target": "Package",
+            "version": "[21.2.6, )"
           }
         },
         "imports": [

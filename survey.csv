@@ -1,0 +1,415 @@
+﻿||valtech-employment-section||Valtech employment section|Firstly, we're going to ask you about your working patterns and location in 2022. These are key inputs to emissions calculations!||||||||Sección de empleo de Valtech|En primer lugar, le preguntaremos sobre sus patrones de trabajo y ubicación en 2022. ¡Estos son insumos clave para los cálculos de emisiones!| | | ||Section emploi Valtech|Tout d'abord, nous allons vous poser des questions sur vos habitudes et vos lieux de travail en 2022. Ce sont des données clés pour le calcul des émissions !| | | ||Seção: o trabalho na Valtech|Em primeiro lugar, vamos perguntar sobre seus padrões de trabalho e localização em 2022. Estes são os principais insumos para os cálculos de emissões!| | | | |Seção: o trabalho na Valtech|Em primeiro lugar, vamos perguntar sobre seus padrões de trabalho e localização em 2022. Estes são os principais insumos para os cálculos de emissões!| | |||||| |$
+||employment_start-date-year|VALTECH EMPLOYMENT|When did you start working at Valtech?|If your company was acquired by Valtech, please answer according to when you started working at your original company.|MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Before 2022
+ - During 2022
+ - During 2023"|Total days of year to factor in to calculations|||||¿Cuándo empezaste a trabajar en Valtech?|Si su empresa fue adquirida por Valtech, responda de acuerdo con cuando comenzó a trabajar en su empresa original.|"Opciones:
+- Antes de 2022
+- Durante 2022
+- Durante 2023"| | ||Quand avez-vous commencé à travailler chez Valtech?|Si votre entreprise a été acquise par Valtech, veuillez répondre en fonction du moment où vous avez commencé à travailler dans votre entreprise d'origine.|"Options
+ - Avant 2022
+ - Courant 2022
+ - Courant 2023"| | ||Quando você começou a trabalhar na Valtech?|Se sua empresa foi adquirida pela Valtech, responda de acordo com quando você começou a trabalhar em sua empresa original.|"Opções:
+- Antes de 2022
+- Durante 2022
+- Durante 2023"| | | |Quando você começou a trabalhar na Valtech?|Se sua empresa foi adquirida pela Valtech, responda de acordo com quando você começou a trabalhar em sua empresa original.|"Opções:
+- Antes de 2022
+- Durante 2022
+- Durante 2023"| |||||| |$
+Only display if during 2022 or during 2023 selected in previous question. If 2023 selected, only display January - May.||employment_start-date-month|VALTECH EMPLOYMENT|In which month did you start working at Valtech in that year?||DATE|"Options:
+ - January
+ - February
+ - March
+ - April
+ - May
+ - June
+ - July
+ - August
+ - September
+ - October
+ - November
+ - December"||||||¿En qué mes comenzó a trabajar en Valtech en ese año?| |"Opciones:
+- Enero
+- Febrero
+- Marzo
+- Abril
+- Mayo
+- Junio
+- Julio
+- Agosto
+- Septiembre
+- Octubre
+- Noviembre
+- Diciembre"| | ||En quel mois avez-vous commencé à travailler chez Valtech cette année-là?| |"Options:
+ - Janvier
+ - Février
+ - Mars
+ - Avril
+ - Mai
+ - Juin
+ - Juillet
+ - Août
+ - Septembre
+ - Octobre
+ - Novembre
+ - Décembre"| | ||Em que mês você começou a trabalhar na Valtech naquele ano?| |"Opções:
+- Janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro"| | | |Em que mês você começou a trabalhar na Valtech naquele ano?| |"Opções:
+- Janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro"| |||||| |$
+"If no, move to ""which was your base / normal Valtech office in 2022"""||employment_base-office-moved|VALTECH EMPLOYMENT|Did you move your base / normal Valtech office in 2022?|"By ""base / normal office"", we mean the Valtech office you officially formed a part of in 2022. This may or may not have been your closest office, geographically, but it should be the main Valtech office you went to in 2022 if / when you commuted. 
+
+If you don't have a base office, please select ""No""."|MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - No (default)
+ - Yes"||||||¿Trasladó su oficina base / normal de Valtech en 2022?|"Por ""oficina base / normal"", nos referimos a la oficina de Valtech de la que formaste parte oficialmente en 2022. Esta puede o no haber sido su oficina más cercana, geográficamente, pero debería ser la oficina principal de Valtech a la que fue en 2022 si / cuando viajó.
+
+Si no tienes una oficina base, seleccione ""No""."|"Opciones:
+ - No (predeterminado)
+- Sí"| | ||"Avez-vous changé de bureau ""de base"" Valtech en 2022?"|"Par ""bureau de base"", nous entendons le bureau de Valtech dont vous faisiez officiellement partie en 2022. Il s'agit du bureau Valtech où vous vous êtes rendu le plus souvent en 2022.
+
+Si vous n'avez pas de bureau de base, veuillez sélectionner ""Non""."|"Options:
+ - Non (par défaut)
+ - Oui"| | ||Você mudou sua base /escritório normal da Valtech em 2022?|"Por ""escritório base / normal"", queremos dizer o escritório da Valtech do qual você fez parte oficialmente em 2022. Este pode ou não ter sido o seu escritório mais próximo, geograficamente, mas deve ser o escritório principal da Valtech que você visitou em 2022 se / quando você comutou.
+
+Se você não tiver um escritório base, selecione ""Não""."|"Opções:
+- Não (padrão)
+- Sim"| | | |Você mudou sua base /escritório normal da Valtech em 2022?|"Por ""escritório base / normal"", queremos dizer o escritório da Valtech do qual você fez parte oficialmente em 2022. Este pode ou não ter sido o seu escritório mais próximo, geograficamente, mas deve ser o escritório principal da Valtech que você visitou em 2022 se / quando você comutou.
+
+Se você não tiver um escritório base, selecione ""Não""."|"Opções:
+- Não (padrão)
+- Sim"| |||||| |$
+"Only display if answered ""no"" to ""did you move your base / normal office in 2022?"""||employment_base-office-location|VALTECH EMPLOYMENT|Which was your base / normal Valtech office in 2022? |"If your contract shows that you are based 100% at home, please select ""I don't have a base office"""|MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - A LIST OF ALL VALTECH OFFICES (ENTITIES) FROM DROP DOWN
+ - Other [specify]
+ - Include ""I don't have a base office"" as an option"|Useful for office data survey||"* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different office
+* UNKNOWN OPTION: I don't have a base office"|||¿Cuál era su oficina base / normal de Valtech en 2022? |"Si su contrato muestra que usted está basado 100% en casa, por favor seleccione ""No tengo una oficina base"""|"Opciones:
+ - una LISTA DE TODAS LAS OFICINAS (ENTIDADES) DE VALTECH DEL MENÚ DESPLEGABLE
+- Otro [especificar]
+- Incluya ""No tengo una oficina base"" como opción"|"* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: Oficina diferente
+* OPCIÓN DESCONOCIDA: No tengo una oficina base"| ||"Quel était votre bureau ""de base"" Valtech en 2022? "|"Si votre contrat montre que vous êtes 100% en télétravail (full remote), veuillez sélectionner ""Je n'ai pas de bureau de base"""|"Options:
+ - une LISTE DE TOUS LES BUREAUX (ENTITÉS) DE VALTECH À PARTIR DE LA liste DÉROULANTE
+ - Autre [préciser]
+ - Inclure ""Je n'ai pas de bureau de base"" en option"|"* AUTRE TEXTE: Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ: Bureau différent
+* OPTION INCONNUE: Je n'ai pas de bureau de base"| ||Qual era o seu escritório base / normal da Valtech em 2022? |"Se o seu contrato disser que você está 100% em casa, selecione ""Eu não tenho um escritório base"""|"Opções:
+ - LISTA DE TODOS OS ESCRITÓRIOS (ENTIDADES) DA VALTECH DO MENU SUSPENSO
+- Outro [especificar]
+- Incluir como opção ""Não tenho escritório base"""|"* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: escritório diferente
+* OPÇÃO DESCONHECIDA: Eu não tenho um escritório base"| | |Qual era o seu escritório base / normal da Valtech em 2022? |"Se o seu contrato disser que você está 100% em casa, selecione ""Eu não tenho um escritório base"""|"Opções:
+ - LISTA DE TODOS OS ESCRITÓRIOS (ENTIDADES) DA VALTECH DO MENU SUSPENSO
+- Outro [especificar]
+- Incluir como opção ""Não tenho escritório base"""|"Outro (especifique)
+"|escritório diferente|Eu não tenho um escritório base|||| |$
+"Only display if ""yes"" selected in previous question"||employment_base-office-location-original|VALTECH EMPLOYMENT|Which was the base / normal Valtech office you had at the start of 2022?||MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Office list
+ - Other [specify]"|||"* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different office"|||¿Cuál era la oficina de Valtech base / normal que tenía a principios de 2022?| |"Opciones:
+- Lista de oficinas
+- Otros [especificar]"|"* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: Oficina diferente"| ||Quel était le bureau de base de Valtech que vous aviez au début de 2022?| |"Options:
+ - Liste des bureaux
+ - Autre [préciser]"|"* AUTRE TEXTE: Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ: Bureau différent"| ||Qual era o escritório base / normal da Valtech que você tinha no início de 2022?| |"Opções:
+- Lista de escritórios
+- Outros [especificar]"|"* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: escritório diferente"| | |Qual era o escritório base / normal da Valtech que você tinha no início de 2022?| |"Opções:
+- Lista de escritórios
+- Outros [especificar]"|"Outro (especifique)
+"| escritório diferente||||| |$
+"Only display if ""yes"" selected in previous question"||employment_base-office-location-new|VALTECH EMPLOYMENT|Which was the base / normal Valtech office you moved to during the course of 2022?|If you moved offices more than once in 2022, please select the office you ended the year in. |MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Office list
+ - Other [specify]"|||"* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different office"|||¿Cuál fue la oficina base / normal de Valtech a la que se mudó durante el transcurso de 2022?|Si mudó oficinas más de una vez en 2022, seleccione la oficina en la que terminó el año. |"Opciones:
+- Lista de oficinas
+- Otros [especificar]"|"* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: Oficina diferente"| ||Quel était le bureau de base Valtech dans lequel vous avez déménagé au cours de l'année 2022?|Si vous avez déménagé plus d'une fois en 2022, veuillez sélectionner le bureau dans lequel vous avez terminé l'année. |"Options:
+ - Liste des bureaux
+ - Autre [préciser]"|"* AUTRE TEXTE: Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ: Bureau différent"| ||Qual foi o escritório base/ normal da Valtech para o qual você se mudou durante o ano de 2022?|Se você mudou de escritório mais de uma vez em 2022, selecione o escritório em que terminou o ano. |"Opções:
+- Lista de escritórios
+- Outros [especificar]"|"* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: escritório diferente"| | |Qual foi o escritório base/ normal da Valtech para o qual você se mudou durante o ano de 2022?|Se você mudou de escritório mais de uma vez em 2022, selecione o escritório em que terminou o ano. |"Opções:
+- Lista de escritórios
+- Outros [especificar]"|"Outro (especifique)
+"| escritório diferente||||| |$
+||employment_business-unit|VALTECH EMPLOYMENT|Which Valtech business unit / service line / team do you work for?|This is the team you work for, day-to-day, irrespective of where you live. For example, you might live in Germany but work for Valtech France. Please look at the whole list before answering.|MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - List on ""VT offices and teams list"" tab"|||* PLACEHOLDER: Select your business unit...|||¿Para qué unidad de negocio/línea de servicio/ equipo de Valtech trabaja?|Este es el equipo para el que trabajas, día a día, independientemente de dónde vivas. Por ejemplo, puedes vivir en Alemania, pero trabajar para Valtech Francia. Por favor, mire toda la lista antes de responder.|"Opciones:
+- Enumere en la pestaña ""Lista de oficinas y equipos de VT"""|* MARCADOR DE POSICIÓN: Seleccione su unidad de negocio...| ||Pour quelle unité commerciale/ligne de service/ équipe Valtech travaillez-vous?|C'est l'équipe pour laquelle vous travaillez, au jour le jour, quel que soit l'endroit où vous vivez. Par exemple, vous pourriez vivre en Allemagne mais travailler pour Valtech France. Veuillez consulter la liste complète avant de répondre.|"Options:
+ - Liste sur l'onglet ""Liste des bureaux et équipes VT"""|* ESPACE RÉSERVÉ: Sélectionnez votre unité d'affaires...| ||Para qual unidade de negócios / linha de serviço/ equipe da Valtech você trabalha?|Esta é a equipe para a qual você trabalha, no dia-a-dia, independentemente de onde você mora. Por exemplo, você pode morar na Alemanha, mas trabalhar para a Valtech França. Veja a lista completa antes de responder.|"Opções:
+- Lista na guia ""Lista de escritórios e equipes VT"""|* ESPAÇO RESERVADO: Selecione sua unidade de negócios...| | |Para qual unidade de negócios / linha de serviço/ equipe da Valtech você trabalha?|Esta é a equipe para a qual você trabalha, no dia-a-dia, independentemente de onde você mora. Por exemplo, você pode morar na Alemanha, mas trabalhar para a Valtech França. Veja a lista completa antes de responder.|"Opções:
+- Lista na guia ""Lista de escritórios e equipes VT"""||||Selecione sua unidade de negócios...||| |$
+||employment_home-country|VALTECH EMPLOYMENT|Which country did you live in, in 2022?|This will help us to determine the emission intensity of your local grid. If you split your working time between houses in different areas / countries, or moved area / country during 2022, please answer according to the location in which you spent the majority of the year.|MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - List of all Valtech countries (i.e. where we have offices)
+ - Other: specify (free text)"|Grid electricity, location based calculation||"* PLACEHOLDER: Select your country...
+* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different country"|||¿En qué país vivió en 2022?|Esto nos ayudará a determinar la intensidad de emisión de su red local. Si dividió su tiempo de trabajo entre casas en diferentes áreas / países, o se mudó de área / país durante 2022, responda de acuerdo con la ubicación en la que pasó la mayor parte del año.|"Opciones:
+- Lista de todos los países de Valtech (es decir, donde tenemos oficinas)
+- Otro: especificar (texto libre)"|"* MARCADOR DE POSICIÓN: Seleccione su país…* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: Oficina diferente"| ||Dans quel pays avez-vous vécu en 2022?|Cela nous aidera à déterminer l'intensité des émissions de votre réseau électrique local. Si vous partagez votre temps de travail entre des maisons situées dans différentes zones / pays ou dans une zone /un pays déplacé en 2022, veuillez répondre en fonction du lieu où vous avez passé la majeure partie de l'année.|"Options:
+ - Liste de tous les pays Valtech (c'est-à-dire où nous avons des bureaux)
+ - Autre: préciser (texte libre)"|"* PLACEHOLDER: Sélectionnez votre pays...* AUTRE TEXTE: Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ: Bureau différent"| ||Em que país você morou, em 2022?|Isso nos ajudará a determinar a intensidade de emissão de sua rede local. Se você dividir seu tempo de trabalho entre casas em diferentes áreas / países ou mudou de área / país durante 2022, responda de acordo com o local em que passou a maior parte do ano.|"Opções:
+ - Lista de todos os países da Valtech (ou seja, onde temos escritórios)
+- Outro: especificar (texto livre)"|"* ESPAÇO RESERVADO: Selecione seu país...* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: escritório diferente"| | |Em que país você morou, em 2022?|Isso nos ajudará a determinar a intensidade de emissão de sua rede local. Se você dividir seu tempo de trabalho entre casas em diferentes áreas / países ou mudou de área / país durante 2022, responda de acordo com o local em que passou a maior parte do ano.|"Opções:
+ - Lista de todos os países da Valtech (ou seja, onde temos escritórios)
+- Outro: especificar (texto livre)"|Outro (especifique)|escritório diferente||Selecione seu país...||| |$
+Only display if VT country selected in previous question, except for UK, [AND OTHERS??]||employment_home-region|VALTECH EMPLOYMENT|Which province / state / county / region did you live in in 2022, within your country? |This helps us calculate your emissions with greater accuracy, as energy mixes can vary significantly between areas of a country. If you split your working time between houses in different areas / countries, or moved area / country during 2022, please answer according to the location in which you spent the majority of the year.|MULTIPLE OPTIONS - ONE CHOICE|WILL THEN AUTOMATE TO A LIST OF ALL PROVINCES / REGIONS / COUNTIES WITHIN THE COUNTRY SELECTED|Regional grid electricity, location based||* PLACEHOLDER: Select your region...|||¿En qué provincia / estado / condado / región vivió en 2022, dentro de su país? |Esto nos ayuda a calcular sus emisiones con mayor precisión, ya que las mezclas de energía pueden variar significativamente entre las áreas de un país. Si dividió su tiempo de trabajo entre casas en diferentes áreas / países, o se mudó de área / país durante 2022, responda de acuerdo con la ubicación en la que pasó la mayor parte del año.|A CONTINUACIÓN, SE AUTOMATIZARÁ A UNA LISTA DE TODAS LAS PROVINCIAS / REGIONES / CONDADOS DENTRO DEL PAÍS SELECCIONADO|* MARCADOR DE POSICIÓN: Seleccione su región...| ||Dans quelle province / état/comté / région viviez-vous en 2022, dans votre pays? |Cela nous aide à calculer vos émissions avec une plus grande précision, car les mix énergétiques peuvent varier considérablement d'une région à l'autre d'un pays. Si vous partagez votre temps de travail entre des maisons situées dans différentes zones / pays ou dans une zone /un pays déplacé en 2022, veuillez répondre en fonction du lieu où vous avez passé la majeure partie de l'année.|AUTOMATISERA ENSUITE VERS UNE LISTE DE TOUTES LES PROVINCES / RÉGIONS / COMTÉS DANS LE PAYS SÉLECTIONNÉ|* ESPACE RESERVÉ: Sélectionnez votre région...| ||Em que província / estado / condado / região você morou em 2022, dentro do seu país? |Isso nos ajuda a calcular suas emissões com maior precisão, pois a mistura de energias pode variar significativamente entre as áreas de um país. Se você dividir seu tempo de trabalho entre casas em diferentes áreas / países ou mudou de área / país durante 2022, responda de acordo com o local em que passou a maior parte do ano.|ENTÃO AUTOMATIZARÁ PARA UMA LISTA DE TODAS AS PROVÍNCIAS / REGIÕES / CONDADOS DENTRO DO PAÍS SELECIONADO|* ESPAÇO RESERVADO: Selecione sua região...| | |Em que província / estado / condado / região você morou em 2022, dentro do seu país? |Isso nos ajuda a calcular suas emissões com maior precisão, pois a mistura de energias pode variar significativamente entre as áreas de um país. Se você dividir seu tempo de trabalho entre casas em diferentes áreas / países ou mudou de área / país durante 2022, responda de acordo com o local em que passou a maior parte do ano.|ENTÃO AUTOMATIZARÁ PARA UMA LISTA DE TODAS AS PROVÍNCIAS / REGIÕES / CONDADOS DENTRO DO PAÍS SELECIONADO||||Selecione sua região...||| |$
+||employment_working-days-per-week|VALTECH EMPLOYMENT|In 2022, on average how many days did you work per week, in a typical week?|Please **don't** factor in any significant periods of time off work here (e.g. on sick leave). Just give your standard working pattern. If your working pattern changed during 2022, please just give your best estimate as to the average number of days you worked per week that year.|MULTIPLE OPTIONS - MULTIPLE CHOICE|"Options:
+ - 0.5 day per week
+ - 1 day per week
+ - 1.5 days per week
+ - 2 days per week
+ - 2.5 days per week
+ - 3 days per week 
+ - 3.5 days per week
+ - 4 days per week
+ - 4.5 days per week
+ - 5 days per week "|Days needed to multiply by hours for WFH emissions||* UNIT: [N] days per week|||En 2022, en promedio, ¿cuántos días trabajó por semana, en una semana típica?|Por favor, **no** tenga en cuenta los períodos significativos de tiempo fuera del trabajo aquí (por ejemplo, con licencia por enfermedad). Simplemente dé su patrón de trabajo estándar. Si su patrón de trabajo cambió durante 2022, simplemente dé su mejor estimación en cuanto a la cantidad promedio de días que trabajó por semana ese año.|"Opciones:
+- 0.5 días por semana
+- 1 día por semana
+- 1.5 días por semana
+- 2 días a la semana
+- 2.5 días por semana
+- 3 días a la semana
+- 3.5 días por semana
+- 4 días a la semana
+- 4.5 días por semana
+- 5 días a la semana "|* UNIDAD: [N] días por semana| ||En 2022, en moyenne, combien de jours avez-vous travaillés par semaine, dans une semaine typique ?|Veuillez **ne pas** tenir compte des périodes de congé importantes (par exemple, un congé de maladie). Donnez simplement votre modèle de travail standard. Si votre rythme de travail a changé en 2022, veuillez simplement donner votre meilleure estimation du nombre moyen de jours de travail par semaine cette année-là.|"Options :
+ - 0,5 jour par semaine
+ - 1 jour par semaine
+ - 1,5 jour par semaine
+ - 2 jours par semaine
+ - 2,5 jours par semaine
+ - 3 jours par semaine
+ - 3,5 jours par semaine
+ - 4 jours par semaine
+ - 4,5 jours par semaine
+ - 5 jours par semaine "|* UNITÉ : [N] jours par semaine| ||Em 2022, em média, quantos dias você trabalhou por semana, em uma semana típica?|Por favor, **não** considere quaisquer períodos significativos de afastamento do trabalho aqui (por exemplo, em licença médica). Forneça apenas seu padrão de modelo de trabalho. Se o seu modelo de trabalho mudou durante 2022, forneça sua melhor estimativa quanto ao número médio de dias que você trabalhou por semana naquele ano.|"Opções:
+- 0,5 dia por semana
+- 1 dia por semana
+- 1,5 dias por semana
+- 2 dias por semana
+- 2,5 dias por semana
+- 3 dias por semana
+- 3,5 dias por semana
+- 4 dias por semana
+- 4,5 dias por semana
+- 5 dias por semana "|* UNIDADE: [N] dias por semana| | |Em 2022, em média, quantos dias você trabalhou por semana, em uma semana típica?|Por favor, **não** considere quaisquer períodos significativos de afastamento do trabalho aqui (por exemplo, em licença médica). Forneça apenas seu padrão de modelo de trabalho. Se o seu modelo de trabalho mudou durante 2022, forneça sua melhor estimativa quanto ao número médio de dias que você trabalhou por semana naquele ano.|"Opções:
+- 0,5 dia por semana
+- 1 dia por semana
+- 1,5 dias por semana
+- 2 dias por semana
+- 2,5 dias por semana
+- 3 dias por semana
+- 3,5 dias por semana
+- 4 dias por semana
+- 4,5 dias por semana
+- 5 dias por semana "|||||[N] dias por semana|| |$
+||employment_working-hours-per-day|VALTECH EMPLOYMENT|On an average working day in 2022, how many hours did you work?|Please estimate the number of hours you worked on a normal working day. If your working pattern changed substantially during the year (e.g. you went from working 8 hours each day for the first half of 2022 to 4 hours each day for the second half of 2022), please do your best to work out a rough average (in this example, it would be 6 hours a day).|MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - 1 hour
+ - 2 hours
+ - 3 hours
+ - 4 hours
+ - 5 hours
+ - 6 hours 
+ - 7 hours
+ - 8 hours
+ - 9 hours
+ - 10 hours 
+ - 11 hours
+ - 12 hours"|Calculating total time working||* UNIT: [N] hours per day|||En un día laboral promedio en 2022, ¿cuántas horas trabajó?|Por favor, calcule el número de horas que trabajó en un día normal de trabajo. Si su patrón de trabajo cambió sustancialmente durante el año (por ejemplo, pasó de trabajar 8 horas al día durante la primera mitad de 2022 a 4 horas al día durante la segunda mitad de 2022), haga todo lo posible para calcular un promedio aproximado (en este ejemplo, serían 6 horas al día).|"Opciones:
+- 1 hora
+- 2 horas
+- 3 horas
+- 4 horas
+- 5 horas
+- 6 horas
+- 7 horas
+- 8 horas
+- 9 horas
+- 10 horas
+- 11 horas
+- 12 horas"|* UNIDAD: [N] horas por día| ||Sur une journée de travail moyenne en 2022, combien d'heures avez-vous travaillées ?|Veuillez estimer le nombre d'heures que vous avez travaillé au cours d'une journée de travail normal. Si votre rythme de travail a considérablement changé au cours de l'année (par exemple, vous êtes passé de 8 heures de travail par jour au premier semestre 2022 à 4 heures par jour au second semestre 2022), veuillez faire de votre mieux pour calculer une moyenne approximative (dans cet exemple, il s'agirait de 6 heures par jour).|"Options :
+ - 1 heure
+ - 2 heures
+ - 3 heures
+ - 4 heures
+ - 5 heures
+ - 6 heures
+ - 7 heures
+ - 8 heures
+ - 9 heures
+ - 10 heures
+ - 11 heures
+ - 12 heures"|* UNITÉ : [N] heures par jour| ||Em um dia de trabalho médio em 2022, quantas horas você trabalhou?|Por favor, estime o número de horas que você trabalhou em um dia normal de trabalho. Se o seu modelo de trabalho mudou substancialmente durante o ano (por exemplo, você passou de 8 horas por dia no primeiro semestre de 2022 para 4 horas por dia no segundo semestre de 2022), por favor faça o seu melhor para calcular uma média aproximada (neste exemplo, seriam 6 horas por dia).|"Opções:
+- 1 hora
+- 2 horas
+- 3 horas
+- 4 horas
+- 5 horas
+- 6 horas
+- 7 horas
+- 8 horas
+- 9 horas
+- 10 horas
+- 11 horas
+- 12 horas"|* UNIDADE: [N] horas por dia| | |Em um dia de trabalho médio em 2022, quantas horas você trabalhou?|Por favor, estime o número de horas que você trabalhou em um dia normal de trabalho. Se o seu modelo de trabalho mudou substancialmente durante o ano (por exemplo, você passou de 8 horas por dia no primeiro semestre de 2022 para 4 horas por dia no segundo semestre de 2022), por favor faça o seu melhor para calcular uma média aproximada (neste exemplo, seriam 6 horas por dia).|"Opções:
+- 1 hora
+- 2 horas
+- 3 horas
+- 4 horas
+- 5 horas
+- 6 horas
+- 7 horas
+- 8 horas
+- 9 horas
+- 10 horas
+- 11 horas
+- 12 horas"|||||[N] horas por dia|| |$
+IF NO MOVES to employment location pattern||employment_time-off|VALTECH EMPLOYMENT|Did you take a significant length of time off work (totalling 1 month or more) in 2022, that did not form part of your annual leave? |"This might have been for maternity / paternity / shared parental leave, sick leave, sabbatical etc. We're asking this because we're trying to understand the overall picture of emissions generated when working from home. Significant periods of absence need to be deducted from our total individual emissions.
+
+Please account for any substantial time cumulatively (e.g. you took 3 weeks in January and 2 weeks in June = 5 weeks total, which you'd round down to 1 month, or you took 6 months in one block). "|MULTIPLE OPTIONS - ONE CHOICE|YES/NO|Needed to ensure not overcounting worked hours|||||¿Tomó una cantidad significativa de tiempo libre (un total de 1 mes o más) en 2022, que no formó parte de sus vacaciones anuales? |"Esto podría haber sido por maternidad / paternidad /licencia parental compartida, licencia por enfermedad, año sabático, etc. Estamos preguntando esto porque estamos tratando de comprender el panorama general de las emisiones generadas cuando se trabaja desde casa. Los períodos significativos de ausencia deben deducirse de nuestras emisiones individuales totales.
+
+Por favor, tenga en cuenta cualquier tiempo sustancial acumulado (por ejemplo, tomó 3 semanas en enero y 2 semanas en junio = 5 semanas en total, que redondearía a 1 mes, o tomó 6 meses en un bloque). "|SÍ/NO| | ||Avez-vous pris un congé important (totalisant 1 mois ou plus) en 2022, qui ne faisait pas partie de votre congé annuel ? |"Il peut s'agir d'un congé de maternité / paternité /parental partagé, d'un congé de maladie, d'un congé sabbatique, etc. Nous posons cette question parce que nous essayons de comprendre l'image globale des émissions générées par le travail à domicile. Des périodes d'absence importantes doivent être déduites de nos émissions individuelles totales.
+
+Veuillez tenir compte de tout temps important cumulé (par exemple, vous avez pris 3 semaines en janvier et 2 semaines en juin = 5 semaines au total, que vous arrondiriez à 1 mois). "|OUI/NON| | ||Você tirou um período significativo de folga do trabalho (totalizando 1 mês ou mais) em 2022, que não fazia parte de suas férias anuais? |"Isso pode ter sido para licença maternidade / paternidade /parental compartilhada, licença médica, licença sabática, etc. Estamos perguntando isso porque estamos tentando entender o quadro geral das emissões geradas quando se trabalha em casa. Períodos significativos de ausência precisam ser deduzidos de nossas emissões individuais totais.
+
+Por favor, contabilize qualquer tempo substancial cumulativamente (por exemplo, você tirou 3 semanas em janeiro e 2 semanas em junho = 5 semanas no total, o que você arredondaria para 1 mês, ou você tirou 6 meses em um bloco). "|SIM/NÃO| | | |Você tirou um período significativo de folga do trabalho (totalizando 1 mês ou mais) em 2022, que não fazia parte de suas férias anuais? |"Isso pode ter sido para licença maternidade / paternidade /parental compartilhada, licença médica, licença sabática, etc. Estamos perguntando isso porque estamos tentando entender o quadro geral das emissões geradas quando se trabalha em casa. Períodos significativos de ausência precisam ser deduzidos de nossas emissões individuais totais.
+
+Por favor, contabilize qualquer tempo substancial cumulativamente (por exemplo, você tirou 3 semanas em janeiro e 2 semanas em junho = 5 semanas no total, o que você arredondaria para 1 mês, ou você tirou 6 meses em um bloco). "|SIM/NÃO||||||| |$
+||employment_time-off-months|VALTECH EMPLOYMENT|How many months did you take off work in total in 2022, *not* including your annual leave?|Please estimate this to the nearest whole month.|MULTIPLE OPTIONS - ONE CHOICE|"Options: 
+ - 1 month
+ - 2 months
+ - 3 months
+ - 4 months
+ - 5 months
+ - 6 months
+ - 7 months
+ - 8  months
+ - 9 months
+ - 10 months
+ - 11 months
+ - 12 months"|||* UNIT: [N] months|||¿Cuántos meses tomó fuera del trabajo en total en 2022, *no* incluidas sus vacaciones anuales?|Por favor, calcule esto al mes entero más cercano.|"Opciones:
+- 1 mes
+- 2 meses
+- 3 meses
+- 4 meses
+- 5 meses
+- 6 meses
+- 7 meses
+- 8 meses
+- 9 meses
+- 10 meses
+- 11 meses
+- 12 meses"|* UNIDAD: [N] meses| ||Combien de mois avez-vous pris votre congé au total en 2022, *sans* compter vos congés annuels ?|Veuillez arrondir au mois entier le plus proche.|"Options :
+ - 1 mois
+ - 2 mois
+ - 3 mois
+ - 4 mois
+ - 5 mois
+ - 6 mois
+ - 7 mois
+ - 8  mois
+ - 9 mois
+ - 10 mois
+ - 11 mois
+ - 12 mois"|* UNITÉ : [N] mois| ||Quantos meses de folga você tirou do trabalho no total em 2022, *não* incluindo suas férias anuais?|Por favor, estime isso para o mês inteiro mais próximo.|"Opções:
+- 1 mês
+- 2 meses
+- 3 meses
+- 4 meses
+- 5 meses
+- 6 meses
+- 7 meses
+- 8 meses
+- 9 meses
+- 10 meses
+- 11 meses
+- 12 meses"|* UNIDADE: [N] meses| | |Quantos meses de folga você tirou do trabalho no total em 2022, *não* incluindo suas férias anuais?|Por favor, estime isso para o mês inteiro mais próximo.|"Opções:
+- 1 mês
+- 2 meses
+- 3 meses
+- 4 meses
+- 5 meses
+- 6 meses
+- 7 meses
+- 8 meses
+- 9 meses
+- 10 meses
+- 11 meses
+- 12 meses"|||||[N] meses|| |$
+Must sum to 100%, free text but numerical values only, marked with a % after each box.||employment_working-pattern-split|VALTECH EMPLOYMENT|Thinking about only the days you *did* work in 2022, how did you split your working time between these activities?|The total must sum to 100%. Please round up to the nearest 5%. For example, even if you only took one flight for business in 2022, please put 5% against business travel.|Table|"See table on ""working location split table"" tab.
+
+Rows:
+- Working from home
+- Working from your base Valtech office
+- Working from a different Valtech office (not your base / normal office)
+- Working from a client office as part of your standard working pattern
+- Travelling on business (e.g. to an event)
+
+Columns:
+- Percentage split"||||"* ERROR TEXT OVER 100%: Total share can not exceed 100%!
+* ERROR TEXT UNDER 100%: Total share should be 100%!"||Pensando solo en los días que *trabajó* en 2022, ¿cómo dividió su tiempo de trabajo entre estas actividades?|El total debe sumar 100%. Por favor redondee al 5% más cercano. Por ejemplo, incluso si solo tomaste un vuelo de negocios en 2022, pon un 5% en contra de los viajes de negocios.|"
+
+Filas:
+- Trabajar desde casa
+- Trabajando desde su oficina base de Valtech
+- Trabajar desde una oficina de Valtech diferente (no su oficina base / normal)
+- Trabajar desde una oficina del cliente como parte de su patrón de trabajo estándar
+Viajar por negocios (por ejemplo, a un evento)
+
+Columnas:
+- Porcentaje de división"| |* TEXTO DE ERROR SUPERIOR AL 100%: ¡La participación total no puede exceder el 100%!    * TEXTO DE ERROR INFERIOR AL 100%: ¡La participación total debe ser del 100%!||En pensant uniquement aux jours où vous * avez * travaillé en 2022, comment avez-vous réparti votre temps de travail entre ces activités ?|Le total doit être de 100%. Veuillez arrondir à 5% près. Par exemple, même si vous n'avez pris qu'un seul vol pour affaires en 2022, veuillez mettre 5% en voyages d'affaires.|"Reportez-vous au tableau de l'onglet ""Table fractionnée de l'emplacement de travail"".
+
+Rangées :
+- Travail à domicile (remote)
+- Travail dans votre bureau de base Valtech
+- Travail dans un autre bureau Valtech 
+- Travail à partir d'un bureau client 
+- Voyage d'affaires (ex. pour un événement)
+
+Colonnes:
+- Répartition en pourcentage"| |* TEXTE D'ERREUR SUPÉRIEUR À 100% : la part totale ne peut pas dépasser 100% !* TEXTE D'ERREUR INFÉRIEUR à 100% : la part totale doit être de 100% !||Pensando apenas nos dias em que você *trabalhou* em 2022, como você dividiu seu tempo de trabalho entre essas atividades?|O total deve somar 100%. Arredonde para os 5% mais próximos. Por exemplo, mesmo que você tenha pegado apenas um voo para negócios em 2022, liste 5% em viagens de negócios.|"Consulte a tabela na guia ""working location split table"".
+
+Linhas:
+- Trabalhar em casa
+- Trabalhar em seu escritório base da Valtech
+- Trabalhar em um escritório da Valtech diferente (não em sua base /escritório normal)
+- Trabalhar no escritório do cliente como parte de seu modelo de trabalho padrão
+- Viajar a negócios (por exemplo, para um evento)
+
+Colunas:
+- Porcentagem dividida"| |* TEXTO DE ERRO ACIMA DE 100%: A participação total não pode exceder 100%!* TEXTO DE ERRO ABAIXO de 100%: A participação total deve ser de 100%!|la part totale doit être de 100% !|Pensando apenas nos dias em que você *trabalhou* em 2022, como você dividiu seu tempo de trabalho entre essas atividades?|O total deve somar 100%. Arredonde para os 5% mais próximos. Por exemplo, mesmo que você tenha pegado apenas um voo para negócios em 2022, liste 5% em viagens de negócios.|"Consulte a tabela na guia ""working location split table"".
+
+Linhas:
+- Trabalhar em casa
+- Trabalhar em seu escritório base da Valtech
+- Trabalhar em um escritório da Valtech diferente (não em sua base /escritório normal)
+- Trabalhar no escritório do cliente como parte de seu modelo de trabalho padrão
+- Viajar a negócios (por exemplo, para um evento)
+
+Colunas:
+- Porcentagem dividida"| |||||A participação total não pode exceder 100%!| A participação total deve ser de 100%!|$
