@@ -118,17 +118,81 @@ namespace Survey
       }
       if (DoesPropertyExist(element, "validators"))
       {
-        element.validators[0].text.Default = questions[name].English.ErrorOver;
-        element.validators[0].text.es = questions[name].Spanish.ErrorOver;
-        element.validators[0].text.fr = questions[name].French.ErrorOver;
-        element.validators[0].text.pt_BR = questions[name].Portuguese.ErrorOver;
-        if (element.validators.Count > 1) {
-          element.validators[1].text.Default = questions[name].English.ErrorUnder;
-          element.validators[1].text.es = questions[name].Spanish.ErrorUnder;
-          element.validators[1].text.fr = questions[name].French.ErrorUnder;
-          element.validators[1].text.pt_BR = questions[name].Portuguese.ErrorUnder;
+        var i = 0;
+        foreach (var validator in element.validators)
+        {
+          if (DoesPropertyExist(validator, "text"))
+          {
+
+            validator.text.Default = questions[name].English.Errors.Count > i ? questions[name].English.Errors[i] : string.Empty;
+            validator.text.es = questions[name].Spanish.Errors.Count > i ? questions[name].Spanish.Errors[i] : string.Empty;
+            validator.text.fr = questions[name].French.Errors.Count > i ? questions[name].French.Errors[i] : string.Empty;
+            validator.text.pt_BR = questions[name].Portuguese.Errors.Count > i ? questions[name].Portuguese.Errors[i] : string.Empty;
+          }
+          i++;        
         }
       }
+      if (DoesPropertyExist(element, "maxRateDescription"))
+      {
+        element.maxRateDescription.Default = questions[name].English.Unit;
+        element.maxRateDescription.es = questions[name].Spanish.Unit;
+        element.maxRateDescription.fr = questions[name].French.Unit;
+        element.maxRateDescription.pt_BR = questions[name].Portuguese.Unit;
+      }
+      if (DoesPropertyExist(element, "columns"))
+      {
+        var i = 0;
+        foreach (var column in element.columns)
+        {
+          if (DoesPropertyExist(column, "title"))
+          {
+
+            column.title.Default = questions[name].English.Columns.Count > i ? questions[name].English.Columns[i] : string.Empty;
+            column.title.es = questions[name].Spanish.Columns.Count > i ? questions[name].Spanish.Columns[i] : string.Empty;
+            column.title.fr = questions[name].French.Columns.Count > i ? questions[name].French.Columns[i] : string.Empty;
+            column.title.pt_BR = questions[name].Portuguese.Columns.Count > i ? questions[name].Portuguese.Columns[i] : string.Empty;
+          }
+          i++;
+        }
+      }
+      if (DoesPropertyExist(element, "rows"))
+      {
+        var i = 0;
+        foreach (var row in element.rows)
+        {
+          if (DoesPropertyExist(row, "text"))
+          {
+
+            row.text.Default = questions[name].English.Rows.Count > i ? questions[name].English.Rows[i] : string.Empty;
+            row.text.es = questions[name].Spanish.Rows.Count > i ? questions[name].Spanish.Rows[i] : string.Empty;
+            row.text.fr = questions[name].French.Rows.Count > i ? questions[name].French.Rows[i] : string.Empty;
+            row.text.pt_BR = questions[name].Portuguese.Rows.Count > i ? questions[name].Portuguese.Rows[i] : string.Empty;
+          }
+          i++;
+        }
+      }
+      if (DoesPropertyExist(element, "addRowText"))
+      {
+        element.addRowText.Default = questions[name].English.AddRowText;
+        element.addRowText.es = questions[name].Spanish.AddRowText;
+        element.addRowText.fr = questions[name].French.AddRowText;
+        element.addRowText.pt_BR = questions[name].Portuguese.AddRowText;
+      }
+      if (DoesPropertyExist(element, "removeRowText"))
+      {
+        element.removeRowText.Default = questions[name].English.RemoveRowText;
+        element.removeRowText.es = questions[name].Spanish.RemoveRowText;
+        element.removeRowText.fr = questions[name].French.RemoveRowText;
+        element.removeRowText.pt_BR = questions[name].Portuguese.RemoveRowText;
+      }
+      if (DoesPropertyExist(element, "keyDuplicationError"))
+      {
+        element.keyDuplicationError.Default = questions[name].English.KeyDuplicationError;
+        element.keyDuplicationError.es = questions[name].Spanish.KeyDuplicationError;
+        element.keyDuplicationError.fr = questions[name].French.KeyDuplicationError;
+        element.keyDuplicationError.pt_BR = questions[name].Portuguese.KeyDuplicationError;
+      }
+
     }
 
     private static void readData()
@@ -140,9 +204,7 @@ namespace Survey
       foreach (var question in questionArray)
       {
         if (question.Trim().Length == 0) continue;
-        var cleanQuestion = Regex.Replace(question, @"[\n\|](\"")", "");
-        cleanQuestion = Regex.Replace(question, @"(\"")[\n\|]", "");
-        var questionParts = cleanQuestion.Split('|');
+        var questionParts = question.Split('|');
         var surveyQuestion = new SurveyQuestion();
         surveyQuestion.English = getQuestion(questionParts, 4, 5, 7, 10, 11);
         surveyQuestion.Spanish = getQuestion(questionParts, 13, 14, 15, 16, 17);
@@ -156,17 +218,73 @@ namespace Survey
       var question = new Question();
       question.Title = questionParts[indices[0]].Trim();
       question.Description = questionParts[indices[1]].Trim();
-      question.Options = Regex.Split(questionParts[indices[2]], @"\s+-\s*")
-                              .Select(m => m.Trim())
-                              .ToList();
-      question.OtherText = MatchRegex(questionParts[indices[3]], GetLabelRegex("OTHER TEXT|OTRO TEXTO|AUTRE TEXTE|OUTRO TEXTO"));
-      question.OtherPlaceholder = MatchRegex(questionParts[indices[3]], GetLabelRegex("OTHER PLACEHOLDER|OTRO MARCADOR DE POSICIÓN|AUTRE ESPACE RÉSERVÉ|OUTRO ESPAÇO RESERVADO"));
-      question.UnknownOption = MatchRegex(questionParts[indices[3]], GetLabelRegex("UNKNOWN OPTION|OPCIÓN DESCONOCIDA|OPTION INCONNUE|OPÇÃO DESCONHECIDA"));
-      question.Placeholder = MatchRegex(questionParts[indices[3]], GetLabelRegex("PLACEHOLDER|MARCADOR DE POSICIÓN|ESPACE R[ÉE]SERVÉ|ESPAÇO RESERVADO"));
-      question.Unit = MatchRegex(questionParts[indices[3]], GetLabelRegex("UNIT|UNIDAD|UNITÉ|UNIDADE"));
-      question.ErrorOver = MatchRegex(questionParts[indices[4]], GetLabelRegex("ERROR TEXT OVER 100%|TEXTO DE ERROR SUPERIOR AL 100%|TEXTE D'ERREUR SUPÉRIEUR À 100%|TEXTO DE ERRO ACIMA DE 100%"));
-      question.ErrorUnder = MatchRegex(questionParts[indices[4]], GetLabelRegex("ERROR TEXT UNDER 100%|TEXTO DE ERROR INFERIOR AL 100%|TEXTE D'ERREUR INFÉRIEUR À 100%|TEXTO DE ERRO ABAIXO DE 100%"));
+      question.Options = GetListOf(questionParts[indices[2]], "Options|Opciones|Options|Opções");
+      question.Rows = GetListOf(questionParts[indices[2]], "Rows|Filas|Rangées|Linhas");
+      question.Columns = GetListOf(questionParts[indices[2]], "Columns|Columnas|Colonnes|Colunas");
+      question.OtherText = MatchRegex(questionParts[indices[3]], 
+        GetLabelRegex("OTHER TEXT|OTRO TEXTO|AUTRE TEXTE|OUTRO TEXTO"));
+      question.OtherPlaceholder = MatchRegex(questionParts[indices[3]], 
+        GetLabelRegex("OTHER PLACEHOLDER|OTRO MARCADOR DE POSICIÓN|AUTRE ESPACE RÉSERVÉ|OUTRO ESPAÇO RESERVADO"));
+      question.UnknownOption = MatchRegex(questionParts[indices[3]], 
+        GetLabelRegex("UNKNOWN OPTION|OPCIÓN DESCONOCIDA|OPTION INCONNUE|OPÇÃO DESCONHECIDA"));
+      question.Placeholder = MatchRegex(questionParts[indices[3]], 
+        GetLabelRegex("PLACEHOLDER|MARCADOR DE POSICIÓN|ESPACE R[ÉE]SERVÉ|ESPAÇO RESERVADO"));
+      question.Unit = MatchRegex(questionParts[indices[3]],
+        GetLabelRegex("UNIT|UNIDAD|UNITÉ|UNIDADE"));
+
+      question.Automatic = MatchRegex(questionParts[indices[3]],
+        GetLabelRegex("AUTOMATIC OPTION|OPCIÓN AUTOMÁTICA|OPTION AUTOMATIQUE|OPÇÃO AUTOMÁTICA"));
+      question.AddRowText = MatchRegex(questionParts[indices[3]],
+        GetLabelRegex("ADD ROW TEXT|AÑADIR TEXTO DE FILA|AJOUTER UN TEXTE DE LIGNE|ADICIONAR TEXTO DA LINHA"));
+      question.RemoveRowText = MatchRegex(questionParts[indices[3]],
+        GetLabelRegex("REMOVE ROW TEXT|ELIMINAR EL TEXTO de la FILA|SUPPRIMER LE TEXTE DE LA LIGNE|REMOVER TEXTO DA LINHA"));
+
+      question.TotalDistance = MatchRegex(questionParts[indices[3]],
+        GetLabelRegex("TOTAL DISTANCE|DISTANCIA TOTAL|DISTANCE TOTALE|DISTÂNCIA TOTAL"));
+      question.CountryPlaceholder = MatchRegex(questionParts[indices[3]],
+        GetLabelRegex("COUNTRY PLACEHOLDER TEXT|DISTANCIA TOTAL|TEXTE D'ESPACE RÉSERVÉ AU PAYS|DISTÂNCIA TOTAL"));//spanish and portuguese missing
+      question.ValidatorText = MatchRegex(questionParts[indices[3]],
+        GetLabelRegex("VALIDATOR TEXT|DISTANCIA TOTAL|TEXTE DU VALIDATEUR|DISTÂNCIA TOTAL"));//spanish and portuguese missing
+      question.DistancePlaceholder = MatchRegex(questionParts[indices[3]],
+        GetLabelRegex("DISTANCE PLACEHOLDER TEXT|DISTANCIA TOTAL|TEXTE DU VALIDATEUR|DISTÂNCIA TOTAL"));//french and spanish and portuguese missing
+
+      question.Errors.Add(MatchRegex(questionParts[indices[4]], 
+        GetLabelRegex("ERROR TEXT OVER 100%|TEXTO DE ERROR SUPERIOR AL 100%|TEXTE D'ERREUR SUPÉRIEUR À 100%|TEXTO DE ERRO ACIMA DE 100%")));
+      question.Errors.Add(MatchRegex(questionParts[indices[4]], 
+        GetLabelRegex("ERROR TEXT UNDER 100%|TEXTO DE ERROR INFERIOR AL 100%|TEXTE D'ERREUR INFÉRIEUR À 100%|TEXTO DE ERRO ABAIXO DE 100%")));
+      
+      question.Errors.Add(MatchRegex(questionParts[indices[4]], 
+        GetLabelRegex("ERROR TEXT SHORT-HAUL OVER 100%|TEXTO DE ERROR INFERIOR AL 100%|ERREUR « Courte Distance\" SUPÉRIEUR À 100%|TEXTO DE ERRO ABAIXO DE 100%")));
+      question.Errors.Add(MatchRegex(questionParts[indices[4]], 
+        GetLabelRegex("ERROR TEXT SHORT-HAUL UNDER 100%|TEXTO DE ERROR INFERIOR AL 100%|ERREUR « Courte Distance »  INFÉRIEUR À 100%|TEXTO DE ERRO ABAIXO DE 100%")));
+      question.Errors.Add(MatchRegex(questionParts[indices[4]], 
+        GetLabelRegex(" ERROR TEXT MEDIUM-HAUL OVER 100%|TEXTO DE ERROR INFERIOR AL 100%|ERREUR « Moyen Courrier\" SUPÉRIEUR À 100%|TEXTO DE ERRO ABAIXO DE 100%")));
+      question.Errors.Add(MatchRegex(questionParts[indices[4]], 
+        GetLabelRegex("ERROR TEXT MEDIUM-HAUL UNDER 100%|TEXTO DE ERROR INFERIOR AL 100%|ERREUR « Moyen Courrier »  INFÉRIEUR À 100% |TEXTO DE ERRO ABAIXO DE 100%")));
+      question.Errors.Add(MatchRegex(questionParts[indices[4]], 
+        GetLabelRegex("ERROR TEXT LONG-HAUL OVER 100%|TEXTO DE ERROR INFERIOR AL 100%|ERREUR « longue Courrier\" SUPÉRIEUR À 100%|TEXTO DE ERRO ABAIXO DE 100%")));
+      question.Errors.Add(MatchRegex(questionParts[indices[4]], 
+        GetLabelRegex("ERROR TEXT LONG-HAUL UNDER 100%|TEXTO DE ERROR INFERIOR AL 100%|ERREUR « longue courrier »  INFÉRIEUR À 100%|TEXTO DE ERRO ABAIXO DE 100%")));
+      question.Errors.Add(MatchRegex(questionParts[indices[4]], 
+        GetLabelRegex("ERROR TEXT ULTRA-LONG-HAUL OVER 100%|TEXTO DE ERROR INFERIOR AL 100%|ERREUR « très longue courrier\" SUPÉRIEUR À 100%|TEXTO DE ERRO ABAIXO DE 100%")));
+      question.Errors.Add(MatchRegex(questionParts[indices[4]], 
+        GetLabelRegex("ERROR TEXT ULTRA-LONG-HAUL UNDER 100%|TEXTO DE ERROR INFERIOR AL 100%|ERREUR « très longue courrier »  INFÉRIEUR À 100%|TEXTO DE ERRO ABAIXO DE 100%")));
+      
+      question.Errors.Add(MatchRegex(questionParts[indices[4]], 
+        GetLabelRegex("ERROR TEXT NOT EQUAL TO 100%|TEXTO DE ERROR INFERIOR AL 100%|TEXTE D'ERREUR NON ÉGAL À 100%|ERRO DE TEXTO NÃO IGUAL A 100%"))); // spanish wrong or missing
+      question.KeyDuplicationError = (MatchRegex(questionParts[indices[4]], 
+        GetLabelRegex("ERROR TEXT DUPLICATION|TEXTO DE ERROR INFERIOR AL 100%|DUPLICATION DE TEXTE D'ERREUR|TERRO DE TEXTO DUPLICIDADE"))); // spanish wrong or missing
+      question.Errors.Add(MatchRegex(questionParts[indices[4]], 
+        GetLabelRegex("ERROR TEXT TOTAL NOT EQUAL|LE TOTAL DU TEXTE D'ERREUR N'EST PAS ÉGAL|LE TOTAL DU TEXTE D'ERREUR N'EST PAS ÉGAL|ERRO DE TEXTO TOTAL NÃO IGUAL"))); // spanish wrong or missing
       return question;
+    }
+    private static List<string> GetListOf(string source, string regex)
+    {
+      return MatchRegex(source, GetListRegex(regex))
+                         .Split("-")
+                         .Select(s => s.Trim())
+                         .Where(s => s.Length > 0)
+                         .ToList();
     }
     private static bool DoesPropertyExist(dynamic obj, string name)
     {
@@ -197,7 +315,11 @@ namespace Survey
     }
     private static string GetLabelRegex(string str)
     {
-      return $"\\*\\s*(?:{str})\\s*:\\s*((?:[\\u00A0-\\uD7FF\\uF900-\\uFDCF\\uFDF0-\\uFFEFA-Za-z. \\-]| |\\(|\\)|'|[0-9]|%|\\¿|\\?|!|¡)+)";
+      return $"\\*\\s*(?:{str.ToUpper()})\\s*:\\s*((?:[\\u00A0-\\uD7FF\\uF900-\\uFDCF\\uFDF0-\\uFFEFA-Za-z. \\-]| |\\(|\\)|'|[0-9]|%|\\¿|\\?|!|¡|\\[|\\])+)";
+    }
+    private static string GetListRegex(string str)
+    {
+      return @"(?:"+str.ToUpper() + @")\s*:*\s*(?:\s*((?:\s*-\s*(?:[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEFA-Za-z. \-]|[0-9]| |\(|\)|\/|\\|\.|\""|-|'|%)+\n*)+))";
     }
   }
 }

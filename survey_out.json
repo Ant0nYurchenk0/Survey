@@ -94,15 +94,6 @@
               "isRequired": true,
               "choices": [
                 {
-                  "value": "\"Options:",
-                  "text": {
-                    "Default": "\"Options:",
-                    "es": "\"Opciones:",
-                    "fr": "\"Options",
-                    "pt_BR": "\"Opções:"
-                  }
-                },
-                {
                   "value": "Before 2022",
                   "text": {
                     "Default": "Before 2022",
@@ -118,6 +109,15 @@
                     "es": "Durante 2022",
                     "fr": "Courant 2022",
                     "pt_BR": "Durante 2022"
+                  }
+                },
+                {
+                  "value": "During 2023\"",
+                  "text": {
+                    "Default": "During 2023\"",
+                    "es": "Durante 2023\"",
+                    "fr": "Courant 2023\"",
+                    "pt_BR": "Durante 2023\""
                   }
                 }
               ]
@@ -393,10 +393,10 @@
           "rateMax": 5,
           "rateStep": 0.5,
           "maxRateDescription": {
-            "Default": "days per week",
-            "es": "",
-            "fr": "",
-            "pt_BR": ""
+            "Default": "[N] days per week",
+            "es": "[N] días por semana",
+            "fr": "[N] jours par semaine",
+            "pt_BR": "[N] dias por semana"
           }
         },
         {
@@ -418,10 +418,10 @@
           "isRequired": true,
           "rateMax": 12,
           "maxRateDescription": {
-            "Default": "hours per day",
-            "es": "",
-            "fr": "",
-            "pt_BR": ""
+            "Default": "[N] hours per day",
+            "es": "[N] horas por día",
+            "fr": "[N] heures par jour",
+            "pt_BR": "[N] horas por dia"
           }
         },
         {
@@ -466,10 +466,10 @@
               "isRequired": true,
               "rateMax": 12,
               "maxRateDescription": {
-                "Default": "months",
-                "es": "",
-                "fr": "",
-                "pt_BR": ""
+                "Default": "[N] months",
+                "es": "[N] meses",
+                "fr": "[N] mois",
+                "pt_BR": "[N] meses"
               }
             }
           ]
@@ -517,10 +517,10 @@
             {
               "name": "sharePercentage",
               "title": {
-                "Default": "Percentage split",
-                "es": "",
-                "fr": "",
-                "pt_BR": ""
+                "Default": "Percentage split\"",
+                "es": "Porcentaje de división\"",
+                "fr": "Répartition en pourcentage\"",
+                "pt_BR": "Porcentagem dividida\""
               },
               "cellType": "dropdown",
               "totalType": "sum",
@@ -543,36 +543,36 @@
               "value": "home",
               "text": {
                 "Default": "Working from home",
-                "es": "",
-                "fr": "",
-                "pt_BR": ""
+                "es": "Trabajar desde casa",
+                "fr": "Travail à domicile (remote)",
+                "pt_BR": "Trabalhar em casa"
               }
             },
             {
               "value": "baseOffice",
               "text": {
                 "Default": "Working from your base Valtech office",
-                "es": "",
-                "fr": "",
-                "pt_BR": ""
+                "es": "Trabajando desde su oficina base de Valtech",
+                "fr": "Travail dans votre bureau de base Valtech",
+                "pt_BR": "Trabalhar em seu escritório base da Valtech"
               }
             },
             {
               "value": "otherOffice",
               "text": {
                 "Default": "Working from a different Valtech office (not your base / normal office)",
-                "es": "",
-                "fr": "",
-                "pt_BR": ""
+                "es": "Trabajar desde una oficina de Valtech diferente (no su oficina base / normal)",
+                "fr": "Travail dans un autre bureau Valtech",
+                "pt_BR": "Trabalhar em um escritório da Valtech diferente (não em sua base /escritório normal)"
               }
             },
             {
               "value": "client",
               "text": {
                 "Default": "Working from a client office as part of your standard working pattern",
-                "es": "",
-                "fr": "",
-                "pt_BR": ""
+                "es": "Trabajar desde una oficina del cliente como parte de su patrón de trabajo estándar",
+                "fr": "Travail à partir d'un bureau client",
+                "pt_BR": "Trabalhar no escritório do cliente como parte de seu modelo de trabalho padrão"
               }
             },
             {
@@ -580,8 +580,8 @@
               "text": {
                 "Default": "Travelling on business (e.g. to an event)",
                 "es": "",
-                "fr": "",
-                "pt_BR": ""
+                "fr": "Voyage d'affaires (ex. pour un événement)",
+                "pt_BR": "Viajar a negócios (por exemplo"
               }
             }
           ]
