@@ -1,4 +1,4 @@
-﻿||valtech-employment-section||Valtech employment section|Firstly, we're going to ask you about your working patterns and location in 2022. These are key inputs to emissions calculations!||||||||Sección de empleo de Valtech|En primer lugar, le preguntaremos sobre sus patrones de trabajo y ubicación en 2022. ¡Estos son insumos clave para los cálculos de emisiones!| | | ||Section emploi Valtech|Tout d'abord, nous allons vous poser des questions sur vos habitudes et vos lieux de travail en 2022. Ce sont des données clés pour le calcul des émissions !| | | ||Seção: o trabalho na Valtech|Em primeiro lugar, vamos perguntar sobre seus padrões de trabalho e localização em 2022. Estes são os principais insumos para os cálculos de emissões!| | | | |Seção: o trabalho na Valtech|Em primeiro lugar, vamos perguntar sobre seus padrões de trabalho e localização em 2022. Estes são os principais insumos para os cálculos de emissões!| | |||||| |$
+﻿||valtech-employment-section||Valtech employment section|Firstly, we're going to ask you about your working patterns and location in 2022. These are key inputs to emissions calculations!||||||||Sección de empleo de Valtech|En primer lugar, le preguntaremos sobre sus patrones de trabajo y ubicación en 2022. ¡Estos son insumos clave para los cálculos de emisiones!| | | ||Section emploi Valtech|Tout d'abord, nous allons vous poser des questions sur vos habitudes et vos lieux de travail en 2022. Ce sont des données clés pour le calcul des émissions !| | | ||Seção: o trabalho na Valtech|Em primeiro lugar, vamos perguntar sobre seus padrões de trabalho e localização em 2022. Estes são os principais insumos para os cálculos de emissões!| | | |$
 ||employment_start-date-year|VALTECH EMPLOYMENT|When did you start working at Valtech?|If your company was acquired by Valtech, please answer according to when you started working at your original company.|MULTIPLE OPTIONS - ONE CHOICE|"Options:
  - Before 2022
  - During 2022
@@ -11,10 +11,7 @@
  - Courant 2023"| | ||Quando você começou a trabalhar na Valtech?|Se sua empresa foi adquirida pela Valtech, responda de acordo com quando você começou a trabalhar em sua empresa original.|"Opções:
 - Antes de 2022
 - Durante 2022
-- Durante 2023"| | | |Quando você começou a trabalhar na Valtech?|Se sua empresa foi adquirida pela Valtech, responda de acordo com quando você começou a trabalhar em sua empresa original.|"Opções:
-- Antes de 2022
-- Durante 2022
-- Durante 2023"| |||||| |$
+- Durante 2023"| | |$
 Only display if during 2022 or during 2023 selected in previous question. If 2023 selected, only display January - May.||employment_start-date-month|VALTECH EMPLOYMENT|In which month did you start working at Valtech in that year?||DATE|"Options:
  - January
  - February
@@ -63,19 +60,7 @@ Only display if during 2022 or during 2023 selected in previous question. If 202
 - Setembro
 - Outubro
 - Novembro
-- Dezembro"| | | |Em que mês você começou a trabalhar na Valtech naquele ano?| |"Opções:
-- Janeiro
-- Fevereiro
-- Março
-- Abril
-- Maio
-- Junho
-- Julho
-- Agosto
-- Setembro
-- Outubro
-- Novembro
-- Dezembro"| |||||| |$
+- Dezembro"| | |$
 "If no, move to ""which was your base / normal Valtech office in 2022"""||employment_base-office-moved|VALTECH EMPLOYMENT|Did you move your base / normal Valtech office in 2022?|"By ""base / normal office"", we mean the Valtech office you officially formed a part of in 2022. This may or may not have been your closest office, geographically, but it should be the main Valtech office you went to in 2022 if / when you commuted. 
 
 If you don't have a base office, please select ""No""."|MULTIPLE OPTIONS - ONE CHOICE|"Options:
@@ -92,11 +77,7 @@ Si vous n'avez pas de bureau de base, veuillez sélectionner ""Non""."|"Options:
 
 Se você não tiver um escritório base, selecione ""Não""."|"Opções:
 - Não (padrão)
-- Sim"| | | |Você mudou sua base /escritório normal da Valtech em 2022?|"Por ""escritório base / normal"", queremos dizer o escritório da Valtech do qual você fez parte oficialmente em 2022. Este pode ou não ter sido o seu escritório mais próximo, geograficamente, mas deve ser o escritório principal da Valtech que você visitou em 2022 se / quando você comutou.
-
-Se você não tiver um escritório base, selecione ""Não""."|"Opções:
-- Não (padrão)
-- Sim"| |||||| |$
+- Sim"| | |$
 "Only display if answered ""no"" to ""did you move your base / normal office in 2022?"""||employment_base-office-location|VALTECH EMPLOYMENT|Which was your base / normal Valtech office in 2022? |"If your contract shows that you are based 100% at home, please select ""I don't have a base office"""|MULTIPLE OPTIONS - ONE CHOICE|"Options:
  - A LIST OF ALL VALTECH OFFICES (ENTITIES) FROM DROP DOWN
  - Other [specify]
@@ -117,11 +98,7 @@ Se você não tiver um escritório base, selecione ""Não""."|"Opções:
 - Outro [especificar]
 - Incluir como opção ""Não tenho escritório base"""|"* OUTRO TEXTO: Outro (especifique)
 * OUTRO ESPAÇO RESERVADO: escritório diferente
-* OPÇÃO DESCONHECIDA: Eu não tenho um escritório base"| | |Qual era o seu escritório base / normal da Valtech em 2022? |"Se o seu contrato disser que você está 100% em casa, selecione ""Eu não tenho um escritório base"""|"Opções:
- - LISTA DE TODOS OS ESCRITÓRIOS (ENTIDADES) DA VALTECH DO MENU SUSPENSO
-- Outro [especificar]
-- Incluir como opção ""Não tenho escritório base"""|"Outro (especifique)
-"|escritório diferente|Eu não tenho um escritório base|||| |$
+* OPÇÃO DESCONHECIDA: Eu não tenho um escritório base"| |$
 "Only display if ""yes"" selected in previous question"||employment_base-office-location-original|VALTECH EMPLOYMENT|Which was the base / normal Valtech office you had at the start of 2022?||MULTIPLE OPTIONS - ONE CHOICE|"Options:
  - Office list
  - Other [specify]"|||"* OTHER TEXT: Other (please specify)
@@ -134,10 +111,7 @@ Se você não tiver um escritório base, selecione ""Não""."|"Opções:
 * AUTRE ESPACE RÉSERVÉ: Bureau différent"| ||Qual era o escritório base / normal da Valtech que você tinha no início de 2022?| |"Opções:
 - Lista de escritórios
 - Outros [especificar]"|"* OUTRO TEXTO: Outro (especifique)
-* OUTRO ESPAÇO RESERVADO: escritório diferente"| | |Qual era o escritório base / normal da Valtech que você tinha no início de 2022?| |"Opções:
-- Lista de escritórios
-- Outros [especificar]"|"Outro (especifique)
-"| escritório diferente||||| |$
+* OUTRO ESPAÇO RESERVADO: escritório diferente"| |$
 "Only display if ""yes"" selected in previous question"||employment_base-office-location-new|VALTECH EMPLOYMENT|Which was the base / normal Valtech office you moved to during the course of 2022?|If you moved offices more than once in 2022, please select the office you ended the year in. |MULTIPLE OPTIONS - ONE CHOICE|"Options:
  - Office list
  - Other [specify]"|||"* OTHER TEXT: Other (please specify)
@@ -150,16 +124,12 @@ Se você não tiver um escritório base, selecione ""Não""."|"Opções:
 * AUTRE ESPACE RÉSERVÉ: Bureau différent"| ||Qual foi o escritório base/ normal da Valtech para o qual você se mudou durante o ano de 2022?|Se você mudou de escritório mais de uma vez em 2022, selecione o escritório em que terminou o ano. |"Opções:
 - Lista de escritórios
 - Outros [especificar]"|"* OUTRO TEXTO: Outro (especifique)
-* OUTRO ESPAÇO RESERVADO: escritório diferente"| | |Qual foi o escritório base/ normal da Valtech para o qual você se mudou durante o ano de 2022?|Se você mudou de escritório mais de uma vez em 2022, selecione o escritório em que terminou o ano. |"Opções:
-- Lista de escritórios
-- Outros [especificar]"|"Outro (especifique)
-"| escritório diferente||||| |$
+* OUTRO ESPAÇO RESERVADO: escritório diferente"| |$
 ||employment_business-unit|VALTECH EMPLOYMENT|Which Valtech business unit / service line / team do you work for?|This is the team you work for, day-to-day, irrespective of where you live. For example, you might live in Germany but work for Valtech France. Please look at the whole list before answering.|MULTIPLE OPTIONS - ONE CHOICE|"Options:
  - List on ""VT offices and teams list"" tab"|||* PLACEHOLDER: Select your business unit...|||¿Para qué unidad de negocio/línea de servicio/ equipo de Valtech trabaja?|Este es el equipo para el que trabajas, día a día, independientemente de dónde vivas. Por ejemplo, puedes vivir en Alemania, pero trabajar para Valtech Francia. Por favor, mire toda la lista antes de responder.|"Opciones:
 - Enumere en la pestaña ""Lista de oficinas y equipos de VT"""|* MARCADOR DE POSICIÓN: Seleccione su unidad de negocio...| ||Pour quelle unité commerciale/ligne de service/ équipe Valtech travaillez-vous?|C'est l'équipe pour laquelle vous travaillez, au jour le jour, quel que soit l'endroit où vous vivez. Par exemple, vous pourriez vivre en Allemagne mais travailler pour Valtech France. Veuillez consulter la liste complète avant de répondre.|"Options:
  - Liste sur l'onglet ""Liste des bureaux et équipes VT"""|* ESPACE RÉSERVÉ: Sélectionnez votre unité d'affaires...| ||Para qual unidade de negócios / linha de serviço/ equipe da Valtech você trabalha?|Esta é a equipe para a qual você trabalha, no dia-a-dia, independentemente de onde você mora. Por exemplo, você pode morar na Alemanha, mas trabalhar para a Valtech França. Veja a lista completa antes de responder.|"Opções:
-- Lista na guia ""Lista de escritórios e equipes VT"""|* ESPAÇO RESERVADO: Selecione sua unidade de negócios...| | |Para qual unidade de negócios / linha de serviço/ equipe da Valtech você trabalha?|Esta é a equipe para a qual você trabalha, no dia-a-dia, independentemente de onde você mora. Por exemplo, você pode morar na Alemanha, mas trabalhar para a Valtech França. Veja a lista completa antes de responder.|"Opções:
-- Lista na guia ""Lista de escritórios e equipes VT"""||||Selecione sua unidade de negócios...||| |$
+- Lista na guia ""Lista de escritórios e equipes VT"""|* ESPAÇO RESERVADO: Selecione sua unidade de negócios...| |$
 ||employment_home-country|VALTECH EMPLOYMENT|Which country did you live in, in 2022?|This will help us to determine the emission intensity of your local grid. If you split your working time between houses in different areas / countries, or moved area / country during 2022, please answer according to the location in which you spent the majority of the year.|MULTIPLE OPTIONS - ONE CHOICE|"Options:
  - List of all Valtech countries (i.e. where we have offices)
  - Other: specify (free text)"|Grid electricity, location based calculation||"* PLACEHOLDER: Select your country...
@@ -173,10 +143,8 @@ Se você não tiver um escritório base, selecione ""Não""."|"Opções:
 * AUTRE ESPACE RÉSERVÉ: Bureau différent"| ||Em que país você morou, em 2022?|Isso nos ajudará a determinar a intensidade de emissão de sua rede local. Se você dividir seu tempo de trabalho entre casas em diferentes áreas / países ou mudou de área / país durante 2022, responda de acordo com o local em que passou a maior parte do ano.|"Opções:
  - Lista de todos os países da Valtech (ou seja, onde temos escritórios)
 - Outro: especificar (texto livre)"|"* ESPAÇO RESERVADO: Selecione seu país...* OUTRO TEXTO: Outro (especifique)
-* OUTRO ESPAÇO RESERVADO: escritório diferente"| | |Em que país você morou, em 2022?|Isso nos ajudará a determinar a intensidade de emissão de sua rede local. Se você dividir seu tempo de trabalho entre casas em diferentes áreas / países ou mudou de área / país durante 2022, responda de acordo com o local em que passou a maior parte do ano.|"Opções:
- - Lista de todos os países da Valtech (ou seja, onde temos escritórios)
-- Outro: especificar (texto livre)"|Outro (especifique)|escritório diferente||Selecione seu país...||| |$
-Only display if VT country selected in previous question, except for UK, [AND OTHERS??]||employment_home-region|VALTECH EMPLOYMENT|Which province / state / county / region did you live in in 2022, within your country? |This helps us calculate your emissions with greater accuracy, as energy mixes can vary significantly between areas of a country. If you split your working time between houses in different areas / countries, or moved area / country during 2022, please answer according to the location in which you spent the majority of the year.|MULTIPLE OPTIONS - ONE CHOICE|WILL THEN AUTOMATE TO A LIST OF ALL PROVINCES / REGIONS / COUNTIES WITHIN THE COUNTRY SELECTED|Regional grid electricity, location based||* PLACEHOLDER: Select your region...|||¿En qué provincia / estado / condado / región vivió en 2022, dentro de su país? |Esto nos ayuda a calcular sus emisiones con mayor precisión, ya que las mezclas de energía pueden variar significativamente entre las áreas de un país. Si dividió su tiempo de trabajo entre casas en diferentes áreas / países, o se mudó de área / país durante 2022, responda de acuerdo con la ubicación en la que pasó la mayor parte del año.|A CONTINUACIÓN, SE AUTOMATIZARÁ A UNA LISTA DE TODAS LAS PROVINCIAS / REGIONES / CONDADOS DENTRO DEL PAÍS SELECCIONADO|* MARCADOR DE POSICIÓN: Seleccione su región...| ||Dans quelle province / état/comté / région viviez-vous en 2022, dans votre pays? |Cela nous aide à calculer vos émissions avec une plus grande précision, car les mix énergétiques peuvent varier considérablement d'une région à l'autre d'un pays. Si vous partagez votre temps de travail entre des maisons situées dans différentes zones / pays ou dans une zone /un pays déplacé en 2022, veuillez répondre en fonction du lieu où vous avez passé la majeure partie de l'année.|AUTOMATISERA ENSUITE VERS UNE LISTE DE TOUTES LES PROVINCES / RÉGIONS / COMTÉS DANS LE PAYS SÉLECTIONNÉ|* ESPACE RESERVÉ: Sélectionnez votre région...| ||Em que província / estado / condado / região você morou em 2022, dentro do seu país? |Isso nos ajuda a calcular suas emissões com maior precisão, pois a mistura de energias pode variar significativamente entre as áreas de um país. Se você dividir seu tempo de trabalho entre casas em diferentes áreas / países ou mudou de área / país durante 2022, responda de acordo com o local em que passou a maior parte do ano.|ENTÃO AUTOMATIZARÁ PARA UMA LISTA DE TODAS AS PROVÍNCIAS / REGIÕES / CONDADOS DENTRO DO PAÍS SELECIONADO|* ESPAÇO RESERVADO: Selecione sua região...| | |Em que província / estado / condado / região você morou em 2022, dentro do seu país? |Isso nos ajuda a calcular suas emissões com maior precisão, pois a mistura de energias pode variar significativamente entre as áreas de um país. Se você dividir seu tempo de trabalho entre casas em diferentes áreas / países ou mudou de área / país durante 2022, responda de acordo com o local em que passou a maior parte do ano.|ENTÃO AUTOMATIZARÁ PARA UMA LISTA DE TODAS AS PROVÍNCIAS / REGIÕES / CONDADOS DENTRO DO PAÍS SELECIONADO||||Selecione sua região...||| |$
+* OUTRO ESPAÇO RESERVADO: escritório diferente"| |$
+Only display if VT country selected in previous question, except for UK, [AND OTHERS??]||employment_home-region|VALTECH EMPLOYMENT|Which province / state / county / region did you live in in 2022, within your country? |This helps us calculate your emissions with greater accuracy, as energy mixes can vary significantly between areas of a country. If you split your working time between houses in different areas / countries, or moved area / country during 2022, please answer according to the location in which you spent the majority of the year.|MULTIPLE OPTIONS - ONE CHOICE|WILL THEN AUTOMATE TO A LIST OF ALL PROVINCES / REGIONS / COUNTIES WITHIN THE COUNTRY SELECTED|Regional grid electricity, location based||* PLACEHOLDER: Select your region...|||¿En qué provincia / estado / condado / región vivió en 2022, dentro de su país? |Esto nos ayuda a calcular sus emisiones con mayor precisión, ya que las mezclas de energía pueden variar significativamente entre las áreas de un país. Si dividió su tiempo de trabajo entre casas en diferentes áreas / países, o se mudó de área / país durante 2022, responda de acuerdo con la ubicación en la que pasó la mayor parte del año.|A CONTINUACIÓN, SE AUTOMATIZARÁ A UNA LISTA DE TODAS LAS PROVINCIAS / REGIONES / CONDADOS DENTRO DEL PAÍS SELECCIONADO|* MARCADOR DE POSICIÓN: Seleccione su región...| ||Dans quelle province / état/comté / région viviez-vous en 2022, dans votre pays? |Cela nous aide à calculer vos émissions avec une plus grande précision, car les mix énergétiques peuvent varier considérablement d'une région à l'autre d'un pays. Si vous partagez votre temps de travail entre des maisons situées dans différentes zones / pays ou dans une zone /un pays déplacé en 2022, veuillez répondre en fonction du lieu où vous avez passé la majeure partie de l'année.|AUTOMATISERA ENSUITE VERS UNE LISTE DE TOUTES LES PROVINCES / RÉGIONS / COMTÉS DANS LE PAYS SÉLECTIONNÉ|* ESPACE RESERVÉ: Sélectionnez votre région...| ||Em que província / estado / condado / região você morou em 2022, dentro do seu país? |Isso nos ajuda a calcular suas emissões com maior precisão, pois a mistura de energias pode variar significativamente entre as áreas de um país. Se você dividir seu tempo de trabalho entre casas em diferentes áreas / países ou mudou de área / país durante 2022, responda de acordo com o local em que passou a maior parte do ano.|ENTÃO AUTOMATIZARÁ PARA UMA LISTA DE TODAS AS PROVÍNCIAS / REGIÕES / CONDADOS DENTRO DO PAÍS SELECIONADO|* ESPAÇO RESERVADO: Selecione sua região...| |$
 ||employment_working-days-per-week|VALTECH EMPLOYMENT|In 2022, on average how many days did you work per week, in a typical week?|Please **don't** factor in any significant periods of time off work here (e.g. on sick leave). Just give your standard working pattern. If your working pattern changed during 2022, please just give your best estimate as to the average number of days you worked per week that year.|MULTIPLE OPTIONS - MULTIPLE CHOICE|"Options:
  - 0.5 day per week
  - 1 day per week
@@ -217,17 +185,7 @@ Only display if VT country selected in previous question, except for UK, [AND OT
 - 3,5 dias por semana
 - 4 dias por semana
 - 4,5 dias por semana
-- 5 dias por semana "|* UNIDADE: [N] dias por semana| | |Em 2022, em média, quantos dias você trabalhou por semana, em uma semana típica?|Por favor, **não** considere quaisquer períodos significativos de afastamento do trabalho aqui (por exemplo, em licença médica). Forneça apenas seu padrão de modelo de trabalho. Se o seu modelo de trabalho mudou durante 2022, forneça sua melhor estimativa quanto ao número médio de dias que você trabalhou por semana naquele ano.|"Opções:
-- 0,5 dia por semana
-- 1 dia por semana
-- 1,5 dias por semana
-- 2 dias por semana
-- 2,5 dias por semana
-- 3 dias por semana
-- 3,5 dias por semana
-- 4 dias por semana
-- 4,5 dias por semana
-- 5 dias por semana "|||||[N] dias por semana|| |$
+- 5 dias por semana "|* UNIDADE: [N] dias por semana| |$
 ||employment_working-hours-per-day|VALTECH EMPLOYMENT|On an average working day in 2022, how many hours did you work?|Please estimate the number of hours you worked on a normal working day. If your working pattern changed substantially during the year (e.g. you went from working 8 hours each day for the first half of 2022 to 4 hours each day for the second half of 2022), please do your best to work out a rough average (in this example, it would be 6 hours a day).|MULTIPLE OPTIONS - ONE CHOICE|"Options:
  - 1 hour
  - 2 hours
@@ -276,30 +234,28 @@ Only display if VT country selected in previous question, except for UK, [AND OT
 - 9 horas
 - 10 horas
 - 11 horas
-- 12 horas"|* UNIDADE: [N] horas por dia| | |Em um dia de trabalho médio em 2022, quantas horas você trabalhou?|Por favor, estime o número de horas que você trabalhou em um dia normal de trabalho. Se o seu modelo de trabalho mudou substancialmente durante o ano (por exemplo, você passou de 8 horas por dia no primeiro semestre de 2022 para 4 horas por dia no segundo semestre de 2022), por favor faça o seu melhor para calcular uma média aproximada (neste exemplo, seriam 6 horas por dia).|"Opções:
-- 1 hora
-- 2 horas
-- 3 horas
-- 4 horas
-- 5 horas
-- 6 horas
-- 7 horas
-- 8 horas
-- 9 horas
-- 10 horas
-- 11 horas
-- 12 horas"|||||[N] horas por dia|| |$
-IF NO MOVES to employment location pattern||employment_time-off|VALTECH EMPLOYMENT|Did you take a significant length of time off work (totalling 1 month or more) in 2022, that did not form part of your annual leave? |"This might have been for maternity / paternity / shared parental leave, sick leave, sabbatical etc. We're asking this because we're trying to understand the overall picture of emissions generated when working from home. Significant periods of absence need to be deducted from our total individual emissions.
+- 12 horas"|* UNIDADE: [N] horas por dia| |$
+IF NO MOVES to employment location pattern||employment_time-off|VALTECH EMPLOYMENT|Did you take a significant length of time off work (totalling 1 month or more) in 2022, that did not form part of your annual leave? |"
+This might have been for maternity / paternity / shared parental leave, sick leave, sabbatical etc. We're asking this because we're trying to understand the overall picture of emissions generated when working from home. Significant periods of absence need to be deducted from our total individual emissions.
 
-Please account for any substantial time cumulatively (e.g. you took 3 weeks in January and 2 weeks in June = 5 weeks total, which you'd round down to 1 month, or you took 6 months in one block). "|MULTIPLE OPTIONS - ONE CHOICE|YES/NO|Needed to ensure not overcounting worked hours|||||¿Tomó una cantidad significativa de tiempo libre (un total de 1 mes o más) en 2022, que no formó parte de sus vacaciones anuales? |"Esto podría haber sido por maternidad / paternidad /licencia parental compartida, licencia por enfermedad, año sabático, etc. Estamos preguntando esto porque estamos tratando de comprender el panorama general de las emisiones generadas cuando se trabaja desde casa. Los períodos significativos de ausencia deben deducirse de nuestras emisiones individuales totales.
+Please account for any substantial time cumulatively (e.g. you took 3 weeks in January and 2 weeks in June = 5 weeks total, which you'd round down to 1 month, or you took 6 months in one block). "|MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - YES
+ - NO"|Needed to ensure not overcounting worked hours|||||¿Tomó una cantidad significativa de tiempo libre (un total de 1 mes o más) en 2022, que no formó parte de sus vacaciones anuales? |"
+Esto podría haber sido por maternidad / paternidad /licencia parental compartida, licencia por enfermedad, año sabático, etc. Estamos preguntando esto porque estamos tratando de comprender el panorama general de las emisiones generadas cuando se trabaja desde casa. Los períodos significativos de ausencia deben deducirse de nuestras emisiones individuales totales.
 
-Por favor, tenga en cuenta cualquier tiempo sustancial acumulado (por ejemplo, tomó 3 semanas en enero y 2 semanas en junio = 5 semanas en total, que redondearía a 1 mes, o tomó 6 meses en un bloque). "|SÍ/NO| | ||Avez-vous pris un congé important (totalisant 1 mois ou plus) en 2022, qui ne faisait pas partie de votre congé annuel ? |"Il peut s'agir d'un congé de maternité / paternité /parental partagé, d'un congé de maladie, d'un congé sabbatique, etc. Nous posons cette question parce que nous essayons de comprendre l'image globale des émissions générées par le travail à domicile. Des périodes d'absence importantes doivent être déduites de nos émissions individuelles totales.
+Por favor, tenga en cuenta cualquier tiempo sustancial acumulado (por ejemplo, tomó 3 semanas en enero y 2 semanas en junio = 5 semanas en total, que redondearía a 1 mes, o tomó 6 meses en un bloque). "|"Opciones:
+- SÍ
+- NO"| | ||Avez-vous pris un congé important (totalisant 1 mois ou plus) en 2022, qui ne faisait pas partie de votre congé annuel ? |"
+Il peut s'agir d'un congé de maternité / paternité /parental partagé, d'un congé de maladie, d'un congé sabbatique, etc. Nous posons cette question parce que nous essayons de comprendre l'image globale des émissions générées par le travail à domicile. Des périodes d'absence importantes doivent être déduites de nos émissions individuelles totales.
 
-Veuillez tenir compte de tout temps important cumulé (par exemple, vous avez pris 3 semaines en janvier et 2 semaines en juin = 5 semaines au total, que vous arrondiriez à 1 mois). "|OUI/NON| | ||Você tirou um período significativo de folga do trabalho (totalizando 1 mês ou mais) em 2022, que não fazia parte de suas férias anuais? |"Isso pode ter sido para licença maternidade / paternidade /parental compartilhada, licença médica, licença sabática, etc. Estamos perguntando isso porque estamos tentando entender o quadro geral das emissões geradas quando se trabalha em casa. Períodos significativos de ausência precisam ser deduzidos de nossas emissões individuais totais.
+Veuillez tenir compte de tout temps important cumulé (par exemple, vous avez pris 3 semaines en janvier et 2 semaines en juin = 5 semaines au total, que vous arrondiriez à 1 mois). "|"Options :
+ - OUI
+ - NON"| | ||Você tirou um período significativo de folga do trabalho (totalizando 1 mês ou mais) em 2022, que não fazia parte de suas férias anuais? |"
+Isso pode ter sido para licença maternidade / paternidade /parental compartilhada, licença médica, licença sabática, etc. Estamos perguntando isso porque estamos tentando entender o quadro geral das emissões geradas quando se trabalha em casa. Períodos significativos de ausência precisam ser deduzidos de nossas emissões individuais totais.
 
-Por favor, contabilize qualquer tempo substancial cumulativamente (por exemplo, você tirou 3 semanas em janeiro e 2 semanas em junho = 5 semanas no total, o que você arredondaria para 1 mês, ou você tirou 6 meses em um bloco). "|SIM/NÃO| | | |Você tirou um período significativo de folga do trabalho (totalizando 1 mês ou mais) em 2022, que não fazia parte de suas férias anuais? |"Isso pode ter sido para licença maternidade / paternidade /parental compartilhada, licença médica, licença sabática, etc. Estamos perguntando isso porque estamos tentando entender o quadro geral das emissões geradas quando se trabalha em casa. Períodos significativos de ausência precisam ser deduzidos de nossas emissões individuais totais.
-
-Por favor, contabilize qualquer tempo substancial cumulativamente (por exemplo, você tirou 3 semanas em janeiro e 2 semanas em junho = 5 semanas no total, o que você arredondaria para 1 mês, ou você tirou 6 meses em um bloco). "|SIM/NÃO||||||| |$
+Por favor, contabilize qualquer tempo substancial cumulativamente (por exemplo, você tirou 3 semanas em janeiro e 2 semanas em junho = 5 semanas no total, o que você arredondaria para 1 mês, ou você tirou 6 meses em um bloco). "|"Opções:
+- SIM
+- NÃO"| | |$
 ||employment_time-off-months|VALTECH EMPLOYMENT|How many months did you take off work in total in 2022, *not* including your annual leave?|Please estimate this to the nearest whole month.|MULTIPLE OPTIONS - ONE CHOICE|"Options: 
  - 1 month
  - 2 months
@@ -348,19 +304,7 @@ Por favor, contabilize qualquer tempo substancial cumulativamente (por exemplo, 
 - 9 meses
 - 10 meses
 - 11 meses
-- 12 meses"|* UNIDADE: [N] meses| | |Quantos meses de folga você tirou do trabalho no total em 2022, *não* incluindo suas férias anuais?|Por favor, estime isso para o mês inteiro mais próximo.|"Opções:
-- 1 mês
-- 2 meses
-- 3 meses
-- 4 meses
-- 5 meses
-- 6 meses
-- 7 meses
-- 8 meses
-- 9 meses
-- 10 meses
-- 11 meses
-- 12 meses"|||||[N] meses|| |$
+- 12 meses"|* UNIDADE: [N] meses| |$
 Must sum to 100%, free text but numerical values only, marked with a % after each box.||employment_working-pattern-split|VALTECH EMPLOYMENT|Thinking about only the days you *did* work in 2022, how did you split your working time between these activities?|The total must sum to 100%. Please round up to the nearest 5%. For example, even if you only took one flight for business in 2022, please put 5% against business travel.|Table|"See table on ""working location split table"" tab.
 
 Rows:
@@ -379,7 +323,7 @@ Filas:
 - Trabajando desde su oficina base de Valtech
 - Trabajar desde una oficina de Valtech diferente (no su oficina base / normal)
 - Trabajar desde una oficina del cliente como parte de su patrón de trabajo estándar
-Viajar por negocios (por ejemplo, a un evento)
+- Viajar por negocios (por ejemplo, a un evento)
 
 Columnas:
 - Porcentaje de división"| |* TEXTO DE ERROR SUPERIOR AL 100%: ¡La participación total no puede exceder el 100%!    * TEXTO DE ERROR INFERIOR AL 100%: ¡La participación total debe ser del 100%!||En pensant uniquement aux jours où vous * avez * travaillé en 2022, comment avez-vous réparti votre temps de travail entre ces activités ?|Le total doit être de 100%. Veuillez arrondir à 5% près. Par exemple, même si vous n'avez pris qu'un seul vol pour affaires en 2022, veuillez mettre 5% en voyages d'affaires.|"Reportez-vous au tableau de l'onglet ""Table fractionnée de l'emplacement de travail"".
@@ -402,14 +346,2083 @@ Linhas:
 - Viajar a negócios (por exemplo, para um evento)
 
 Colunas:
-- Porcentagem dividida"| |* TEXTO DE ERRO ACIMA DE 100%: A participação total não pode exceder 100%!* TEXTO DE ERRO ABAIXO de 100%: A participação total deve ser de 100%!|la part totale doit être de 100% !|Pensando apenas nos dias em que você *trabalhou* em 2022, como você dividiu seu tempo de trabalho entre essas atividades?|O total deve somar 100%. Arredonde para os 5% mais próximos. Por exemplo, mesmo que você tenha pegado apenas um voo para negócios em 2022, liste 5% em viagens de negócios.|"Consulte a tabela na guia ""working location split table"".
+- Porcentagem dividida"| |* TEXTO DE ERRO ACIMA DE 100%: A participação total não pode exceder 100%!* TEXTO DE ERRO ABAIXO de 100%: A participação total deve ser de 100%!|$
+ONLY DISPLAY THIS SECTION IF PERCENTAGE OF WORKING FROM HOME WAS >0%||working-from-home-section|WORKING FROM HOME EMISSIONS|Working from home section|We're now going to ask you a bit about your working from home patterns in 2022.||||||||Sección Trabajar desde casa|Ahora vamos a preguntarle un poco sobre sus patrones de trabajo desde casa en 2022.| | | ||Section Travail à domicile|Nous allons maintenant vous poser quelques questions sur vos habitudes de travail à domicile en 2022.| | | ||Seção trabalhar em casa|Agora vamos perguntar um pouco sobre seus modelos de trabalho em casa em 2022.| | | |$
+||wfh-emissions_home-type|WORKING FROM HOME EMISSIONS|What type of home do you live in?|If you moved home in 2022, please tell us about the home you spent the majority of the year in. If you split your time between more than one home, please tell us about the one you spent the most time in, in 2022. |MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Flat / apartment
+ - Terraced / row house / townhouse (i.e. not detached)
+ - Semi-detached house
+ - Detached house
+ - Bungalow 
+ - Other [please specify]
+"||||||¿En qué tipo de zona vive?|Si se mudó a casa en 2022, cuéntenos sobre la casa en la que se encontraba al final del año. Si dividiste tu tiempo entre más de un alojamiento, cuéntanos cuál fue en el que pasaste más tiempo, en 2022. |"Opciones:
+ - Piso / departamento / condominio
+- Terraza /casa adosada/casa adosada (es decir, no independiente)
+- Casa adosada
+- Casa unifamiliar
+- Bungaló
+- Otro [especifique]"| | ||Quel est votre type de domicile?|Si vous avez déménagé en 2022, parlez-nous de la maison où vous avez passé le plus de temps. Si vous partagez votre temps entre plus d'un logement, veuillez nous parler de celui dans lequel vous avez passé le plus de temps en 2022. |"Options :
+ - Appartement / copropriété
+ - Maison avec jardin
+ - Maison jumelée
+ - Maison individuelle
+ - Bungalow
+ - Autre [veuillez préciser]"| | ||Em que tipo de casa você mora?|Se você se mudou de casa em 2022, conte-nos sobre a casa em que estava no final do ano. Se você dividiu seu tempo entre mais de uma casa, conte-nos sobre a que você passou mais tempo em 2022. |"Opções:
+ - Apartamento / prédio / condomínio
+- Avarandada / casario / conjugada (ou seja, não independente)
+- Casa geminada
+- Casa independente
+- Chalé
+- Outro [especifique]"| | |$
+||wfh-emissions_people-working-from-home|WORKING FROM HOME EMISSIONS|In 2022, on average how many people tended to work from your home each day (*including* you)?||MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - 1 
+ - 2 
+ - 3 
+ - 4 
+ - 5+"|Needed to divide emissions by other people working in the home||* UNIT: [N] person(s)|||Cuando trabajaba desde casa en 2022, en promedio, ¿cuántas personas tendían a trabajar desde casa en su hogar (*incluido* usted)?| |"Opciones:
+- 1
+- 2
+- 3
+- 4
+- 5+"|* UNIDAD: [N] persona(s)| ||En 2022, combien de personnes en moyenne travaillaient à votre domicile chaque jour (vous compris) ?| |"Options :
+ - 1
+ - 2
+ - 3
+ - 4
+ - 5+"|* UNITÉ : [N] personne(s)| ||Quando você estava trabalhando em casa em 2022, em média, quantas pessoas costumavam trabalhar em casa na sua casa (*incluindo* você)?| |"Opções:
+- 1
+- 2
+- 3
+- 4
+- 5+"|* UNIDADE: [N] pessoa(s)| |$
+|Optional|wfh-emissions_electricity-supplier-name|WORKING FROM HOME EMISSIONS|What is the name of the current electricity supplier for your home?|"Please let us know the name of the company or state provider that supplies you with your home electricity. You should be able to find this on your electricity bill. If you don't know or don't want to say, please leave this blank. If you're not connected to mains electricity at all, please type ""off grid""."|OPEN TEXT|Open text|Market-based emissions per employee|||||¿Cuál es el nombre del proveedor de electricidad actual para su hogar?|"Por favor, háganos saber el nombre de la compañía o proveedor estatal que le suministra la electricidad de su hogar. Usted debe ser capaz de encontrar esto en su factura de electricidad. Si usted no sabe o no quiere decir, por favor deje esto en blanco. Si no está conectado a la red eléctrica, escriba ""fuera de la red""."|Texto abierto| | ||Quel est le nom du fournisseur d'électricité actuel pour votre maison ?|"Veuillez nous indiquer le nom de l'entreprise ou du fournisseur d'État qui vous fournit l'électricité à domicile. Vous devriez pouvoir le trouver sur votre facture d'électricité. Si vous ne savez pas ou ne voulez pas le dire, veuillez laisser ce champ vide. Si vous n'êtes pas connecté au réseau électrique du tout, veuillez taper ""hors réseau""."|Texte libre| | ||Qual é o nome do atual fornecedor de eletricidade da sua casa?|"Por favor, informe-nos o nome da empresa ou provedor estadual que lhe fornece a eletricidade de sua casa. Você deve conseguir encontrar esta informação em sua conta de luz. Se você não sabe ou não quer dizer, por favor, deixe em branco. Se você não estiver conectado à rede elétrica, digite ""off grid""."|Texto livre| | |$
+||wfh-emissions_electricity-supplier-renewable-group|WORKING FROM HOME EMISSIONS|We're now going to ask you about whether your electricity supply is renewable.|Renewable energy is energy produced from sources like the sun and wind that are naturally replenished and do not run out.||||||||Ahora te preguntaremos si usas energía renovable.|La energía renovable es energía producida a partir de fuentes como el sol y el viento que se reponen naturalmente y no se agotan.| | | ||Nous allons maintenant vous demander si vous utilisez des énergies renouvelables.|L'énergie renouvelable est l'énergie produite à partir de sources comme le soleil et le vent qui sont naturellement reconstitués et ne s'épuisent pas.| | | ||Agora vamos perguntar se você o seu suprimento de energia é renovável.|A energia renovável é a energia produzida a partir de fontes como o sol e o vento, que são naturalmente reabastecidas e não se esgotam.| | | |$
+||wfh-emissions_electricity-supplier-renewable|WORKING FROM HOME EMISSIONS|Is the electricity you receive from your electricity supplier certified 100% renewable?|"If you have an electricity bill, check to see whether you're on a renewable electricity (or ""green"") contract. Some suppliers may **only** provide renewable electricity while others offer specific contracts which are based on renewable electricity. If you don't know, please say ""no""."|MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Yes
+ - No
+ - I don't know"|Market-based emissions per employee, whether to give 0 as electricity emissions|||||¿La electricidad que recibe de su proveedor de electricidad está certificada como 100% renovable?|"Si tiene una factura de electricidad, verifique si tiene un contrato de electricidad renovable (o ""verde""). Algunos proveedores pueden **solo** proporcionar electricidad renovable, mientras que otros ofrecen contratos específicos basados en electricidad renovable. Si no lo sabe, por favor diga ""no""."|"Opciones:
+- Sí
+- No
+- No lo sé"| | ||L'électricité que vous recevez de votre fournisseur d'électricité est-elle certifiée 100% renouvelable ?|"Si vous avez une facture d'électricité, vérifiez si vous êtes sur un contrat d'électricité renouvelable (ou ""vert""). Certains fournisseurs peuvent * * seulement * * fournir de l'électricité renouvelable, tandis que d'autres proposent des contrats spécifiques basés sur l'électricité renouvelable. Si vous ne le savez pas, dites ""non""."|"Options :
+ - Oui
+ - Non
+ - Je ne sais pas"| | ||A eletricidade que você recebe do seu fornecedor de eletricidade é certificada 100% renovável?|"Se você tiver uma conta de eletricidade, verifique se você está em um contrato de eletricidade renovável (ou ""verde""). Alguns fornecedores podem **apenas** fornecer eletricidade renovável, enquanto outros oferecem contratos específicos baseados em eletricidade renovável. Se você não sabe, por favor diga ""não""."|"Opções:
+ - Sim
+- Não
+- Não sei"| | |$
+APPEARS ONLY IF previous question IS ANSWERED WITH YES||wfh-emissions_electricity-supplier-changed-to-renewable|WORKING FROM HOME EMISSIONS|"Did you change your electricity supplier or contract to this renewable (""green energy"") option within the 2022 calendar year? "|"If you swapped between two or more 100% renewable energy contracts / providers within 2022, please select ""no"", as the emissions will not change. "|MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Yes, I started on my renewable electricity contract / supplier **within** the 2022 calendar year.
+ - No, I started on my renewable electricity contract / supplier **before** 2022.
+"|To ensure not overcounting renewables|||||"¿Cambió su proveedor de electricidad o contrato a esta opción renovable (""energía verde"") dentro del año calendario 2022? "|"Si intercambió entre dos o más contratos / proveedores de energía 100% renovable dentro de 2022, seleccione ""no"", ya que las emisiones no cambiarán. "|"Opciones:
+- Sí, comencé con mi contrato / proveedor de electricidad renovable **dentro del** año calendario 2022.                                                                                                                                                  - No, comencé con mi contrato / proveedor de electricidad renovable **antes de** 2022."| | ||"Avez-vous changé votre fournisseur d'électricité ou votre contrat pour cette option renouvelable (""énergie verte"") au cours de l'année civile 2022? "|Si vous avez échangé entre deux contrats ou fournisseurs d’énergie 100 % renouvelable ou plus en 2022, veuillez sélectionner « non », car les émissions ne changeront pas. |"Options :
+ - Oui, j'ai commencé mon contrat / fournisseur d'électricité renouvelable **dans** l'année civile 2022.
+ - Non, j'ai commencé sur mon contrat / fournisseur d'électricité renouvelable **avant** 2022."| | ||"Você mudou seu fornecedor de eletricidade ou contrato para esta opção renovável (""energia verde"") dentro do ano civil de 2022? "|"Se você trocou entre dois ou mais contratos / provedores de energia 100% renovável dentro de 2022, selecione ""não"", pois as emissões não mudarão. "|"Opções:
+ - Sim, iniciei meu contrato / fornecedor de eletricidade renovável * * dentro ** do ano civil de 2022.    - Não, iniciei meu contrato / fornecedor de eletricidade renovável **antes** de 2022."| | |$
+Appears only if answer to previous question is yes||wfh-emissions_electricity-supplier-changed-to-renewable-in-month|WORKING FROM HOME EMISSIONS|In which month of 2022 did you switch to a renewable electricity supplier / contract?||MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - January
+ - February
+ - March
+ - April
+ - May
+ - June
+ - July
+ - August
+ - September
+ - October
+ - November
+ - December"||||||¿En qué mes de 2022 cambió a un proveedor / contrato de electricidad renovable?| |"Opciones:
+ - Enero
+- Febrero
+- Marzo
+- Abril
+- Mayo
+- Junio
+- Julio
+- Agosto
+- Septiembre
+- Octubre
+- Noviembre
+- Diciembre"| | ||Au cours de quel mois de 2022 êtes-vous passé à un fournisseur / contrat d'électricité renouvelable ?| |"Options:
+ - Janvier
+ - Février
+ - Mars
+ - Avril
+ - Mai
+ - Juin
+ - Juillet
+ - Août
+ - Septembre
+ - Octobre
+ - Novembre
+ - Décembre"| | ||Em que mês de 2022 você mudou para um fornecedor / contrato de eletricidade renovável?| |"Opções:
+- Janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro"| | |$
+||wfh-emissions_electricity-generation-group|WORKING FROM HOME EMISSIONS|We're now going to ask you about whether you generate any of your own electricity at home.|||||||||Ahora te preguntaremos si generas energía alguna de su propia electricidad en casa.||||||Nous allons maintenant vous demander si vous produisez votre propre électricité à la maison||||||Agora nós vamos te perguntar se você gerou alguma da sua própria eletricidade em casa.|||||$
+IF NO MOVES to heating section||wfh-emissions_electricity-generation|WORKING FROM HOME EMISSIONS|Did you generate any of your own electricity at home in 2022?|This means any electricity generated at your home / building. E.g. solar or a diesel generator. This is  separate from your energy supply from a provider (the grid).|MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Yes
+ - No"|Offset this against any grid based or heating emissions|||||¿Generaste tu propia energía renovable en casa en 2022?|Esto significa cualquier electricidad generada en su casa/ edificio. Ej. solar o un generador diésel. Esto es independiente de su suministro de energía de un proveedor (la red).|"Opciones:
+ - Sí
+- No"| | ||Avez-vous produit votre propre électricité à la maison en 2022 ?|Cela inclut toute forme d’électricité produite chez vous. Par exemple, solaire ou via un générateur au diesel. Excluant tout approvisionnement d’énergie via un fournisseur (réseau électrique).|"Options :
+ - Oui
+ - Non"| | ||Você gerou alguma da sua própria energia em casa em 2022?|Isso quer dizer qualquer eletricidade gerada na sua casa / prédio. Por exemplo, gerador solar ou diesel. Isto é separado do seu suprimento de energia do provedor (da rede).|"Opções:
+- Sim
+- Não"| | |$
+||wfh-emissions_electricity-generation-types|WORKING FROM HOME EMISSIONS|Which options best describe how you generate electricity from your home or building?|"Select the options that best describe how you generate your electricity (both renewable and non-renewable). If ""other"", please describe your generation method. Note: we also need to know about any back-up generators used occasionally over the course of the year."|MULTIPLE OPTIONS - MULTIPLE CHOICE|"Options:
+- Gas-powered generator
+- Oil-powered generator
+- Coal-powered generator
+- Biomass-powered generator
+- Solar panels
+- Wind turbine
+- Hydroelectricity
+- Other (please specify)"||||||¿Qué opciones describen mejor cómo genera electricidad desde su casa o edificio?|"Seleccione las opciones que mejor describan cómo genera su electricidad (renovable y no renovable). Si es ""otro"", por favor describa su método de generación. Nota: también necesitamos saber sobre cualquier generador de respaldo utilizado ocasionalmente a lo largo del año."|"Opciones:
+- Generador de gas
+- Generador de aceite
+- Generadores de carbón
+- Generador alimentado por biomasa                                                                                                                       - Paneles solares
+- Turbina eólica
+- Sistema hidroeléctrico
+- Otro (especifique)"||||Quelles options décrivent le mieux la façon dont vous produisez de l'électricité depuis de votre maison ?|"Sélectionnez les options qui décrivent le mieux la façon dont vous produisez votre électricité (renouvelable et non renouvelable). Si vous avez choisi ""autre"", veuillez décrire votre méthode de production. Remarque : nous avons également besoin de connaître les générateurs de secours utilisés occasionnellement au cours de l'année."|"Options :
+- Générateur à gaz
+- Générateur au fioul
+- Générateur à charbon
+- Générateur à biomasse
+- Panneaux solaires
+- Eolienne
+- Hydroélectricité
+- Autre (veuillez préciser)"||||Quais opções melhor descrevem como você gera eletricidade da sua casa ou prédio?|"Selecione as opções que descrevem melhor cmo  você gera sua eletricidade (ambas renováveis e não-renováveis). Se ""outra"", por favor descreva seu métodos de geração. Nota: nós também precisamos saber sobre qualquer gerador de back-up usado ocasionalmente ao longo do ano."|"Opções:
+- Gerador a gasolina
+- Gerador a óleo
+- Gerador a carvão
+- Gerador a biomassa/resíduos                                                                                                                               - Painéis solares                                                                                                                                                    - - - Energia eólica
+- Sistema hidrelétrico
+- Outro (por favor especifique)"|| |$
+Use table starting in Row 58 column B in WFH Table tab||wfh-emissions_electricity-generation-overview|WORKING FROM HOME EMISSIONS|How was your electricity usage split between electricity supplied from the grid, electricity you generated from renewable sources and electricity you generated from non-renewable sources?|"Estimate as best you can the split of electricity used over 2022. Ensure it adds up to 100%. ""Renewables"" refers to electricity generated from solar, wind, biomass, and water.""Non-renewables"" refers to electricity generated from fossil fuels."|Table|"Rows:
+- Electricity from a supplier (via the grid)
+- Electricity generated from renewables at your home
+- Electricity generated from non-renewables at your home
 
-Linhas:
-- Trabalhar em casa
-- Trabalhar em seu escritório base da Valtech
-- Trabalhar em um escritório da Valtech diferente (não em sua base /escritório normal)
-- Trabalhar no escritório do cliente como parte de seu modelo de trabalho padrão
-- Viajar a negócios (por exemplo, para um evento)
+Columns:
+- Percentage split"||||"* ERROR TEXT OVER 100%: Total share can not exceed 100%!
+* ERROR TEXT UNDER 100%: Total share should be 100%!"||¿Cómo se dividió su consumo de electricidad entre la electricidad suministrada desde la red, la electricidad generada a partir de fuentes renovables y la electricidad generada a partir de fuentes no renovables?|"Estime lo mejor que pueda la división de la electricidad utilizada durante 2022. Asegúrese de que se suma al 100%. ""Renovables"" se refiere a la electricidad generada a partir de la energía solar, eólica, biomasa y agua."" No renovables"" se refiere a la electricidad generada a partir de combustibles fósiles."|"Filas:
+- Electricidad de un proveedor (a través de la red)
+- Electricidad generada a partir de energías renovables en su casa
+- Electricidad generada a partir de no renovables en su casa
+
+Columnas:
+- Fracción porcentual"||"* TEXTO DE ERROR SUPERIOR AL 100%: ¡La participación no puede exceder el 100%!                                                 
+* TEXTO DE ERROR INFERIOR AO 100%: ¡La participación total debe ser 100%!"||Comment votre consommation d'électricité se répartit-elle entre l'électricité fournie par le réseau, l'électricité que vous produisez à partir de sources renouvelables et l'électricité que vous produisez à partir de sources non renouvelables ?|"Estimez au mieux la répartition de la consommation d'électricité sur 2022. Veillez à ce que la somme soit égale à 100 %. Les ""énergies renouvelables"" désignent l'électricité produite à partir de l'énergie solaire, de l'énergie éolienne, de la biomasse et de l'eau. Les ""énergies non renouvelables"" désignent l'électricité produite à partir de combustibles fossiles."|"Lignes :
+- Électricité provenant d'un fournisseur (via le réseau)
+- Électricité produite à partir de sources d'énergie renouvelables à votre domicile
+- Électricité produite à partir de sources d'énergie non renouvelables à votre domicile
+
+Colonnes :
+- Pourcentage de répartition"||"* TEXTE D'ERREUR SUPÉRIEUR À 100 % : La part totale ne peut pas dépasser 100% !
+* TEXTE D'ERREUR INFÉRIEUR À 100% : La part totale devrait être de 100% !"||Como foi a divisão do seu uso de energia entre eletricidade fornecida pela rede, eletricidade que você gerou de fontes renovávceis e eletricidade que você gerou de fontes não-renováveis?|"Estime o melhor que puder a divisão da eletric idade usada em 2022. Certifique-se que some 100%. ""Renováveis"" refere-se à eletricidade gerada pelo sol, vento, biomassa/resíduos, e água. ""Não-renováveis"" refere-se à eletricidade gerada por combustíveis fósseis."|"Linhas:
+- Eletricidade de um fornecedor (via rede)
+- Eletricidade gerada de renováveis na sua casa
+- Eletricidade gerada de não-renováveis na sua casa
 
 Colunas:
-- Porcentagem dividida"| |||||A participação total não pode exceder 100%!| A participação total deve ser de 100%!|$
+- Divisão da porcentagem"| |"* TEXTO DE ERRO ACIMA DE 100%: A participação total não pode exceder 100%!    
+* TEXTO DE ERRO ABAIXO de 100%: A participação total deve ser de 100%!"|$
+||wfh-emissions_home-heating-group|WORKING FROM HOME EMISSIONS|We're now going to ask you about if and how you *heat* your home.|||||||||Ahora te vamos a preguntar si y cómo *calientas* tu casa||||||Nous allons maintenant vous demander si et comment vous *chauffez* votre maison| | | | ||Agora vamos perguntar se e como você *aquece* sua casa| | | | |$
+IF NO MOVES ON TO cooling section||wfh-emissions_home-heating|WORKING FROM HOME EMISSIONS|Do you ever use any source of heat in the room you usually work in at home, during working hours? |This includes **any** source of heat. For example, you might use central heating or district heating. Or you may use something smaller-scale such as infrared panels or an electric blanket / throw that goes on your knees.|MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Yes
+ - No"|Whether heating emissions relevant|||||¿Alguna vez usa alguna fuente de calor en la habitación en la que trabaja habitualmente en casa, durante las horas de trabajo? |Esto incluye **cualquier** fuente de calor. Por ejemplo, puede usar calefacción central o calefacción urbana. O puede usar algo de menor escala, como paneles infrarrojos o una manta / tiro eléctrico que se pone de rodillas.|"Opciones:
+- Sí
+- No"| | ||Vous arrive-t-il d'utiliser quelconque moyen de chauffage dans la pièce dans laquelle vous télétravaillez habituellement, pendant les heures de travail?|Cela inclut **toute** source de chaleur. Par exemple, vous pouvez utiliser le chauffage central ou un chauffage d'appoint.|"Options :
+ - Oui
+ - Non"| | ||Você já usou alguma fonte de calor no cômodo em que costuma trabalhar em casa, durante o horário de trabalho? |Isso inclui **qualquer** fonte de calor. Por exemplo, você pode usar aquecimento central ou aquecimento urbano. Ou você pode usar algo em menor escala, como painéis infravermelhos ou um cobertor elétrico que coloca sobre as pernas.|"Opções:
+- Sim
+- Não"| | |$
+||wfh-emissions_home-heating-sources|WORKING FROM HOME EMISSIONS|Which heat sources best describe how you heat the room in your home that you usually work from?||MULTIPLE OPTIONS - MULTIPLE CHOICE|"Options:
+ - Gas (natural gas, propane, LPG)
+ - Oil (diesel, kerosene, heating oil)
+ - Electricity
+ - Renewable / biomass 
+ - Coal
+ - District heating
+ - Other (please specify)"||||||Seleccione las fuentes de calor que mejor describan cómo calienta la habitación de su hogar desde la que normalmente trabaja.| |"Opciones:
+ - Gas (gas natural, propano, GLP)
+- Aceite (diesel, queroseno, aceite de calefacción)
+- Electricidad
+- Renovable / biomasa
+- Carbón
+- Calefacción urbana
+- Otro (especifique)"| | ||Quelles sources de chaleur utilisez-vous le plus souvent pour chauffez la pièce de votre maison dans laquelle vous travaillez habituellement ?| |"Options :
+ - Gaz (gaz naturel, propane, GPL)
+ - Huile (diesel, kérosène, mazout de chauffage)
+ - Électricité
+ - Énergies renouvelables / biomasse
+ - Charbon
+ - Chauffage collectif
+ - Autre (veuillez préciser)"| | ||Quais fontes de calor descrevem melhor como você aquece o cômodo da sua sua casa do qual você geralmente trabalha?| |"Opções:
+ - Gás (gás natural, propano, GPL)
+- Óleo (diesel, querosene, óleo de aquecimento)
+- Eletricidade
+- Renováveis / biomassa
+- Carvão
+- Aquecimento urbano
+- Outro (por favor especifique)"|||$
+||wfh-emissions_home-heating-sources-during-months-of-year-explanation|WORKING FROM HOME EMISSIONS||"*Instructions:*
+
+Select all the heating sources you use in the room you usually work in. Then specify how many hours *of the working day* you use each heat source for on average within each month.
+
+E.g. if your gas furnace is typically on for 4 hours of your working day from Dec-Jan, select ""gas furnace"" and ""4"" in December and January in the question below. If you also use an electric throw for 2 hours of your working day in Jan, select ""electric blanket / throw"" and ""2"" in January.
+
+*Note:*
+ - If your usage or working room varies, please give your best estimate.
+ - You can add as many sources as applicable.
+ - If your heating is controlled automatically (e.g. ""always-on"" thermostat / centrally controlled system), select ""auto"" in the months your system is on."|||||||||"*Instruciones:*                                                                                                                                   Seleccione todas las fuentes de calefacción que utiliza en la habitación en la que normalmente trabaja. A continuación, especifique cuántas horas *del día hábil* utiliza cada fuente de calor en promedio dentro de cada mes.
+
+Por ejemplo, si su horno de gas está normalmente encendido durante 4 horas de su día de trabajo desde diciembre-enero, seleccione ""horno de gas"" y ""4"" en diciembre y enero en la siguiente pregunta. Si también utiliza un tiro eléctrico durante 2 horas de su día de trabajo en enero, seleccione ""manta eléctrica/ tirar"" y ""2"" en enero.
+
+*Nota:*                                                                                                                                                - Si su uso o sala de trabajo varía, por favor dé su mejor estimación de su uso promedio.  - Puede agregar tantas fuentes como sea necesario.
+- Si su fuente de calefacción se controla automáticamente (por ejemplo, en un termostato ""siempre encendido"" o un sistema controlado centralmente), seleccione ""automático"" en los menús desplegables en los meses en que su sistema está encendido."|| | || |"Instructions:  ""Sélectionnez toutes les sources de chauffage que vous utilisez dans la pièce où vous travaillez habituellement. Précisez ensuite combien d'heures *de la journée de travail* vous utilisez chaque source de chaleur en moyenne au cours de chaque mois.
+
+Par exemple, si votre chaudière à gaz fonctionne généralement pendant 4 heures de votre journée de travail de décembre à janvier, sélectionnez ""chaudière à gaz"" et ""4"" en décembre et janvier dans la question ci-dessous. Si vous utilisez également une couverture électrique pendant 2 heures de votre journée de travail en janvier, sélectionnez """"couverture électrique / couverture"""" et """"2"""" en janvier.
+
+*Note:*
+ - Si votre utilisation ou votre espace de travail varie, veuillez donner votre meilleure estimation.
+ - Vous pouvez ajouter autant de sources que nécessaire.
+ - Si votre chauffage est contrôlé automatiquement (par exemple, thermostat ""toujours allumé"" / système à commande centralisée), sélectionnez ""auto"" pour les mois où votre système est en marche."| | | |||"*Instruções:*                                                                                                                                                                                                                                                                                                                                                                                                                  Selecione todas as fontes de aquecimento que você usa. Em seguida, especifique quantas horas *durante o dia útil* você usa cada fonte de calor, em média, em cada mês.
+
+Por exemplo, se sua fornalha a gás está tipicamente ligada por 4 horas no seu dia de trabalho de Dez-Jan, selecione ""fornalha a gás"" e ""4"" em dezembro e Janeiro na questão abaixo. Se você também usar um cobertor elétrico por 2 horas por dia de trabalho em janeiro, selecione ""cobertor / manta elétrica"" e depois ""2"" em dezembro e janeiro.
+
+*Nota:*                                                                                                                                                - Se o seu uso ou sala de trabalho variar, forneça sua melhor estimativa do seu uso médio.                                                                                                                                                   -Você pode adicionar quantas fontes forem necessárias.
+- Se sua fonte de aquecimento for controlada automaticamente (por exemplo, em um termostato ""sempre ligado"" ou sistema controlado centralmente), selecione ""automático"" nas listas suspensas nos meses em que seu sistema estiver ligado."|| | |$
+"Only show sub categories per category
+INSERT TABLE "||wfh-emissions_home-heating-sources-during-months-of-year-gas|WORKING FROM HOME EMISSIONS|Tell us about the gas heating sources you use *in the room you usually work in at home*. |Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. |Table|"(Use heating table in ""WFH table"" tab)
+COLUMNS: 
+- Heating source
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+OPTIONS:
+ - Gas furnace
+ - Gas boiler
+ - Gas space heater / Portable gas heater"|||"
+* AUTOMATIC OPTION: Automatic
+* ADD ROW TEXT: Add heating source
+* REMOVE ROW TEXT: Remove heating source
+* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different heating source"|||Cuéntanos más sobre las fuentes de calefacción de gas que usas *en la habitación en la que trabajas habitualmente en casa*.|Agregue todas las fuentes de calefacción aplicables y el número de horas que suele utilizar para *durante un día hábil* en cada mes. |"COLUMNAS:
+- Fuente de calefacción
+- Enero
+- Febrero
+- Marzo
+- Abril
+- Mayo
+- Junio
+- Julio
+- Agosto
+- Septiembre
+- Octubre
+- Noviembre
+- Diciembre
+
+
+(Utilice la tabla de calefacción en la pestaña ""WFH table"")                                                                       OPCIONES:
+- Horno de gas
+- Caldera de gas
+- Calentador de gas /  Calentador de gas portátil"|"
+* OPCIÓN AUTOMÁTICA: Automático
+* AÑADIR TEXTO DE FILA: Añadir fuente de calefacción
+* ELIMINAR EL TEXTO de la FILA: Eliminar fuente de calefacción
+* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: diferente fuente de calefacción"| ||Indiquez-nous les sources de chauffage au gaz que vous utilisez *dans la pièce où vous travaillez habituellement à la maison*. |Ajoutez toutes les sources de chauffage concernées et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. |"(Utiliser la table de chauffage dans l'onglet ""Table WFH"")
+COLONNES :
+- Source de chauffage
+- Janvier
+- Février
+- Mars
+- Avril
+- Mai
+- Juin
+- Juillet
+- Août
+- Septembre
+- Octobre
+- Novembre
+- Décembre
+
+OPTIONS :
+ - Chaudière à gaz - Chaudière
+ à gaz
+ - Chauffage au gaz - Chauffage
+ au gaz portable"|"
+* OPTION AUTOMATIQUE : Automatique
+* AJOUTER UN TEXTE DE LIGNE :
+Ajouter une source de chauffage
+* SUPPRIMER LE TEXTE DE LA LIGNE : Supprimer la source de chauffage
+* AUTRE TEXTE : Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ : Source de chauffage différente"| ||Conte-nos mais sobre as fontes de aquecimento a gás que você usa *no cômodo em que você costuma trabalhar em casa*.|Adicione todas as fontes de calor aplicáveis e o número de horas que você tipicamente os utiliza *durante um dia de trabalho* em cada mês.|"
+* COLUNAS:
+- Fonte de aquecimento
+- Janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro
+
+(Use a tabela de aquecimento na guia ""WFH table"")                                                                                                               OPÇÕES:
+- Fornalha a gás
+- Caldeira a gás
+- Aquecedor de ambiente a gás / Aquecedor de gás portátil"|"
+* OPÇÃO AUTOMÁTICA: Automático
+* ADICIONAR TEXTO DA LINHA: Adicionar fonte de aquecimento
+* REMOVER TEXTO DA LINHA: Remover fonte de aquecimento
+* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: Fonte de aquecimento diferente"| |$
+"Only show sub categories per category
+INSERT TABLE "||wfh-emissions_home-heating-sources-during-months-of-year-oil|WORKING FROM HOME EMISSIONS|Tell us more about the oil heating sources you use *in the room you usually work in at home*.|Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. |Table|"(Use heating table in ""WFH table"" tab)
+COLUMNS: 
+- Heating source
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+OPTIONS:
+ - Oil furnace
+ - Oil boiler
+ - Oil space heater / Portable oil heater"|||"
+
+* AUTOMATIC OPTION: Automatic
+* ADD ROW TEXT: Add heating source
+* REMOVE ROW TEXT: Remove heating source
+* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different heating source"|||Cuéntanos más sobre las fuentes de calefacción de aceite que usas *en la habitación en la que trabajas habitualmente en casa*.|Agregue todas las fuentes de calefacción aplicables y el número de horas que usualmente utiliza *durante un día hábil* en cada mes. |"COLUMNAS:
+- Fuente de calefacción
+- Enero
+- Febrero
+- Marzo
+- Abril
+- Mayo
+- Junio
+- Julio
+- Agosto
+- Septiembre
+- Octubre
+- Noviembre
+- Diciembre
+
+
+(Utilice la tabla de calefacción en la pestaña ""WFH table"")                                                                       OPCIONES:
+- Horno de aceite
+- Caldera de aceite
+- Calentador de aceite/  Calentador de aceite portátil"|"
+* OPCIÓN AUTOMÁTICA: Automático
+* AÑADIR TEXTO DE FILA: Añadir fuente de calefacción
+* ELIMINAR EL TEXTO de la FILA: Eliminar fuente de calefacción
+* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: diferente fuente de calefacción"| ||Veuillez nous en dire plus sur les sources de chauffage à l'huile que vous utilisez *dans la pièce où vous travaillez habituellement à la maison*|Ajoutez toutes les sources de chauffage concernées et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. |"(Utiliser la table de chauffage dans l'onglet ""Table WFH"")
+COLONNES :
+- Source de chauffage
+- Janvier
+- Février
+- Mars
+- Avril
+- Mai
+- Juin
+- Juillet
+- Août
+- Septembre
+- Octobre
+- Novembre
+- Décembre
+
+OPTIONS :
+ - Kérosène
+ - Diesel"|"
+* OPTION AUTOMATIQUE : Automatique
+* AJOUTER UN TEXTE DE LIGNE :  Ajouter une source de chauffage
+* SUPPRIMER LE TEXTE DE LA LIGNE : Supprimer la source de chauffage
+* AUTRE TEXTE : Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ : Source de chauffage différente"| ||Conte-nos mais sobre as fontes de aquecimento a óleo que você usa *no cômodo em que você costuma trabalhar em casa*, durante o horário de trabalho.|Adicione todas as fontes de calor aplicáveis e o número de horas que você tipicamente os utiliza *durante um dia de trabalho* em cada mês.|"COLUNAS:
+- Fonte de aquecimento
+- janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro
+
+(Use a tabela de aquecimento na guia ""WFH table"")                                                                                                               OPÇÕES:
+- Fornalha a gás
+- Caldeira a gás
+- Aquecedor de ambiente a gás / Aquecedor de gás portátil"|"
+
+* OPÇÃO AUTOMÁTICA: Automático
+* ADICIONAR TEXTO DA LINHA: Adicionar fonte de aquecimento
+* REMOVER TEXTO DA LINHA: Remover fonte de aquecimento
+* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: Fonte de aquecimento diferente"| |$
+"Only show sub categories per category
+INSERT TABLE "||wfh-emissions_home-heating-sources-during-months-of-year-electricity|WORKING FROM HOME EMISSIONS|Tell us more about the electricity heating sources you use *in the room you usually work in at home*.|Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. |Table|"(Use heating table in ""WFH table"" tab)
+ COLUMNS: 
+- Heating source
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+OPTIONS:
+ - Electric boiler
+ - Electric space heater
+ - Small plug-in electric heater
+ - Electric blanket / throw
+ - Air source heat pump
+ - Ground source heat pump
+ - Water source heat pump"|||"COLUMNS: 
+- Heating source
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+* AUTOMATIC OPTION: Automatic
+* ADD ROW TEXT: Add heating source
+* REMOVE ROW TEXT: Remove heating source
+* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different heating source"|||Cuéntanos más sobre las fuentes de calefacción de electricidad que usas *en la habitación en la que trabajas habitualmente en casa*.|Agregue todas las fuentes de calefacción aplicables y el número de horas que usualmente utiliza *durante un día hábil* en cada mes. |"COLUMNAS:
+- Fuente de calefacción
+- Enero
+- Febrero
+- Marzo
+- Abril
+- Mayo
+- Junio
+- Julio
+- Agosto
+- Septiembre
+- Octubre
+- Noviembre
+- Diciembre
+
+
+(Utilice la tabla de calefacción en la pestaña ""WFH table"")                                                                       OPCIONES:
+
+- Caldera eléctrica
+- Calentador de espacio eléctrico
+- Calentador eléctrico portátil
+- Manta / tiro eléctrico
+- Bomba de calor de fuente de aire
+- Bomba de calor de fuente de tierra
+- Bomba de calor de fuente de agua"|"
+* OPCIÓN AUTOMÁTICA: Automático
+* AÑADIR TEXTO DE FILA: Añadir fuente de calefacción
+* ELIMINAR EL TEXTO de la FILA: Eliminar fuente de calefacción
+* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: diferente fuente de calefacción"| ||Veuillez nous en dire plus sur les sources de chauffage éléctriques que vous utilisez *dans la pièce où vous travaillez habituellement à la maison*|Ajoutez toutes les sources de chauffage concernées et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. |"(Utiliser la table de chauffage dans l'onglet ""Table WFH"")
+COLONNES :
+- Source de chauffage
+- Janvier
+- Février
+- Mars
+- Avril
+- Mai
+- Juin
+- Juillet
+- Août
+- Septembre
+- Octobre
+- Novembre
+- Décembre
+
+OPTIONS :
+ - Chaudière électrique
+ - Chauffage électrique d'appoint
+ - Petit chauffage électrique 
+ - Couverture électrique
+ - Pompe à chaleur à air
+ - Pompe à chaleur géothermique
+ - Pompe à chaleur à eau"|"
+* OPTION AUTOMATIQUE : Automatique
+* AJOUTER UN TEXTE DE LIGNE : Ajouter une source de chauffage
+* SUPPRIMER LE TEXTE DE LA LIGNE : Supprimer la source de chauffage
+* AUTRE TEXTE : Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ : Source de chauffage différente"| ||Conte-nos mais sobre as fontes de aquecimento a eletricidade que você usa *no cômodo em que você costuma trabalhar em casa*.|Adicione todas as fontes de calor aplicáveis e o número de horas que você tipicamente os utiliza *durante um dia de trabalho* em cada mês.|"COLUNAS:
+- Fonte de aquecimento
+- janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro
+
+
+(Use a tabela de aquecimento na guia ""WFH table"")                                                                                                               OPÇÕES:
+                                                                                                                                                                                       - Caldeira elétrica
+- Aquecedor de ambiente elétrico
+- Aquecedor elétrico portátil
+- Cobertor / manta elétrica
+- Bomba de calor de fonte de ar
+- Bomba de calor de fonte de solo
+- Bomba de calor de fonte de água"|"
+* OPÇÃO AUTOMÁTICA: Automático
+* ADICIONAR TEXTO DA LINHA: Adicionar fonte de aquecimento
+* REMOVER TEXTO DA LINHA: Remover fonte de aquecimento
+* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: Fonte de aquecimento diferente"| |$
+"Only show sub categories per category
+INSERT TABLE "||wfh-emissions_home-heating-sources-during-months-of-year-renewable|WORKING FROM HOME EMISSIONS|Tell us more about the renewable / biomass heating sources you use *in the room you usually work in at home*.|Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. |Table|"(Use heating table in ""WFH table"" tab)
+COLUMNS: 
+- Heating source
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+OPTIONS:
+ - Solar heating (hot water system)
+ - Wood burner system (logs, pellets, chips)
+ - Geothermal (natural, not electric heat pump)
+ - Hydrogen fuel cells"|||"
+
+* AUTOMATIC OPTION: Automatic
+* ADD ROW TEXT: Add heating source
+* REMOVE ROW TEXT: Remove heating source
+* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different heating source"|||Cuéntanos más sobre las fuentes de calefacción renovables  bisomasa que usas *en la habitación en la que trabajas habitualmente en casa*.|Agregue todas las fuentes de calefacción aplicables y el número de horas que usualmente utiliza *durante un día hábil* en cada mes. |"
+COLUMNAS:
+- Fuente de calefacción
+- Enero
+- Febrero
+- Marzo
+- Abril
+- Mayo
+- Junio
+- Julio
+- Agosto
+- Septiembre
+- Octubre
+- Noviembre
+- Diciembre
+
+
+
+(Utilice la tabla de calefacción en la pestaña ""WFH table"")                                                                       OPCIONES:       
+                                                                                                                                                                               - Calefacción solar (sistema de agua caliente)
+- Sistema de quemador de madera (troncos, pellets, astillas)
+- Geotérmica (bomba de calor natural, no eléctrica)
+- Pilas de combustible de hidrógeno"|"
+* OPCIÓN AUTOMÁTICA: Automático
+* AÑADIR TEXTO DE FILA: Añadir fuente de calefacción
+* ELIMINAR EL TEXTO de la FILA: Eliminar fuente de calefacción
+* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: diferente fuente de calefacción"| ||Veuillez nous en dire plus sur les sources de chauffage renouvelables que vous utilisez *dans la pièce où vous travaillez habituellement à la maison*|Ajoutez toutes les sources de chauffage concernées et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. |"COLONNES :
+- Source de chauffage
+- Janvier
+- Février
+- Mars
+- Avril
+- Mai
+- Juin
+- Juillet
+- Août
+- Septembre
+- Octobre
+- Novembre
+- Décembre
+
+OPTIONS :
+ - Chauffage solaire (système d'eau chaude)
+ - Système de poêle à bois (bûches, granulés, copeaux)
+ - Géothermie (naturelle, pas de pompe à chaleur électrique)
+ - Piles à combustible à hydrogène"|"
+
+* OPTION AUTOMATIQUE : Automatique
+* AJOUTER UN TEXTE DE LIGNE : Ajouter une source de chauffage
+* SUPPRIMER LE TEXTE DE LA LIGNE : Supprimer la source de chauffage
+* AUTRE TEXTE : Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ : Source de chauffage différente"| ||Conte-nos mais sobre as fontes de aquecimento renováveis / à biomassa que você usa *no cômodo em que você costuma trabalhar em casa*.|Adicione todas as fontes de calor aplicáveis e o número de horas que você tipicamente os utiliza *durante um dia de trabalho* em cada mês.|"COLUNAS:
+- Fonte de aquecimento
+- janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro
+
+(Use a tabela de aquecimento na guia ""WFH table"")                                                                                                               OPÇÕES:
+                                                                                                                                                                                                         - Aquecimento solar (sistema de água quente)
+- Sistema de queimador de madeira (toras, pellets, cavacos)
+- Geotérmica (bomba de calor natural, não elétrica)
+- Células de combustível de hidrogênio"|"* OPÇÃO AUTOMÁTICA: Automático
+* ADICIONAR TEXTO DA LINHA: Adicionar fonte de aquecimento
+* REMOVER TEXTO DA LINHA: Remover fonte de aquecimento
+* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: Fonte de aquecimento diferente"| |$
+"Only show sub categories per category
+INSERT TABLE "||wfh-emissions_home-heating-sources-during-months-of-year-coal|WORKING FROM HOME EMISSIONS|Tell us more about the coal heating sources you use *in the room you usually work in at home*.|Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. |Table|"(Use heating table in ""WFH table"" tab)
+COLUMNS: 
+- Heating source
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+OPTIONS:
+ - Coal furnace
+ - Coal burner
+ - Coal space heater
+ - Coal fireplace
+"|||"
+* AUTOMATIC OPTION: Automatic
+* ADD ROW TEXT: Add heating source
+* REMOVE ROW TEXT: Remove heating source
+* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different heating source"|||Cuéntanos más sobre las fuentes de calefacción de carbón que usas *en la habitación en la que trabajas habitualmente en casa*.|Agregue todas las fuentes de calefacción aplicables y el número de horas que usualmente utiliza *durante un día hábil* en cada mes. |"COLUMNAS:
+- Fuente de calefacción
+- Enero
+- Febrero
+- Marzo
+- Abril
+- Mayo
+- Junio
+- Julio
+- Agosto
+- Septiembre
+- Octubre
+- Noviembre
+- Diciembre
+
+(Utilice la tabla de calefacción en la pestaña ""WFH table"")                                                                       OPCIONES:    
+                                                                                                                                                                                - Horno de carbón
+- Quemador de carbón
+- Calentador de carbón
+- Chimenea de carbón"|"
+
+* OPCIÓN AUTOMÁTICA: Automático
+* AÑADIR TEXTO DE FILA: Añadir fuente de calefacción
+* ELIMINAR EL TEXTO de la FILA: Eliminar fuente de calefacción
+* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: diferente fuente de calefacción"| ||Veuillez nous en dire plus sur les sources de chauffage au charbon que vous utilisez *dans la pièce où vous travaillez habituellement à la maison*|Ajoutez toutes les sources de chauffage concernées et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. |"COLONNES :
+- Source de chauffage
+- Janvier
+- Février
+- Mars
+- Avril
+- Mai
+- Juin
+- Juillet
+- Août
+- Septembre
+- Octobre
+- Novembre
+- Décembre
+
+OPTIONS :
+ - Four à charbon
+ - Brûleur à charbon
+ - Chauffe-eau à charbon
+ - Cheminée à charbon"|"
+
+* OPTION AUTOMATIQUE : Automatique
+* AJOUTER UN TEXTE DE LIGNE : Ajouter une source de chauffage
+* SUPPRIMER LE TEXTE DE LA LIGNE : Supprimer la source de chauffage
+* AUTRE TEXTE : Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ : Source de chauffage différente"| ||Conte-nos mais sobre as fontes de aquecimento a carvão que você usa *no cômodo em que você costuma trabalhar em casa*.|Adicione todas as fontes de calor aplicáveis e o número de horas que você tipicamente os utiliza *durante um dia de trabalho* em cada mês.|"COLUNAS:
+- Fonte de aquecimento
+- janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro
+(Use a tabela de aquecimento na guia ""WFH table"")                                                                                                               OPÇÕES:
+                                                                                                                                                                                                         - Fornalha a carvão
+- Queimador a carvão
+- Aquecedor de ambiente a carvão
+- Lareira a carvão"|"
+* OPÇÃO AUTOMÁTICA: Automático
+* ADICIONAR TEXTO DA LINHA: Adicionar fonte de aquecimento
+* REMOVER TEXTO DA LINHA: Remover fonte de aquecimento
+* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: Fonte de aquecimento diferente"| |$
+"Only show sub categories per category
+INSERT TABLE "||wfh-emissions_home-heating-sources-during-months-of-year-district-heating|WORKING FROM HOME EMISSIONS|Tell us more about the district heating sources you use *in the room you usually work in at home*, during working hours.|Add all applicable heating sources and the number of hours you typically use them for *during a working day* in each month. |Table|"COLUMNS: 
+- Heating source
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+(Use heating table in ""WFH table"" tab)
+"|||"
+* AUTOMATIC OPTION: Automatic
+* ADD ROW TEXT: Add heating source
+* REMOVE ROW TEXT: Remove heating source
+* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different heating source"|||Cuéntanos más sobre las fuentes de calefacción urbana que usas *en la habitación en la que trabajas habitualmente en casa*, las horas de trabajo.|Agregue todas las fuentes de calefacción aplicables y el número de horas que usualmente utiliza *durante un día hábil* en cada mes. |"COLUMNAS:
+- Fuente de calefacción
+- Enero
+- Febrero
+- Marzo
+- Abril
+- Mayo
+- Junio
+- Julio
+- Agosto
+- Septiembre
+- Octubre
+- Noviembre
+- Diciembre
+
+
+(Utilice la tabla de calefacción en la pestaña ""WFH table"")"|"
+* OPCIÓN AUTOMÁTICA: Automático
+* AÑADIR TEXTO DE FILA: Añadir fuente de calefacción
+* ELIMINAR EL TEXTO de la FILA: Eliminar fuente de calefacción
+* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: diferente fuente de calefacción"| ||Veuillez nous en dire plus sur les sources de chauffage collectifs que vous utilisez *dans la pièce où vous travaillez habituellement à la maison*|Ajoutez toutes les sources de chauffage concernées et le nombre d'heures pendant lesquelles vous les utilisez habituellement *pendant un jour de travail* au cours de chaque mois. |"COLONNES :
+- Source de chauffage
+- Janvier
+- Février
+- Mars
+- Avril
+- Mai
+- Juin
+- Juillet
+- Août
+- Septembre
+- Octobre
+- Novembre
+- Décembre"|"
+
+* OPTION AUTOMATIQUE : Automatique
+* AJOUTER UN TEXTE DE LIGNE : Ajouter une source de chauffage
+* SUPPRIMER LE TEXTE DE LA LIGNE : Supprimer la source de chauffage
+* AUTRE TEXTE : Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ : Source de chauffage différente"| ||Conte-nos mais sobre as fontes de aquecimento urbano que você usa *no cômodo em que você costuma trabalhar em casa*, durante o horário de trabalho.|Adicione todas as fontes de calor aplicáveis e o número de horas que você tipicamente os utiliza *durante um dia de trabalho* em cada mês.|"COLUNAS:
+- Fonte de aquecimento
+- Janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro
+(Use a tabela de aquecimento na guia ""WFH table""):"|"
+* OPÇÃO AUTOMÁTICA: Automático
+* ADICIONAR TEXTO DA LINHA: Adicionar fonte de aquecimento
+* REMOVER TEXTO DA LINHA: Remover fonte de aquecimento
+* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: Fonte de aquecimento diferente"| |$
+||wfh-emissions_home-cooling-group|WORKING FROM HOME EMISSIONS|We're now going to ask you about if and how you *cool* your home.													|||||||||Ahora te vamos a preguntar si y cómo *enfrías* tu casa||||||Nous allons maintenant vous demander si et comment vous *rafraichissez* votre maison.| | | | ||Agora vamos perguntar se e como você *resfria* sua casa.|||||$
+IF NO MOVES TO commuting section||wfh-emissions_home-cooling|WORKING FROM HOME EMISSIONS|Do you ever use any source of cooling in the room you usually work in at home, during working hours? |This includes **any** source of cooling. For example, you might use air conditioning, and / or something smaller-scale such as a desk fan.|MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Yes
+ - No"||||||¿Alguna vez usa alguna fuente de enfriamiento en la habitación en la que trabaja habitualmente en casa, durante las horas de trabajo? |Esto incluye ** cualquier** fuente de enfriamiento. Por ejemplo, puede usar aire acondicionado y / o puede usar algo de menor escala, como un ventilador de escritorio.|"Opciones:
+- Sí
+- No"| | ||Avez-vous déjà utilisé une source de refroidissement dans la pièce où vous travaillez habituellement à la maison, pendant les heures de travail ? |Cela inclut ** toute** source de refroidissement. Par exemple, vous pouvez utiliser la climatisation, et / ou un ventilateur de bureau.|"Options :
+ - Oui
+ - Non"| | ||Você já usou alguma fonte de resfriamento no cômodo em que costuma trabalhar em casa, durante o horário de trabalho? |Isso inclui **qualquer** fonte de resfriamento. Por exemplo, você pode usar ar condicionado e / ou pode usar algo em menor escala, como um ventilador de mesa.|"Opções:
+- Sim
+- Não"| | |$
+"Only show if answer to previous question is ""yes""
+INSERT TABLE "||wfh-emissions_home-cooling-sources-during-months-of-year|WORKING FROM HOME EMISSIONS|Tell us more about the cooling sources you use *in the room you usually work in at home*, during working hours.|"Add all applicable cooling sources and the number of hours you typically use them for *during a working day* in each month.
+
+**Note:**
+ - If your usage or working room varies, please give your best estimate.
+ - You can add as many sources as applicable.
+ - If your cooling is controlled automatically (e.g. ""always-on"" thermostat / centrally controlled system), select ""auto"" in the months your system is on."|Table|"(Use cooling table in ""WFH table"" tab.)
+COLUMNS: 
+- Cooling source
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+OPTIONS:
+- Ceiling fan
+- Plug-in fan
+- Air conditioning
+- Air source heat pump
+- Ground source heat pump
+- Water source heat pump
+- Other"|||"
+* AUTOMATIC OPTION: Automatic
+* ADD ROW TEXT: Add cooling source
+* REMOVE ROW TEXT: Remove cooling source
+* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different cooling source"|||Complete esta tabla para informarnos sobre las fuentes de refrigeración que utiliza *en la habitación en la que trabaja habitualmente en casa*, durante las horas de trabajo.|"Agregue todas las fuentes de refrigración aplicables y el número de horas que normalmente utiliza para *durante un día hábil* en cada mes.
+
+**Nota:**
+ - Si su uso o sala de trabajo varía, por favor dé su mejor estimación.
+ - Puede añadir tantas fuentes como sea apropiado.
+ - Si su refrigeración se controla automáticamente (p. ej., ""siempre encendido"" termostato / sistema controlado centralmente), seleccione ""auto"" en los meses en que su sistema esté encendido.""
+
+"|"COLUMNAS:
+- Fuente de calefacción
+- Enero
+- Febrero
+- Marzo
+- Abril
+- Mayo
+- Junio
+- Julio
+- Agosto
+- Septiembre
+- Octubre
+- Noviembre
+- Diciembre
+
+
+(Utilice la tabla de refrigeración en la pestaña ""WFH table"")                                                        OPCIONES:
+- Ventilador de techo
+- Ventilador que se conecte
+- Aire acondicionado
+- Bomba de calor de fuente de aire
+- Bomba de calor de fuente de tierra
+- Bomba de calor de fuente de agua                                                                                                                                                                  - Otro"|"
+* OPCIÓN AUTOMÁTICA: Automático
+* AÑADIR TEXTO DE FILA: Añadir fuente de calefacción
+* ELIMINAR EL TEXTO de la FILA: Eliminar fuente de calefacción
+* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: diferente fuente de calefacción"| ||Veuillez remplir ce tableau pour nous en dire plus sur les sources de refroidissement que vous utilisez *dans la pièce où vous travaillez habituellement à la maison*, pendant les heures de travail.|"Dans la colonne vers le bas, veuillez sélectionner toutes les sources de refroidissement que vous utilisez. Indiquez ensuite combien d'heures *pendant les heures de travail * vous utilisez chaque source de refroidissement en moyenne, chaque mois.
+
+Si votre utilisation ou votre salle de travail varie, veuillez donner votre meilleure estimation de votre utilisation moyenne. Vous pouvez ajouter autant de sources que nécessaire. "|"COLONNES :
+- Source de chauffage
+- Janvier
+- Février
+- Mars
+- Avril
+- Mai
+- Juin
+- Juillet
+- Août
+- Septembre
+- Octobre
+- Novembre
+- Décembre
+
+
+OPTIONS :
+- Ventilateur de plafond
+- Ventilateur sur pied
+- Climatisation
+- Pompe à chaleur à air
+- Pompe à chaleur géothermique
+- Pompe à chaleur à eau
+- Autre"|"
+* OPTION AUTOMATIQUE : Automatique
+* AJOUTER UN TEXTE DE LIGNE : Ajouter une source de chauffage
+* SUPPRIMER LE TEXTE DE LA LIGNE : Supprimer la source de chauffage
+* AUTRE TEXTE : Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ : Source de chauffage différente"| ||Conte-nos mais sobre as fontes de resfriamento que você usa *no cômodo em que você costuma trabalhar em casa*, durante o horário de trabalho.|"Adicione todas as fontes de resfriamento aplicáveis e o número de horas que você tipicamente os utiliza *durante um dia de trabalho* em cada mês.                                                                         
+                                                                                                                                                                      **Nota:**                                                                                                                                           - Se o seu uso ou cômodo de trabalho variar, por favor forneça sua melhor estimativa.        - Você pode adicionar quantas fontes forem aplicáveis.                                                            - Se o seu sistema de resfriamento é controlado automaticamente (por exemplo, termostato ""sempre ligado"" / sistema de controle central), selecione ""auto"" nos meses em que seu sistema estiver ligado.
+
+ "|"COLUNAS:
+- Fonte de aquecimento
+- Janeiro
+- Fevereiro
+- Março
+- Abril
+- Maio
+- Junho
+- Julho
+- Agosto
+- Setembro
+- Outubro
+- Novembro
+- Dezembro
+
+
+OPÇÕES:
+- Ventilador de teto
+- Ventilador plug-in
+- Ar condicionado
+- Bomba de aquecimento a ar
+- Bomba de aquecimento do solo
+- Bomba de aquecimento a água
+- Outros"|"
+* OPÇÃO AUTOMÁTICA: Automático
+* ADICIONAR TEXTO DA LINHA: Adicionar fonte de aquecimento
+* REMOVER TEXTO DA LINHA: Remover fonte de aquecimento
+* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: Fonte de aquecimento diferente"| |$
+||wfh-emissions_equipment-group|WORKING FROM HOME EMISSIONS|We're now going to ask you about the electronic equipment you use to help you work at home.|||||||||Ahora vamos a preguntarle acerca de los equipos electrónicos que utiliza para ayudarle a trabajar en casa.||||||Nous allons maintenant vous poser des questions sur l'équipement électronique que vous utilisez en télétravail.											|| ||||Agora vamos perguntar sobre o equipamento eletrônico que você usa que o auxilia a trabalhar em casa.|||||$
+||wfh-emissions_equipment|WORKING FROM HOME EMISSIONS|Which of the equipment below do you use on a typical day when working from home? |This equipment may be owned by you or by Valtech. We only need to know about what you use to do your job.|MULTIPLE OPTIONS - MULTIPLE CHOICE|"OPTIONS:
+- Laptop
+- One monitor/screen
+- Second monitor/screen
+- Third monitor/screen
+- Desktop PC
+- Tablet
+- Company owned mobile
+- Ceiling light
+- Desk lamp
+- Printer
+- Shredder
+- Speakers"|Energy use of equipment (multipled by elec emission factor)||"* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different electronic equipment"|||¿Cuál de los siguientes equipos usa en un día típico cuando trabaja desde casa? |Este equipo puede ser de su propiedad o de Valtech. Solo necesitamos saber qué usas para hacer tu trabajo.|"OPCIONES:
+- Laptop
+- Un monitor/pantalla
+- Segundo monitor/pantalla
+- Tercer monitor/pantalla
+- PC de escritorio
+- Tablet
+- Móvil propiedad de la empresa
+- Luz de techo
+- Lámpara de escritorio
+- Impresora
+- Trituradora
+- Altavoces"|"* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: equipo electrónico diferente"| ||Lesquels des équipements ci-dessous utilisez-vous lors d'une journée typique de travail à domicile ? |Ces équipements peuvent vous appartenir ou appartenir à Valtech. |"OPTIONS :
+- Ordinateur portable
+- Un moniteur/écran
+- Deuxième moniteur/écran
+- Troisième moniteur/écran
+- Ordinateur de bureau
+- Tablette
+- Mobile appartenant à l'entreprise
+- Plafonnier
+- Lampe de bureau
+- Imprimante
+- Déchiqueteuse
+- Haut-parleurs"|"* AUTRE TEXTE : Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ : Équipement électronique différent"| ||Qual dos equipamentos abaixo você usa em um dia típico quando trabalha em casa? |Este equipamento pode ser de sua propriedade ou da Valtech. Só precisamos saber o que você usa para fazer o seu trabalho.|"OPÇÕES:
+- Laptop
+- Um monitor/tela
+- Segundo monitor/tela
+- Terceiro monitor/tela
+- Desktop PC
+- Tablet
+- Celular de propriedade da empresa
+- Lâmpada de teto
+- Lâmpada de mesa
+- Impressora
+- Fragmentadora
+- Alto-falantes"|"* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: Equipamento eletrônico diferente"| |$
+"Only visible if the options ""Laptop"" or ""Desktop PC"" are chosen in the previous question."||wfh-emissions_equipment-dark-mode|WORKING FROM HOME EMISSIONS|Do you use dark mode on your main work device (e.g. laptop / desktop PC) most of the time?|"""Dark mode"" is a display setting for user interfaces where light-coloured text is shown against a dark screen, which may use less energy."|MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Yes
+ - No"||||||¿Usa el modo oscuro en su dispositivo de trabajo principal (p. ej., computadora portátil/ PC de escritorio) la mayor parte del tiempo?|Modo oscuro es un ajuste de visualización para interfaces de usuario donde el texto de color claro se muestra contra una pantalla oscura, que puede usar menos energía.|"Opciones:
+- Sí
+- No"||||Utilisez-vous la plupart du temps le mode sombre sur votre principal appareil de travail (p. ex. ordinateur portable / ordinateur de bureau) ?|"Le ""mode sombre"" est un paramètre d'affichage pour les interfaces utilisateur dans lequel le texte de couleur claire est affiché sur un écran sombre, ce qui permet de consommer moins d'énergie."|"Options :
+ - Oui
+ - Non"||||Você usa o modo escuto no seu principal equipamento de trabalho (por exemplo laptop / computador desktop) na maior parte do tempo?|"""Modo escuro"" é uma configuração de exibição para interfaces de usuário onde o texto de cor clara é mostrado contra uma tela escura, que pode usar menos energia."|"Opções:
+- Sim
+- Não"|||$
+ONLY DISPLAY THIS SECTION IF PERCENTAGE OF COMMUTING TO BASE VALTECH OFFICE WAS >0% ||commuting-section|COMMUTING EMISSIONS|Commuting section|We're now going to ask you about your commuting habits.||||||||Sección de traslado diario|Ahora vamos a preguntarle acerca de sus hábitos de viaje.| | | ||Section des trajets domicile-travail|Nous allons maintenant vous poser des questions sur vos habitudes de déplacement.| | | ||Seção de deslocamento|Agora vamos perguntar sobre seus hábitos de deslocamento.| | | |$
+||commuting-emissions_office-commute-distance|COMMUTING EMISSIONS|In 2022, how long was your standard commute from home to your base / normal Valtech office one way in (km / miles)?|If your base office moved during 2022, please tell us about your commute to the office you spent the largest part of the year in.|NUMBER ONLY|||||||En 2022, ¿cuánto tiempo duró su viaje estándar desde su casa a su oficina base / normal de Valtech de ida (en km / millas)? |Si su oficina base se mudó durante 2022, cuéntenos sobre su viaje diario a la oficina en la que pasó la mayor parte del año.|||||En 2022, combien de temps votre trajet standard a-t-il duré entre votre domicile et votre bureau Valtech de base / normal aller simple en (km / miles) ? |Si votre bureau de base a déménagé en 2022, veuillez nous parler de votre trajet vers le bureau où vous avez passé la plus grande partie de l'année.|| | ||Em 2022, quanto tempo demorou o seu deslocamento normal em uma ida de casa para o seu escritório base / normal da Valtech (em km / milhas)? |Se o seu escritório base se mudou durante 2022, informe-nos sobre o seu deslocamento para o escritório onde passou a maior parte do ano.|| | |$
+"
+INSERT COMMUTING TABLE "||commuting-emissions_office-commute-method|COMMUTING EMISSIONS|Please complete this table to tell us more about your standard commute from home to your base / normal Valtech office in 2022. |Just give the details for the outward journey: we will assume you do the same in reverse to get home. Select all relevant transport methods you normally used to commute, (including walking) and the distance travelled on each for your standard commute. Note that the distances you give here must sum to the distance you gave in the previous question!|Table|"COLUMNS: 
+- Transportation mode
+- Distance in [km/miles]
+Options:
+- Walking
+- Cycling
+- E-scooter
+- E-bike
+- International Train
+- National Train
+- Light rail / Tram
+- Metro / Underground / Subway
+- Bus
+- Coach
+- Car - Conventional fuel vehicle: petrol (gasoline), diesel
+- Car - Hybrid vehicle (petrol-electric)
+- Car - Electric vehicle (EV)
+- Car - Biofuel-powered vehicle (e.g. bioethanol or biodiesel, ""flexfuel"")
+- Car - LPG-powered vehicle (liquefied petroleum gas)
+- Car share (on average 2 people in vehicle)
+- Car share (on average 3 people in vehicle)
+- Car share (on average 4 people in vehicle)
+- Car share (on average 5 people in vehicle)
+- Taxi - Conventional fuel vehicle: petrol (gasoline), diesel
+- Taxi - Hybrid vehicle (petrol-electric)
+- Taxi - Electric vehicle (EV)
+- Plane
+- Ferry
+- Moped
+- Motorbike"|||"
+* TOTAL DISTANCE: Total [N] [km/miles]
+* PLACEHOLDER TEXT: Select transportation mode...
+* ADD ROW TEXT: Add transportation mode
+* REMOVE ROW TEXT: Remove transportation mode"|"* ERROR TEXT NOT EQUAL TO 100%: Total must be the same as your commute distance!
+* ERROR TEXT DUPLICATION: The chosen modes should be unique."||Complete esta tabla para informarnos más sobre su viaje estándar desde su casa a su oficina base / normal de Valtech en 2022. |Solo dé los detalles del viaje de ida: asumiremos que hace lo mismo a la inversa para llegar a casa. Seleccione todos los métodos de transporte relevantes que utilizó normalmente para viajar (incluida la caminata) y la distancia recorrida en cada uno para su viaje estándar. ¡Tenga en cuenta que las distancias que usted da aquí deben sumar a la distancia que dio en la pregunta anterior!|"COLUMNAS:
+- Modo de transporte
+- Distancia en [km/miles]
+Opciones:
+- Caminar
+- Ciclismo
+- E-scooter
+- Bicicleta eléctrica
+- Tren Internacional
+- Tren nacional - Tren
+ligero / tranvía
+- Metro / Subterráneo / Subterráneo
+- Autobús
+- Autocar
+- Coche - Vehículo de combustible convencional: gasolina (gasolina), diesel
+- Coche - Vehículo híbrido (gasolina-eléctrico)
+- Coche - Vehículo eléctrico (EV)
+- Coche - Vehículo alimentado por biocarburantes (por ejemplo, bioetanol o biodiésel, ""flexfuel"")
+- Coche - Vehículo propulsado por GLP (gas licuado de petróleo)
+- Coche compartido (en promedio 2 personas en el vehículo)
+- Coche compartido (en promedio 3 personas en el vehículo)
+- Coche compartido (en promedio 4 personas en el vehículo)
+- Coche compartido (en promedio 5 personas en el vehículo)
+- Taxi - Vehículo de combustible convencional: gasolina (gasolina), diesel
+- Taxi - Vehículo híbrido (gasolina-eléctrico)
+- Taxi - Vehículo eléctrico (EV)
+- Avión
+- Ferry
+- Ciclomotor
+- Motocicleta"|"
+* DISTANCIA TOTAL: Total [N] [km/millas]
+* TEXTO DEL MARCADOR de posición: Seleccione el modo de transporte...
+* AGREGAR TEXTO DE FILA: Agregar modo de transporte
+* ELIMINAR TEXTO DE FILA: Eliminar modo de transporte"|"* TEXTO DE ERROR NO IGUAL AL 100%: ¡El total debe ser el mismo que su distancia de viaje!
+* DUPLICACIÓN DE TEXTO DE ERROR: Los modos elegidos deben ser únicos."||Veuillez remplir ce tableau pour nous en dire plus sur votre trajet domicile-travail normal entre votre domicile et votre bureau de Valtech de base / normal en 2022. |Il suffit de donner les détails du voyage aller : nous supposerons que vous faites la même chose à l'envers pour rentrer chez vous. Sélectionnez tous les modes de transport pertinents que vous avez normalement utilisés pour vous déplacer (y compris la marche) et la distance parcourue sur chacun d'eux pour votre trajet standard. Notez que les distances que vous donnez ici doivent correspondre à la distance que vous avez donnée dans la question précédente !|"COLONNES :
+- Mode de transport
+- Distance en [km/miles]
+Options :
+- Marche
+- Vélo
+- E-scooter
+- Vélo Électrique
+- Train International
+- Train national - Train
+léger / Tramway
+- Métro / métro / métro
+- bus
+- Autocar
+- Voiture - Véhicule à carburant conventionnel : essence (essence), diesel
+- Voiture - Véhicule hybride (essence-électrique)
+- Voiture - Véhicule électrique (VE)
+- Voiture - Véhicule à biocarburant (par exemple, bioéthanol ou biodiesel, ""flexfuel"")
+- Voiture - Véhicule fonctionnant au GPL (gaz de pétrole liquéfié)
+- Autopartage (en moyenne 2 personnes en véhicule)
+- Autopartage (en moyenne 3 personnes en véhicule)
+- Autopartage (en moyenne 4 personnes en véhicule)
+- Autopartage (en moyenne 5 personnes en véhicule)
+- Taxi - Véhicule à carburant conventionnel : essence (essence), diesel
+- Taxi - Véhicule hybride (essence-électrique)
+- Taxi - Véhicule électrique (VE)
+- Avion
+- Ferry
+- Cyclomoteur
+- Moto"|"
+* DISTANCE TOTALE : Total [N] [km/miles]
+* TEXTE D'ESPACE RÉSERVÉ : Sélectionnez le mode de transport...
+* AJOUTER UN TEXTE DE LIGNE : Ajouter un mode de transport
+* SUPPRIMER LE TEXTE DE LA LIGNE : Supprimer le mode de transport"|"* TEXTE D'ERREUR NON ÉGAL À 100% : Le total doit être le même que votre distance de trajet !
+* DUPLICATION DE TEXTE D'ERREUR : Les modes choisis doivent être uniques."||Preencha esta tabela para nos contar mais sobre a sua deslocação normal de casa para o seu escritório base / normal da Valtech em 2022. |Apenas dê os detalhes da viagem de ida: vamos supor que você faça o mesmo inverso para chegar em casa. Selecione todos os métodos de transporte relevantes que você normalmente usou para se deslocar (incluindo caminhadas) e a distância percorrida em cada um deles para seu deslocamento padrão. Observe que as distâncias que você dá aqui devem somar a distância que você deu na pergunta anterior!|"COLUNAS:
+- Modo de transporte
+- Distância em [km/milhas]
+Opções:
+- Caminhada
+- Bicicleta
+- Patinete elétrico
+- Bicicleta elétrica
+- Trem Internacional
+- Trem Nacional                                                                                                                                                            - Metrô de superfície / Bonde  Elétrico
+- Metrô / Metrô / Metrô
+- Ônibus urbano
+- Ônibus de viagem
+- Automóvel - Veículo a combustível convencional: gasolina (gasolina), diesel
+- Carro - Veículo híbrido (gasolina-elétrico)
+- Carro - Veículo elétrico (EV)
+- Carro - Veículo movido a biocombustível (por exemplo, bioetanol ou biodiesel, ""flexfuel"")
+- Carro - Veículo movido a GPL (gás de petróleo liquefeito)
+- Carro compartilhado (em média 2 pessoas no veículo)
+- Carro compartilhado (em média 3 pessoas no veículo)
+- Carro compartilhado (em média 4 pessoas no veículo)
+- Carro compartilhado (em média 5 pessoas no veículo)
+- Táxi - Veículo a combustível convencional: gasolina (gasolina), diesel
+- Táxi - Veículo híbrido (gasolina-elétrico)
+- Táxi - Veículo elétrico (EV)
+- Avião
+- Balsa
+- Ciclomotor
+- Moto"|"
+* DISTÂNCIA TOTAL: Total [N] [km/milhas]
+* TEXTO DE ESPAÇO RESERVADO: Selecione o modo de transporte...
+* ADICIONAR TEXTO DA LINHA: Adicionar modo de transporte
+* REMOVER TEXTO DA LINHA: Remover modo de transporte"|"* ERRO DE TEXTO NÃO IGUAL A 100%: O total deve ser igual à sua distância de deslocamento!                                                                         
+* ERRO DE TEXTO DUPLICIDADE: Os modos escolhidos devem ser únicos."|$
+"Only show if answer to previous question is ""yes""
+INSERT TABLE "||commuting-emissions_office-alternative-commute|COMMUTING EMISSIONS|In 2022, did you have an *alternative* method to commute to your base office?|For example, when the weather was bad you might have driven rather than cycling.|MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Yes
+ - No"||||||En 2022, ¿tenía un método *alternativo* para viajar a su oficina base?|Por ejemplo, cuando el clima era malo, es posible que haya conducido en lugar de andar en bicicleta.|"Opciones:
+- Sí
+- No"| | ||En 2022, aviez-vous une méthode *alternative* pour vous rendre à votre bureau de base ?|Par exemple, lorsque le temps était mauvais, vous auriez pu conduire plutôt que de faire du vélo.|"Options :
+ - Oui
+ - Non"| | ||Em 2022, você tinha um método *alternativo* para se deslocar para seu escritório base?|Por exemplo, quando o tempo estava ruim, você poderia ter dirigido em vez de andar de bicicleta.|"Opções:
+- Sim
+- Não"| | |$
+||commuting-emissions_office-alternative-commute-distance|COMMUTING EMISSIONS|In 2022, how long was your *alternative* commute from home to your base / normal Valtech office one way (in km / miles)?|This may be the same as the distance in your standard commute, but sometimes people take different routes e.g. by road the commute might be 10km longer than on the train.|NUMBER ONLY|||||||En 2022, ¿cuánto tiempo duró su viaje *alternativo* desde su casa a su oficina base / normal de Valtech de ida (en km / millas)?|Esto puede ser lo mismo que la distancia en su viaje estándar, pero a veces las personas toman diferentes rutas, por ejemplo, por carretera, el viaje puede ser 10 km más largo que en el tren.|| | ||En 2022, combien de temps votre trajet alternatif a-t-il duré entre votre domicile et votre bureau Valtech de base / normal aller simple (en km / miles) ?|Cela peut être la même que la distance dans votre trajet standard, mais parfois les gens prennent différents itinéraires, par exemple par la route, le trajet peut-être 10 km plus long que dans le train.|| | ||Em 2022, quanto tempo demorou o seu deslocamento normal em uma ida de casa para o seu escritório base / normal da Valtech (em km / milhas)? |Isso pode ser o mesmo que a distância em seu trajeto padrão, mas às vezes as pessoas tomam rotas diferentes, por exemplo, por estrada, o trajeto pode ser 10 km mais longo do que no trem.|| | |$
+User can add as many transport types as they like, but if they just put 1 mode which covers the whole distance,  allow them to move on.||commuting-emissions_office-alternative-commute-method|COMMUTING EMISSIONS|[INSERT TABLE] Please complete this table to tell us more about your *alternative* commute from home to your base / normal Valtech office in 2022. |Please just give the details for the outward journey: we will assume you do the same in reverse to get home. Select all relevant transport methods you used in this *alternative* commute (including walking) and the distance travelled on each. Note that the distances you give here must sum to the distance you gave in the question regarding total distance for your alternative commute!|Table|"COLUMNS: 
+- Transportation mode
+- Distance in [km/miles]
+Options:
+- Walking
+- Cycling
+- E-scooter
+- E-bike
+- International Train
+- National Train
+- Light rail / Tram
+- Metro / Underground / Subway
+- Bus
+- Coach
+- Car - Conventional fuel vehicle: petrol (gasoline), diesel
+- Car - Hybrid vehicle (petrol-electric)
+- Car - Electric vehicle (EV)
+- Car - Bioethanol 
+- Car - Biodiesel 
+- Car - LPG-powered vehicle (liquefied petroleum gas)
+- Car share (on average 2 people in vehicle)
+- Car share (on average 3 people in vehicle)
+- Car share (on average 4 people in vehicle)
+- Car share (on average 5 people in vehicle)
+- Taxi - Conventional fuel vehicle: petrol (gasoline), diesel
+- Taxi - Hybrid vehicle (petrol-electric)
+- Taxi - Electric vehicle (EV)
+- Plane
+- Ferry
+- Moped
+- Motorbike"|||"
+* TOTAL DISTANCE: Total [N] [km/miles]
+* PLACEHOLDER TEXT: Select transportation mode...
+* ADD ROW TEXT: Add transportation mode
+* REMOVE ROW TEXT: Remove transportation mode"|"* ERROR TEXT TOTAL NOT EQUAL: Total must be the same as your alternative commute distance!
+* ERROR TEXT DUPLICATION: The chosen modes should be unique."||Complete esta tabla para informarnos más sobre su viaje *alternativo* desde su casa a su oficina base / normal de Valtech en 2022. |Solo dé los detalles del viaje de ida: asumiremos que hace lo mismo a la inversa para llegar a casa. Seleccione todos los métodos de transporte relevantes que utilizó en este viaje *alternativo* (incluido caminar) y la distancia recorrida en cada uno. ¡Tenga en cuenta que las distancias que da aquí deben sumar a la distancia que dio en la pregunta con respecto a la distancia total para su viaje alternativo!|"COLUMNAS:
+- Modo de transporte
+- Distancia en [km/miles]
+Opciones:
+- Caminar
+- Ciclismo
+- E-scooter
+- Bicicleta eléctrica
+- Tren Internacional
+- Tren nacional - Tren
+ligero / tranvía
+- Metro / Subterráneo / Subterráneo
+- Autobús
+- Autocar
+- Coche - Vehículo de combustible convencional: gasolina (gasolina), diesel
+- Coche - Vehículo híbrido (gasolina-eléctrico)
+- Coche - Vehículo eléctrico (EV)
+- Coche - Vehículo alimentado por biocarburantes (por ejemplo, bioetanol o biodiésel, ""flexfuel"")
+- Coche - Vehículo propulsado por GLP (gas licuado de petróleo)
+- Coche compartido (en promedio 2 personas en el vehículo)
+- Coche compartido (en promedio 3 personas en el vehículo)
+- Coche compartido (en promedio 4 personas en el vehículo)
+- Coche compartido (en promedio 5 personas en el vehículo)
+- Taxi - Vehículo de combustible convencional: gasolina (gasolina), diesel
+- Taxi - Vehículo híbrido (gasolina-eléctrico)
+- Taxi - Vehículo eléctrico (EV)
+- Avión
+- Ferry
+- Ciclomotor
+- Motocicleta"|"
+* DISTANCIA TOTAL: Total [N] [km/millas]
+* TEXTO DEL MARCADOR de posición: Seleccione el modo de transporte...* AGREGAR TEXTO DE FILA: Agregar modo de transporte
+* ELIMINAR TEXTO DE FILA: Eliminar modo de transporte"|* ERROR TEXTO TOTAL NO ES IGUAL: ¡El total debe ser el mismo que su distancia de viaje alternativo!* DUPLICACIÓN DE TEXTO DE ERROR: Los modos elegidos deben ser únicos.||Veuillez remplir ce tableau pour nous en dire plus sur votre trajet domicile-travail alternatif entre votre domicile et votre bureau de Valtech de base / normal en 2022. |Il suffit de donner les détails du voyage aller : nous supposerons que vous faites la même chose à l'envers pour rentrer chez vous. Sélectionnez toutes les méthodes de transport pertinentes que vous avez utilisées dans ce trajet *alternatif* (y compris la marche) et la distance parcourue sur chacune d'elles. Notez que les distances que vous donnez ici doivent correspondre à la distance que vous avez donnée dans la question concernant la distance totale pour votre trajet alternatif !|"COLONNES :
+- Mode de transport
+- Distance en [km/miles]
+Options :
+- Marche
+- Vélo
+- E-scooter
+- Vélo Électrique
+- Train International
+- Train national - Train
+léger / Tramway
+- Métro / métro / métro
+- bus
+- Autocar
+- Voiture - Véhicule à carburant conventionnel : essence (essence), diesel
+- Voiture - Véhicule hybride (essence-électrique)
+- Voiture - Véhicule électrique (VE)
+- Voiture - Véhicule à biocarburant (par exemple, bioéthanol ou biodiesel, ""flexfuel"")
+- Voiture - Véhicule fonctionnant au GPL (gaz de pétrole liquéfié)
+- Autopartage (en moyenne 2 personnes en véhicule)
+- Autopartage (en moyenne 3 personnes en véhicule)
+- Autopartage (en moyenne 4 personnes en véhicule)
+- Autopartage (en moyenne 5 personnes en véhicule)
+- Taxi - Véhicule à carburant conventionnel : essence (essence), diesel
+- Taxi - Véhicule hybride (essence-électrique)
+- Taxi - Véhicule électrique (VE)
+- Avion
+- Ferry
+- Cyclomoteur
+- Moto"|"
+* DISTANCE TOTALE : Total [N] [km/miles]
+* TEXTE D'ESPACE RÉSERVÉ : Sélectionnez le mode de transport...* AJOUTER UN TEXTE DE LIGNE : Ajouter un mode de transport
+* SUPPRIMER LE TEXTE DE LA LIGNE : Supprimer le mode de transport"|* LE TOTAL DU TEXTE D'ERREUR N'EST PAS ÉGAL : le total doit être le même que votre distance de navette alternative !* DUPLICATION DE TEXTE D'ERREUR : Les modes choisis doivent être uniques.||[INSERIR TABELA] Preencha esta tabela para nos contar mais sobre o seu deslocamento *alternativo* de casa para o seu escritório base / normal da Valtech em 2022. |Por favor, apenas dê os detalhes da viagem de ida: vamos supor que você faça o mesmo caminho inverso para chegar em casa. Selecione todos os métodos de transporte relevantes que você usou neste trajeto *alternativo* (incluindo caminhada) e a distância percorrida em cada um. Observe que as distâncias que você dá aqui devem somar a distância que você deu na pergunta sobre a distância total para o seu trajeto alternativo!|"COLUNAS:
+- Modo de transporte
+- Distância em [km/milhas]
+Opções:
+- Caminhada
+- Bicicleta
+- Patinete elétrico
+- Bicicleta elétrica
+- Trem Internacional
+- Trem Nacional                                                                                                                                                        - - Metrô de superfície / Bonde Elétrico
+- Metrô / Metrô / Metrô
+- Ônibus urbano
+- Ônibus de viagem
+- Automóvel - Veículo a combustível convencional: gasolina (gasolina), diesel
+- Carro - Veículo híbrido (gasolina-elétrico)
+- Carro - Veículo elétrico (EV)
+- Carro - Veículo movido a biocombustível (por exemplo, bioetanol ou biodiesel, ""flexfuel"")
+- Carro - Veículo movido a GPL (gás de petróleo liquefeito)
+- Carro compartilhado (em média 2 pessoas no veículo)
+- Carro compartilhado (em média 3 pessoas no veículo)
+- Carro compartilhado (em média 4 pessoas no veículo)
+- Carro compartilhado (em média 5 pessoas no veículo)
+- Táxi - Veículo a combustível convencional: gasolina (gasolina), diesel
+- Táxi - Veículo híbrido (gasolina-elétrico)
+- Táxi - Veículo elétrico (EV)
+- Avião
+- Balsa
+- Ciclomotor
+- Moto"|"
+* DISTÂNCIA TOTAL: Total [N] [km/milhas]
+* TEXTO DE ESPAÇO RESERVADO: Selecione o modo de transporte...* ADICIONAR TEXTO DA LINHA: Adicionar modo de transporte
+* REMOVER TEXTO DA LINHA: Remover modo de transporte"|* ERRO DE TEXTO TOTAL NÃO IGUAL: O total deve ser o mesmo que a distância de deslocamento alternativo!* ERRO DE TEXTO DUPLICIDADE: Os modos escolhidos devem ser únicos.|$
+||commuting-emissions_alternative-transport-mode-percentage|COMMUTING EMISSIONS|Of the total days you commuted to the office in 2022, please estimate the % of days on which you used this *alternative* way of commuting instead of your standard commute. ||NUMBER ONLY|"Options:
+ - 5% 
+ - 10%
+ - 15%
+ - 20%
+ - 25%
+ - 30%
+ - 35%
+ - 40%
+ - 45%
+ - 50%
+
+ CAPPED TO 50"||||||Del total de días que viajó a la oficina en 2022, calcule el % de días en los que utilizó esta forma *alternativa* de viajar en lugar de su viaje estándar. | |"Opciones:
+- 5%
+- 10%
+- 15%
+- 20%
+- 25%
+- 30%
+- 35%
+- 40%
+- 45%
+- 50%
+
+ LIMITADO A 50"| | ||Sur le nombre total de jours que vous avez passés au bureau en 2022, veuillez estimer le % de jours pendant lesquels vous avez utilisé ce moyen de transport *alternatif* au lieu de votre trajet habituel. | |"Options :
+ - 5%
+ - 10%
+ - 15%
+ - 20%
+ - 25%
+ - 30%
+ - 35%
+ - 40%
+ - 45%
+ - 50%
+
+ PLAFONNÉS À 50"| | ||Do total de dias que você se deslocou para o escritório em 2022, estime a % de dias em que você usou essa forma *alternativa* de deslocamento em vez do deslocamento padrão. | |"Opções:
+- 5%
+- 10%
+- 15%
+- 20%
+- 25%
+- 30%
+- 35%
+- 40%
+- 45%
+- 50%
+
+ LIMITADO A 50"| | |$
+ONLY DISPLAY THIS SECTION IF PERCENTAGE OF COMMUTING TO CLIENT OFFICE WAS >0% ||client-commuting-section|CLIENT COMMUTING EMISSIONS|Client commuting section|"We're now going to ask you about the regular commuting you have done to work at client offices. 
+This is different from ""business travel"" which refers to one-off or infrequent trips. Here we're talking about working regularly from a specific client site, probably on a project."||||||||Sección de traslado diario del cliente|"Ahora vamos a preguntarle acerca de los desplazamientos regulares que ha hecho para trabajar en las oficinas de los clientes.
+Esto es diferente de ""viajes de negocios"", que se refiere a viajes únicos o poco frecuentes. Aquí estamos hablando de trabajar regularmente desde un sitio cliente específico, probablemente en un proyecto."| | | ||Section trajets domicile-travail des clients|"Nous allons maintenant vous poser des questions sur les déplacements réguliers que vous avez effectués pour travailler dans les bureaux des clients.
+Ceci est différent des  ""voyages d'affaires"" qui se réfèrent à des voyages ponctuels ou peu fréquents. Ici, nous parlons de travailler régulièrement à partir d'un site client spécifique, probablement sur un projet."| | | ||Seção de deslocamento do cliente|"Agora vamos perguntar sobre o deslocamento regular que você fez para trabalhar nos escritórios dos clientes.
+Isso é diferente de ""viagens de negócios"", que se refere a viagens pontuais ou pouco frequentes. Aqui estamos falando sobre trabalhar regularmente a partir de um local específico do cliente, provavelmente em um projeto."| | | |$
+||client-commuting-emissions_client-office-commute-distance|CLIENT COMMUTING EMISSIONS|In 2022, how long was your standard commute from home to your client office one way (in km / miles)? |If you commuted to more than one client office regularly in 2022, please select the commute you did for the longest period of time. |NUMBER ONLY|||||||En 2022, ¿cuánto tiempo duró su viaje estándar desde su casa a su oficina base / normal de Valtech de ida (en km / millas)? |Si viajó a más de una oficina de cliente regularmente en 2022, seleccione el viaje que realizó durante el período de tiempo más largo. || | ||En 2022, combien de temps votre trajet standard a-t-il duré entre votre domicile et le bureau client aller simple (en km / miles) ? |Si vous avez effectué régulièrement des trajets domicile-travail vers plus d'un bureau client en 2022, veuillez sélectionner le trajet que vous avez effectué pendant la période la plus longue. || | ||Em 2022, quanto tempo demorou a sua deslocação normal em uma ida de casa para o seu escritório base / normal da Valtech (em km / milhas)? |Se você se deslocou para mais de um escritório do cliente regularmente em 2022, selecione o trajeto que você fez por mais tempo. || | |$
+||client-commuting-emissions_client-office-commute-method|CLIENT COMMUTING EMISSIONS|"[INSERT TABLE FROM ""COMMUTING TABLE"" TAB] Please complete this table to tell us more about your standard commute from home to your client's office in 2022."|Just give the details for the outward journey: we will assume you do the same in reverse to get home. Select all relevant transport methods you normally used to commute, (including walking) and the distance travelled on each for your standard client office commute. The distances you give here must sum to the distance you gave in the question regarding total distance for your alternative client commute!|Table|"COLUMNS: 
+- Transportation mode
+- Distance in [km/miles]
+"|||"
+* TOTAL DISTANCE: Total [N] [km/miles]
+* PLACEHOLDER TEXT: Select transportation mode...
+* ADD ROW TEXT: Add transportation mode
+* REMOVE ROW TEXT: Remove transportation mode"|"* ERROR TEXT TOTAL NOT EQUAL: Total must be the same as your standard client commute distance!
+* ERROR TEXT DUPLICATION: The chosen modes should be unique."||Complete esta tabla para contarnos más sobre su viaje estándar de casa a la oficina de su cliente en 2022.|Solo dé los detalles del viaje de ida: asumiremos que hace lo mismo a la inversa para llegar a casa. Seleccione todos los métodos de transporte relevantes que utilizó normalmente para viajar (incluida la caminata) y la distancia recorrida en cada uno para su viaje estándar. ¡Tenga en cuenta que las distancias que da aquí deben sumar a la distancia que dio en la pregunta con respecto a la distancia total para su viaje alternativo!|"COLUMNAS:
+- Modo de transporte
+- Distancia en [km/miles]
+"|"
+* DISTANCIA TOTAL: Total [N] [km/millas]
+* TEXTO DEL MARCADOR de posición: Seleccione el modo de transporte...* AGREGAR TEXTO DE FILA: Agregar modo de transporte
+* ELIMINAR TEXTO DE FILA: Eliminar modo de transporte"|* ERROR TEXTO TOTAL NO ES IGUAL: ¡El total debe ser el mismo que su distancia de viaje alternativo!                                                                 * DUPLICACIÓN DE TEXTO DE ERROR: Los modos elegidos deben ser únicos.||Veuillez remplir ce tableau pour nous en dire plus sur vos trajets domicile-travail standard entre la maison et le bureau de votre client en 2022.|Il suffit de donner les détails du voyage aller : nous supposerons que vous faites la même chose à l'envers pour rentrer chez vous. Sélectionnez tous les modes de transport pertinents que vous avez normalement utilisés pour vous déplacer (y compris la marche) et la distance parcourue sur chacun d'eux pour votre trajet standard. Notez que les distances que vous donnez ici doivent correspondre à la distance que vous avez donnée dans la question concernant la distance totale pour votre trajet alternatif !|" COLONNES :
+- Mode de transport
+- Distance en [km/miles]
+"|"
+* DISTANCE TOTALE : Total [N] [km/miles]
+* TEXTE D'ESPACE RÉSERVÉ : Sélectionnez le mode de transport...* AJOUTER UN TEXTE DE LIGNE : Ajouter un mode de transport
+* SUPPRIMER LE TEXTE DE LA LIGNE : Supprimer le mode de transport"|* LE TOTAL DU TEXTE D'ERREUR N'EST PAS ÉGAL : le total doit être le même que votre distance de navette alternative !* DUPLICATION DE TEXTE D'ERREUR : Les modes choisis doivent être uniques.||"[INSERIR TABELA DA GUIA ""COMMUTING TABLE""] Por favor, preencha esta tabela para nos contar mais sobre o seu deslocamento normal de casa para o escritório do seu cliente em 2022."|Apenas dê os detalhes da viagem de ida: vamos supor que você faça o mesmo caminho inverso para chegar em casa. Selecione todos os métodos de transporte relevantes que você normalmente usou para se deslocar (incluindo caminhadas) e a distância percorrida em cada um deles para seu deslocamento padrão. Observe que as distâncias que você dá aqui devem somar a distância que você deu na pergunta sobre a distância total para o seu trajeto alternativo!|"COLUNAS:
+- Modo de transporte
+- Distância em [km/milhas]"|"
+
+* DISTÂNCIA TOTAL: Total [N] [km/milhas]
+* TEXTO DE ESPAÇO RESERVADO: Selecione o modo de transporte...                                            * ADICIONAR TEXTO DA LINHA: Adicionar modo de transporte
+* REMOVER TEXTO DA LINHA: Remover modo de transporte"|* ERRO DE TEXTO TOTAL NÃO IGUAL: O total deve ser o mesmo que a distância de deslocamento alternativo!                                      * ERRO DE TEXTO DUPLICIDADE: Os modos escolhidos devem ser únicos.|$
+User can add as many transport types as they like, but if they just put 1 mode which covers the whole distance,  allow them to move on.||client-commuting-emissions_alternative-client-office-commute|CLIENT COMMUTING EMISSIONS|In 2022, did you have an *alternative* method to commute to your client's office?|For example, when the weather was bad you might have driven rather than cycling.|MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Yes
+ - No"||||||En 2022, ¿tenía un método *alternativo* para viajar a su oficina base?|Por ejemplo, cuando el clima era malo, es posible que haya conducido en lugar de andar en bicicleta.|"Opciones:
+- Sí
+- No"| | ||En 2022, aviez-vous une méthode *alternative* pour vous rendre à votre bureau client ?|Par exemple, lorsque le temps était mauvais, vous auriez pu conduire plutôt que de faire du vélo.|"Options :
+ - Oui
+ - Non"| | ||Em 2022, você tinha um método *alternativo* para se deslocar para seu escritório base?|Por exemplo, quando o tempo estava ruim, você poderia ter dirigido em vez de andar de bicicleta.|"Opções:
+- Sim
+- Não"| | |$
+||client-commuting-emissions_alternative-client-office-commute-distance|CLIENT COMMUTING EMISSIONS|In 2022, how long was your *alternative* commute from home to your client's office one way (in km / miles)? |This may be the same as the distance in your standard commute, but sometimes people take different routes e.g. by road the commute might be 10km longer than on the train.|NUMBER ONLY|||||||En 2022, ¿cuánto tiempo duró su viaje *alternativo* desde su casa a la oficina de su cliente de ida (en km / millas)? |Esto puede ser lo mismo que la distancia en su viaje estándar, pero a veces las personas toman diferentes rutas, por ejemplo, por carretera, el viaje puede ser 10 km más largo que en el tren.|| | ||En 2022, combien de temps votre trajet *alternatif* a-t-il duré entre la maison et le bureau de votre client (en km / miles) ? |Cela peut être la même que la distance dans votre trajet standard, mais parfois les gens prennent différents itinéraires, par exemple par la route, le trajet peut-être 10 km plus long que dans le train.|La mesure doit également être sélectionnée à côté de l'unité (miles ou km)| | ||Em 2022, quanto tempo demorou a sua viagem *alternativa* de ida de casa para o escritório do seu cliente (em km / milhas)? |Isso pode ser o mesmo que a distância em seu trajeto padrão, mas às vezes as pessoas tomam rotas diferentes, por exemplo, por estrada, o trajeto pode ser 10 km mais longo do que no trem.|| | |$
+||client-commuting-emissions_alternative-client-office-commute-method|CLIENT COMMUTING EMISSIONS|[INSERT SAME COMMUTING TABLE AS ABOVE] Please complete this table to tell us more about your *alternative* commute from home to your client's office in 2022. |Just give the details for the outward journey: we will assume you do the same in reverse to get home. Select all relevant transport methods you used in this *alternative* client commute (including walking) and the distance travelled on each. The distances you give here must sum to the distance you gave in the question regarding total distance for your alternative client commute!|Table|"COLUMNS: 
+- Transportation mode
+- Distance in [km/miles]
+"|||"
+* TOTAL DISTANCE: Total [N] [km/miles]
+* PLACEHOLDER TEXT: Select transportation mode...
+* ADD ROW TEXT: Add transportation mode
+* REMOVE ROW TEXT: Remove transportation mode"|"* ERROR TEXT TOTAL NOT EQUAL: Total must be the same as your alternative client commute distance!
+* ERROR TEXT DUPLICATION: The chosen modes should be unique."||Complete esta tabla para contarnos más sobre su viaje *alternativo* desde su casa a la oficina de su cliente en 2022. |Solo dé los detalles del viaje de ida: asumiremos que hace lo mismo a la inversa para llegar a casa. Seleccione todos los métodos de transporte relevantes que utilizó en este viaje *alternativo* (incluido caminar) y la distancia recorrida en cada uno. ¡Tenga en cuenta que las distancias que da aquí deben sumar a la distancia que dio en la pregunta con respecto a la distancia total para su viaje alternativo!|"COLUMNAS:
+- Modo de transporte
+- Distancia en [km/miles]
+"|"
+* DISTANCIA TOTAL: Total [N] [km/millas]
+* TEXTO DEL MARCADOR de posición: Seleccione el modo de transporte...                 * AGREGAR TEXTO DE FILA: Agregar modo de transporte
+* ELIMINAR TEXTO DE FILA: Eliminar modo de transporte"|* ERROR TEXTO TOTAL NO ES IGUAL: ¡El total debe ser el mismo que su distancia de viaje alternativo!                                                                 * DUPLICACIÓN DE TEXTO DE ERROR: Los modos elegidos deben ser únicos.||Veuillez remplir ce tableau pour nous en dire plus sur votre trajet *alternatif* de la maison au bureau de votre client en 2022. |Il suffit de donner les détails du voyage aller : nous supposerons que vous faites la même chose à l'envers pour rentrer chez vous. Sélectionnez toutes les méthodes de transport pertinentes que vous avez utilisées dans ce trajet *alternatif* (y compris la marche) et la distance parcourue sur chacune d'elles. Notez que les distances que vous donnez ici doivent correspondre à la distance que vous avez donnée dans la question concernant la distance totale pour votre trajet alternatif !|" COLONNES :
+- Mode de transport
+- Distance en [km/miles]
+"|"
+* DISTANCE TOTALE : Total [N] [km/miles]
+* TEXTE D'ESPACE RÉSERVÉ : Sélectionnez le mode de transport...* AJOUTER UN TEXTE DE LIGNE : Ajouter un mode de transport
+* SUPPRIMER LE TEXTE DE LA LIGNE : Supprimer le mode de transport"|* LE TOTAL DU TEXTE D'ERREUR N'EST PAS ÉGAL : le total doit être le même que votre distance de navette alternative !* DUPLICATION DE TEXTE D'ERREUR : Les modes choisis doivent être uniques.||[INSIRA A MESMA COMMUTING TABLE QUE ACIMA] Preencha esta tabela para nos contar mais sobre o seu deslocamento *alternativo* de casa para o escritório do seu cliente em 2022. |Apenas dê os detalhes da viagem de ida: vamos supor que você faça o mesmo caminho inverso para chegar em casa. Selecione todos os métodos de transporte relevantes que você usou neste trajeto *alternativo* para comutar ao cliente (incluindo caminhada) e a distância percorrida em cada um. Observe que as distâncias que você dá aqui devem somar a distância que você deu na pergunta sobre a distância total para o seu trajeto alternativo!|"COLUNAS:
+- Modo de transporte
+- Distância em [km/milhas]
+"|"
+* DISTÂNCIA TOTAL: Total [N] [km/milhas]
+* TEXTO DE ESPAÇO RESERVADO: Selecione o modo de transporte...                                                * ADICIONAR TEXTO DA LINHA: Adicionar modo de transporte
+* REMOVER TEXTO DA LINHA: Remover modo de transporte"|* ERRO DE TEXTO TOTAL NÃO IGUAL: O total deve ser o mesmo que a distância de deslocamento alternativo!                                         * ERRO DE TEXTO DUPLICIDADE: Os modos escolhidos devem ser únicos.|$
+||client-commuting-emissions_alternative-client-office-commute-percentage|CLIENT COMMUTING EMISSIONS|Of the total days you commuted to the client's office in 2022, please estimate the % of days on which you used this *alternative* way of commuting instead of your standard client commute. ||NUMBER ONLY|"Options:
+ - 5% 
+ - 10%
+ - 15%
+ - 20%
+ - 25%
+ - 30%
+ - 35%
+ - 40%
+ - 45%
+ - 50%"||||||Del total de días que viajó a la oficina en 2022, calcule el % de días en los que utilizó esta forma *alternativa* de viajar en lugar de su viaje estándar. | |"Opciones:
+ - 5%
+- 10%
+- 15%
+- 20%
+- 25%
+- 30%
+- 35%
+- 40%
+- 45%
+- 50%"| | ||Sur le nombre total de jours que vous avez passés au bureau en 2022, veuillez estimer le % de jours pendant lesquels vous avez utilisé ce moyen de transport *alternatif* au lieu de votre trajet habituel. | |"Options :
+ - 5%
+ - 10%
+ - 15%
+ - 20%
+ - 25%
+ - 30%
+ - 35%
+ - 40%
+ - 45%
+ - 50%"| | ||Do total de dias que você se deslocou para o escritório em 2022, estime a % de dias em que você usou essa forma *alternativa* de deslocamento em vez do deslocamento padrão. | |"Opções:
+- 5%
+- 10%
+- 15%
+- 20%
+- 25%
+- 30%
+- 35%
+- 40%
+- 45%
+- 50%"| | |$
+ONLY DISPLAY THIS SECTION IF PERCENTAGE OF BUSINESS TRAVEL WAS >0%||business-travel-section|BUSINESS TRAVEL EMISSIONS|Business travel section|We're now going to ask you about any business trips you may have taken for Valtech purposes.||||||||Sección de viajes de negocios|Ahora le preguntaremos sobre cualquier viaje de negocios que haya realizado con fines de Valtech.| | | ||Section voyages D'AFFAIRES|Nous allons maintenant vous poser des questions sur les voyages d'affaires que vous avez peut-être effectuées à des fins Valtech.| | | ||Seção de viagens de negócios|Agora vamos perguntar sobre quaisquer viagens de negócios que você possa ter feito com propósitos da Valtech.| | | |$
+||business-travel-emissions_flight|BUSINESS TRAVEL EMISSIONS|"[SEE TABLES ON ""BUSINESS TRAVEL TABLES"" TAB] Which methods of transport did you use when taking business trips for Valtech in 2022? "|"Here we're referring to any business trips outside of your regular commute(s) to your base / normal Valtech office and / or client offices. For example, travel to conferences and other events, travel to other Valtech offices, client meetings and pitches.
+
+We know it can be hard to remember everything in minute detail! Please give your best estimate for the business travel you did in 2022. 
+
+N.b. When we refer to ""car"", we mean one that you lease or own privately. For any taxis you've taken where you were not sure what fuel type they used, please select ""petrol / diesel taxi""."|MULTIPLE OPTIONS - MULTIPLE CHOICE|"Options:
+ - Plane
+ - Train 
+ - Petrol / diesel car
+ - Hybrid car
+ - Electric car
+ - Biodiesel car
+ - Bioethanol car
+ - LPG car
+ - Petrol / diesel taxi
+ - Hybrid taxi
+ - Electric taxi
+ - Ferry / ship
+ - Coach
+ - Bus"|||"* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different transportation mode"|||¿Qué métodos de transporte utilizó al realizar viajes de negocios para Valtech en 2022? |"Aquí nos referimos a cualquier viaje de negocios fuera de sus desplazamientos regulares a su base /oficina normal de Valtech y / u oficinas de clientes. Por ejemplo, viajes a conferencias y otros eventos, viajes a otras oficinas de Valtech, reuniones de clientes y presentaciones.
+
+¡Sabemos que puede ser difícil recordar todo en detalle! Proporcione su mejor estimación para el viaje de negocios que realizó en 2022.
+
+N.b. Cuando nos referimos a ""automóvil"", nos referimos a uno que usted arrienda o posee en privado. Para cualquier taxi que haya tomado donde no estaba seguro de qué tipo de combustible usaron, seleccione ""taxi de gasolina / diesel""."|"Opciones:
+ - Avión
+- Tren
+- Coche de gasolina / diesel
+- Coche híbrido
+- Coche eléctrico
+- Coche Biodiésel
+- Coche Bioetanol
+- Coche de GLP
+- Taxi de gasolina / diesel
+- Taxi híbrido
+- Taxi eléctrico
+- Ferry / barco
+- Autobús
+- Autobús"|"* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: Oficina diferente"| ||Quels modes de transport avez-vous utilisés lors de vos voyages d'affaires pour Valtech en 2022 ? |"Ici, nous faisons référence à tout voyage d'affaires en dehors de vos trajets domicile-travail réguliers vers votre bureau de base / normal de Valtech et / ou vos bureaux clients. Par exemple, des voyages à des conférences et autres événements, des voyages à d'autres bureaux de Valtech, des réunions avec les clients et des présentations.
+
+Nous savons qu'il peut être difficile de se souvenir de tout dans les moindres détails  ! Veuillez donner votre meilleure estimation pour les voyages d'affaires que vous avez effectuées en 2022.
+
+N.b. Lorsque nous faisons référence à ""voiture"", nous entendons une voiture que vous louez ou possédez en privé. Pour tous les taxis que vous avez pris où vous n'étiez pas sûr du type de carburant qu'ils ont utilisé, veuillez sélectionner ""taxi essence / diesel""."|"Options :
+ - Avion
+ - Train
+ - Voiture essence / diesel
+ - Voiture hybride
+ - Voiture électrique
+ - Voiture biodiesel
+ - Voiture bioéthanol
+ - Voiture GPL
+ - Taxi essence / diesel
+ - Taxi hybride
+ - Taxi électrique
+ - Ferry / bateau
+ - Autocar
+ - Bus"|"* AUTRE TEXTE: Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ: Bureau différent"| ||"[VEJA AS TABELAS NA GUIA ""BUSINESS TRAVEL TABLES""] Quais métodos de transporte você usou ao fazer viagens de negócios para a Valtech em 2022? "|"Estamos nos referindo a quaisquer viagens de negócios fora do (s) seu (s) trajeto(s) regular (is) para o seu escritório base / normal da Valtech e / ou escritórios do cliente. Por exemplo, viajar para conferências e outros eventos, viajar para outros escritórios da Valtech, reuniões com clientes e apresentações.
+
+Sabemos que pode ser difícil lembrar de tudo nos mínimos detalhes! Forneça sua melhor estimativa para as viagens de negócios que você fez em 2022.
+
+N.B. Quando nos referimos a ""carro"", queremos dizer um que você aluga ou possui um particular. Para todos os táxis que você tomou onde você não tinha certeza do tipo de combustível que eles usaram, selecione ""táxi a gasolina / diesel""."|"Opções:
+ - Avião
+- Trem
+- Carro a gasolina / diesel
+- Carro híbrido
+- Carro elétrico
+- Carro biodiesel
+- Carro bioetanol
+- Carro a GLP
+- Táxi a gasolina / diesel
+- Táxi híbrido
+- Táxi elétrico
+- Ferry / navio
+- Ônibus de viagem
+- Ônibus urbano"|"* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: escritório diferente"| |$
+Show tables only for methods of transport selected||business-travel-emissions_flights-overview|BUSINESS TRAVEL EMISSIONS|Please tell us a bit more about the flights you took for Valtech in 2022.||Table|"Rows:
+- Short-haul (under 3 hours)
+- Medium-haul (3-6 hours)
+- Long haul (6-16 hours)
+- Ultra-long-haul (16 hours+)
+
+Columns:
+- Number of single flights
+- % of these flights in economy class (including premium economy)
+- % of these flights in business class
+- % of these flights in first class"||||"* ERROR TEXT SHORT-HAUL OVER 100%: Total short-haul share can not exceed 100%!
+* ERROR TEXT SHORT-HAUL UNDER 100%: Total short-haul share should be 100%!
+
+* ERROR TEXT MEDIUM-HAUL OVER 100%: Total medium-haul share can not exceed 100%!
+* ERROR TEXT MEDIUM-HAUL UNDER 100%: Total medium-haul share should be 100%!
+
+* ERROR TEXT LONG-HAUL OVER 100%: Total long-haul share can not exceed 100%!
+* ERROR TEXT LONG-HAUL UNDER 100%: Total long-haul share should be 100%!
+
+* ERROR TEXT ULTRA-LONG-HAUL OVER 100%: Total ultra-long-haul share can not exceed 100%!
+* ERROR TEXT ULTRA-LONG-HAUL UNDER 100%: Total ultra-long-haul share should be 100%!
+
+"||Por favor, cuéntanos un poco más sobre los vuelos que tomaste para Valtech en 2022.| |"Filas:
+- Corta distancia (menos de 3 horas)
+- Media distancia (3-6 horas)
+- Largo recorrido (6-16 horas)
+- Ultra larga distancia (16 horas+)
+
+Columnas:
+- Número de vuelos individuales
+- % de estos vuelos en clase turista (incluida la clase turista premium)
+- % de estos vuelos en clase ejecutiva
+- % de estos vuelos en primera clase"| |"* ERROR DE TEXTO A CORTA DISTANCIA SUPERIOR AL 100%: ¡La proporción total de corta distancia no puede superar el 100%!
+* ERROR DE TEXTO A CORTA DISTANCIA POR DEBAJO DEL 100%: ¡La proporción total a corta distancia debe ser del 100%!
+
+* ERROR DE TEXTO A MEDIA DISTANCIA SUPERIOR AL 100%: ¡La proporción total de media distancia no puede superar el 100%!
+* ERROR DE TEXTO A MEDIA DISTANCIA POR DEBAJO DEL 100%: ¡La proporción total de media distancia debe ser del 100%!
+
+* ERROR DE TEXTO A LARGA DISTANCIA SUPERIOR AL 100%: ¡La proporción total de larga distancia no puede exceder el 100%!
+* ERROR DE TEXTO A LARGA DISTANCIA POR DEBAJO DEL 100%: ¡La proporción total de larga distancia debe ser del 100%!
+
+* ERROR DE TEXTO A ULTRA-LARGA DISTANCIA SUPERIOR AL 100%: La proporción total de ultra-larga distancia no puede exceder el 100%!
+* ERROR DE TEXTO DE ULTRA-LARGA DISTANCIA POR DEBAJO DEL 100%: ¡La proporción total de ultra-larga distancia debe ser del 100%!
+"||Veuillez nous en dire un peu plus sur les vols que vous avez pris pour Valtech en 2022.| |"Lignes :
+- Courte distance (moins de 3 heures)
+- Moyen-courrier (3-6 heures)
+- Long-courrier (6-16 heures)
+- Ultra-long-courrier (16 heures+)
+
+Colonnes :
+- Nombre de vols simples
+- % de ces vols en classe économique (y compris en classe économique premium)
+- % de ces vols en classe affaires
+- % de ces vols en première classe"| |"* ERREUR Courte Distance SUPÉRIEUR À 100% : La part totale du transport à courte distance ne peut pas dépasser 100% !
+* ERREUR Courte Distance INFÉRIEUR À 100% : La part totale du court-courrier devrait être de 100% !
+
+* ERREUR Moyen Courrier SUPÉRIEUR À 100%: LA PART TOTALE DES MOYENS-COURRIERS NE PEUT PAS DÉPASSER 100% ! La part totale du transport à moyenne distance ne peut pas dépasser 100% !
+* ERREUR Moyen Courrier  INFÉRIEUR À 100% : La part totale du moyen-courrier doit être de 100% !
+
+* ERREUR longue Courrier SUPÉRIEUR À 100% : La part totale des vols long-courriers ne peut pas dépasser 100% !
+* ERREUR longue courrier  INFÉRIEUR À 100% : La part totale des vols long-courriers doit être de 100% !
+
+* ERREUR très longue courrier SUPÉRIEUR À 100%  : La part totale de l'ultra-long-courrier ne peut pas dépasser 100% !
+* ERREUR très longue courrier  INFÉRIEUR À 100%  : LA PART TOTALE DE L'ULTRA-LONG-COURRIER NE PEUT PAS DÉPASSER 100% ! La part totale de l'ultra-long-courrier doit être de 100% !"||Conte-nos um pouco mais sobre os voos que você fez para a Valtech em 2022.| |"Linhas:
+- Curta distância (menos de 3 horas)
+- Média distância (3-6 horas)
+- Longa distância (6-16 horas)
+- Ultra-longa distância (16 horas+)
+
+Colunas:
+- Número de voos individuais
+- % desses voos em classe econômica (incluindo econômica premium)
+- % desses voos em classe executiva
+- % desses voos em primeira classe"| |"* TEXTO DE ERRO DE CURTA DISTÂNCIA ACIMA DE 100%: A participação total de curta distância não pode exceder 100%!
+* TEXTO DE ERRO DE CURTA DISTÂNCIA ABAIXO DE 100%: A participação total de curta distância deve ser de 100%!
+
+* TEXTO DE ERRO MÉDIO DE MÉDIA DISTÂNCIA ACIMA DE 100%: A participação total de média distância não pode exceder 100%!
+* TEXTO DE ERRO MÉDIO DE MÉDIA DISTÂNCIA ABAIXO DE 100%: A participação total média distância deve ser 100%!
+
+* TEXTO DE ERRO DE LONGA DISTÂNCIA ACIMA DE 100%: A participação total de longa distância não pode exceder 100%!
+* TEXTO DE ERRO DE LONGA DISTÂNCIA ABAIXO DE 100%: A participação total de longa distância deve ser 100%!
+
+* TEXTO DE ERRO ULTRA-LONGA DISTÂNCIA ACIMA DE 100%: A participação total de ultra-longa distância não pode exceder 100%!
+* TEXTO DE ERRO ULTRA-LONGA DISTÂNCIA ABAIXO DE 100%: A participação total de ultra-longa distância deve ser 100%!
+"|$
+Show tables only for methods of transport selected||business-travel-emissions_flights|BUSINESS TRAVEL EMISSIONS|When taking the plane for Valtech in 2022, how did you typically travel to the airport and then from the arrival airport to your final destination?|It's fine to give a guess / average here, and if you used more than one method of transport for each section of the journey, please just tell us about the one that covered the highest proportion of the journey.||||||||Al tomar el avión para Valtech en 2022, ¿cómo se viaja típicamente al aeropuerto y luego desde el aeropuerto de llegada a su destino final?|Está bien dar una conjetura / promedio aquí, y si utilizó más de un método de transporte para cada sección del viaje, por favor, solo díganos sobre el que cubrió la mayor proporción del viaje.|||||Lorsque vous avez pris l'avion pour Valtech en 2022, comment avez-vous voyagé jusqu'à l'aéroport, puis de l'aéroport d'arrivée jusqu'à votre destination finale ?|Si vous avez utilisé plus d'un moyen de transport pour chaque section du trajet, indiquez simplement celui qui a couvert la plus grande partie du trajet.|||||Ao pegar o avião para a Valtech em 2022, como você normalmente viajava para o aeroporto e depois do aeroporto de chegada ao seu destino final?|Está tudo bem dar um palpite / média aqui, e se você usou mais de um método de transporte para cada parte da viagem, por favor, diga-nos sobre o que cobriu a maior proporção da viagem.||||$
+Show tables only for methods of transport selected||business-travel-emissions_flights-journey-home-to-airport|BUSINESS TRAVEL EMISSIONS|Journey from home to airport|||"Columns: 
+- Transportation mode
+- Distance in [km/miles]"|||"* PLACEHOLDER TEXT: Select transportation mode...
+* ADD ROW TEXT: Add transportation mode
+* REMOVE ROW TEXT: Remove transportation mode
+
+* DISTANCE PLACEHOLDER TEXT: Select distance range..."|* ERROR TEXT DUPLICATION: The chosen modes should be unique.||Viaje de casa al aeropuerto||"Columnas: 
+- Modo de transporte
+- Distancia en [km/millas]"|"* TEXTO DEL MARCADOR DE POSICIÓN: Seleccione el modo de transporte...
+* AGREGAR TEXTO DE FILA: Agregar modo de transporte
+* ELIMINAR TEXTO DE FILA: Eliminar modo de transporte
+
+* TEXTO DEL MARCADOR DE DISTANCIA: Seleccione el intervalo de distancia...
+"|* DUPLICACIÓN DE TEXTO DE ERROR: Los modos elegidos deben ser únicos.||Voyage du domicile à l'aéroport||"Colonnes : 
+- Mode de transport
+- Distance en km"|"* PLACEHOLDER TEXT : Sélectionner le mode de transport...
+* ADD ROW TEXT : Ajouter un mode de transport
+* REMOVE ROW TEXT : Supprimer le mode de transport
+
+* DISTANCE PLACEHOLDER TEXT : Sélectionner la distance..."|* ERROR TEXT DUPLICATION : Les modes choisis doivent être uniques.||Viagem de casa ao aeroporto||"Colunas: 
+- Modo de transporte
+- Distância em [km/milhas]"|"* TEXTO DO ESPAÇO RESERVADO: Selecione meio de transporte...
+* ADICIONE TEXTO DA LINHA: Adicione meio de transporte                                                       
+*REMOVA TEXTO DA LINHA: Remova meio de  transporte                                                                                                                                                                 
+* TEXTO DO ESPAÇO RESERVADO PARA DISTÂNCIA: Selecione o intervalo de distância..."|* TEXTO DE ERRO DUPLICAÇÃO: Os modos escolhidos devem ser únicos.|$
+Show tables only for methods of transport selected||business-travel-emissions_flights-journey-airport-to-final-destination|BUSINESS TRAVEL EMISSIONS| Journey from airport to final destination|||"Columns: 
+- Transportation mode
+- Distance in [km/miles]"|||"* PLACEHOLDER TEXT: Select transportation mode...
+* ADD ROW TEXT: Add transportation mode
+* REMOVE ROW TEXT: Remove transportation mode
+
+* DISTANCE PLACEHOLDER TEXT: Select distance range..."||| Viaje desde el aeropuerto hasta el destino final||"Columnas: 
+- Modo de transporte
+- Distancia en [km/millas]"|"* TEXTO DEL MARCADOR DE POSICIÓN: Seleccione el modo de transporte...
+* AGREGAR TEXTO DE FILA: Agregar modo de transporte
+* ELIMINAR TEXTO DE FILA: Eliminar modo de transporte
+
+* TEXTO DEL MARCADOR DE DISTANCIA: Seleccione el intervalo de distancia...
+"||| Voyage de l'aéroport à la destination finale||"Colonnes : 
+- Mode de transport
+- Distance en km"|"* PLACEHOLDER TEXT : Sélectionner le mode de transport...
+* ADD ROW TEXT : Ajouter un mode de transport
+* REMOVE ROW TEXT : Supprimer le mode de transport
+
+* DISTANCE PLACEHOLDER TEXT : Sélectionner la distance..."|||Distância do aeroporto ao destino final||"Colunas: 
+- Modo de transporte
+- Distância em [km/milhas]"|"* TEXTO DO ESPAÇO RESERVADO: Selecione meio de transporte...
+* ADICIONE TEXTO DA LINHA: Adicione meio de transporte                                                       
+*REMOVA TEXTO DA LINHA: Remova meio de  transporte                                                                                                                                                                  
+* TEXTO DO ESPAÇO RESERVADO PARA DISTÂNCIA: Selecione o intervalo de distância..."||$
+||business-travel-emissions_train-journeys-overview|BUSINESS TRAVEL EMISSIONS|Please tell us a bit more about the train journeys you took for Valtech in 2022.||Table|"Rows:
+- 0-1 hour
+- 1-2 hours
+- 2-3 hours
+- ...
+
+Columns:
+- Number of hours per journey
+- Number of single train journeys
+- % of these journeys on national trains
+- % of these journeys on international trains (e.g. Eurostar)
+- % of these journeys on light rail / tram
+- % of these journeys on metro / underground / subway train"||||||Cuéntanos un poco más sobre los viajes en tren que hiciste para Valtech en 2022.| |"Filas:
+- 0-1 hora
+- 1-2 horas
+- 2-3 horas
+- ...                                                                                                                                                         Columnas:
+- Número de horas por viaje                                                                                                                             - Número de viajes en tren
+- % de estos viajes en trenes nacionales
+- % de estos viajes en trenes internacionales (por ejemplo, Eurostar)
+- % de estos viajes en tren ligero/ tranvía
+- % de estos viajes en metro / metro /tren subterráneo"| | ||Veuillez nous en dire un peu plus sur les voyages en train que vous avez effectués pour Valtech en 2022.| |" Lignes :
+- 0-1 heure
+- 1-2 heures
+- 2-3 heures
+- ...
+
+Colonnes :
+- Nombre d'heures par trajet
+- Nombre de voyages en train simple
+- % de ces trajets sur des trains nationaux
+- % de ces trajets sur des trains internationaux (par exemple Eurostar)
+- % de ces trajets en train léger / tramway
+- % de ces trajets en métro / underground / subway train"| | ||Por favor, conte-nos um pouco mais sobre as viagens de trem que você fez para a Valtech em 2022.| |"Linhas:
+- 0-1 hora
+- 1-2 horas
+- 2-3 horas
+-...                                                                                                                                                                                                                                                                                                                                                                                                                               -Colunas:
+- Número de horas por viagem
+- Número de viagens de trens nacionais                                                                                                                - % dessas viagens em trens nacionais 
+- % dessas viagens em trens internacionais (por exemplo, Eurostar)
+- % dessas viagens em metrô de superfície / bondes
+- % dessas viagens em trens de metrô "| | |$
+||business-travel-emissions_car-journeys-overview|BUSINESS TRAVEL EMISSIONS|Please tell us a bit more about the car journeys you took for Valtech in 2022.||Table|"Columns:
+- Number of single conventional fuel (petrol [gasoline] / diesel) car journeys
+- Number of single hybrid (petrol-electric) car journeys
+- Number of single electric vehicle (EV) car journeys
+- Number of single bioethanol-powered car journeys
+- Number of single biodiesel-powered car journeys
+- Number of single LPG car journeys"||||||Cuéntanos un poco más sobre los viajes en coche que hiciste para Valtech en 2022.| |"Columnas:
+- Número de viajes en automóvil con un solo combustible convencional (gasolina [gasolina] / diésel)
+- Número de viajes en automóvil híbrido individual (gasolina-eléctrico)
+- Número de viajes en automóvil de un solo vehículo eléctrico (EV)
+- Número de viajes en automóvil con bioetanol                                                                                           - Número de viajes en automóvil con biodiésel
+- Número de viajes en un solo automóvil de GLP"| | ||Veuillez nous en dire un peu plus sur les voyages en voiture que vous avez effectués pour Valtech en 2022.| |"Colonnes :
+- Nombre de trajets en voiture avec un seul carburant conventionnel (essence  / diesel)
+- Nombre de trajets en voiture simple hybride (essence-électrique)
+- Nombre de trajets en véhicule électrique (VE)
+- Nombre de trajets en voiture alimentés au biodiesel
+- Nombre de trajets en voiture alimentés au biodiesel
+- Nombre de trajets d'une seule voiture GPL"| | ||Por favor, conte-nos um pouco mais sobre as viagens de carro que você fez para a Valtech em 2022.| |"Colunas:
+- Número de viagens únicas de carro com combustível convencional (gasolina / diesel)
+- Número de viagens únicas de carro híbrido (gasolina-elétrico)
+- Número de viagens únicas de carro de elétrico (EV)
+- Número de viagens únicas de carro movido a bioetanol
+- Número de viagens únicas de carro movido a biodiesel
+- Número de viagens únicas de carro de carro movido a GLP "| | |$
+||business-travel-emissions_taxi-journeys-overview|BUSINESS TRAVEL EMISSIONS|Please tell us a bit more about the taxi journeys you took for Valtech in 2022.||Table|"Columns:
+- Number of single conventional fuel taxi journeys (petrol [gasoline] / diesel)
+- Number of single hybrid taxi journeys (petrol / gasoline-electric)
+- Number of single electric taxi journeys"||||||Cuéntanos un poco más sobre los viajes en taxi que hiciste para Valtech en 2022.| |"Columnas:
+- Número de viajes en taxi con combustible convencional (gasolina [gasolina] / diésel)
+- Número de viajes en taxi híbrido individual (gasolina / gasolina-eléctrico)
+- Número de viajes individuales en taxi eléctrico"| | ||Veuillez nous en dire un peu plus sur les voyages en taxi que vous avez effectués pour Valtech en 2022.| |"Colonnes :
+- Nombre de trajets simples en taxi-combustible conventionnel (essence/ diesel)
+- Nombre de trajets en taxi hybride simple (essence / essence-électrique)
+- Nombre de trajets en taxi électrique simple"| | ||Conte-nos um pouco mais sobre as viagens de táxi que você fez para a Valtech em 2022.| |"Colunas:
+- Número de viagens únicas de táxi de combustível convencional (gasolina / diesel)
+- Número de viagens únicas de táxi híbrido (gasolina / gasolina-elétrico)
+- Número de viagens únicas de táxi elétrico "| | |$
+||business-travel-emissions_coach-journeys-overview|BUSINESS TRAVEL EMISSIONS|Please tell us a bit more about the coach journeys you took for Valtech in 2022.||Table|"Columns:
+- Number of single coach journeys"||||||Cuéntanos un poco más sobre los viajes en autobús que hiciste para Valtech en 2022.| |"Columnas:
+- Número de viajes en autobús individual"| | ||Veuillez nous en dire un peu plus sur les voyages en autocar que vous avez effectués pour Valtech en 2022.| |"Colonnes :
+- Nombre de trajets en autocar"| | ||Conte-nos um pouco mais sobre as viagens de Ônibus de viagem que você fez para a Valtech em 2022.| |"Colunas:
+- Número de viagens únicas de ônibus de viagem"| | |$
+||business-travel-emissions_bus-journeys-overview|BUSINESS TRAVEL EMISSIONS|Please tell us a bit more about the bus journeys you took for Valtech in 2022.||Table|"Columns:
+- Number of single bus journeys"||||||Cuéntanos un poco más sobre los viajes en autobús que hiciste para Valtech en 2022.| |"Columnas:
+- Número de viajes en autobús individual"| | ||Veuillez nous en dire un peu plus sur les voyages en bus que vous avez effectués pour Valtech en 2022.| |"Colonnes :
+- Nombre de trajets en bus unique"| | ||Conte-nos um pouco mais sobre as viagens de ônibus que você fez para a Valtech em 2022.| |"Colunas:
+- Número de viagens únicas de ônibus "| | |$
+||business-travel-emissions_ferry-journeys-overview|BUSINESS TRAVEL EMISSIONS|Please tell us a bit more about the ferry journeys you took for Valtech in 2022.||Table|"Columns:
+- Number of single ferry journeys"||||||Cuéntanos un poco más sobre los viajes en ferry que hiciste para Valtech en 2022.| |"Columnas:
+- Número de viajes en ferry individuales"| | ||Veuillez nous en dire un peu plus sur les voyages en ferry que vous avez effectués pour Valtech en 2022.| |"Colonnes :
+- Nombre de trajets en ferry simples"| | ||Conte-nos um pouco mais sobre as viagens de balsa que você fez para a Valtech em 2022.| |"Colunas:
+- Número de viagens únicas de balsa"| | |$
+If  no move to next section on general sustainability||business-travel-emissions_overnight-stay|BUSINESS TRAVEL EMISSIONS|Did you stay overnight, away from home for Valtech purposes in 2022? |This may have been in a hotel, in other accommodation such as an Airbnb, or with friends / family. |MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Yes
+ - No"||||||¿Pasaste la noche fuera de casa por motivos de Valtech en 2022? |Esto puede haber sido en un hotel, en otro alojamiento como un Airbnb o con amigos / familiares. |"Opciones:
+ - Sí
+- No"| | ||Avez-vous passé la nuit loin de chez vous pour les besoins de Valtech en 2022 ? |Cela peut avoir été dans un hôtel, dans d'autres hébergements tels qu'un Airbnb, ou avec des amis / famille. |"Options :
+ - Oui
+ - Non"| | ||Você passou a noite longe de casa para propósitos da Valtech em 2022? |Isso pode ter sido em um hotel, em outras acomodações, como um Airbnb, ou com amigos / familiares. |"Opções:
+- Sim
+- Não"| | |$
+"Only show if ""yes"" to previous question"||business-travel-emissions_overnight-stay-details|BUSINESS TRAVEL EMISSIONS|"[SEE TABLE ON ""BUSINESS TRAVEL TABLES"" TAB] Please tell us some more detail on the approximate number of nights you stayed, which countries you stayed in and the type of accommodation you used in the table below."||Table|"Columns:
+- Country of stay
+- Number of nights
+- % of these nights in hotels
+- % of these nights in Airbnbs / guesthouses
+- % of these nights staying with friends / family"|||"* COUNTRY PLACEHOLDER TEXT: Select your country...
+* ADD ROW TEXT: Add stay
+* REMOVE ROW TEXT: Remove stay"|||"[VER TABLA EN LA PESTANA ""BUSINESS TRAVEL TABLES""] Díganos más detalles sobre el número aproximado de noches que se hospedó, en qué países se hospedó y el tipo de alojamiento que utilizó en la tabla a continuación."| |"Columnas:
+- País de estancia
+- Número de noches
+- % de estas noches en hoteles
+- % de estas noches en Airbnbs / casas de huéspedes
+- % de estas noches alojándose con amigos / familia"|"* TEXTO DEL MARCADOR DE POSICIÓN DEL país: Seleccione su país...                                   * AGREGAR TEXTO DE FILA: Agregar estancia
+* ELIMINAR EL TEXTO de la FILA: Eliminar estancia"| ||Veuillez nous donner plus de détails sur le nombre approximatif de nuits que vous avez passées, les pays dans lesquels vous avez séjourné et le type d'hébergement que vous avez utilisé dans le tableau ci-dessous.| |"Colonnes :
+- Pays de séjour
+- Nombre de nuits
+- % de ces nuits dans les hôtels
+- % de ces nuits en Airbnbs / Locations de particulier à particulier
+- % de ces nuits passées avec des amis / famille"|"* TEXTE D'ESPACE RÉSERVÉ AU PAYS : Sélectionnez votre pays...* AJOUTER UN TEXTE DE LIGNE : Ajouter un séjour
+* SUPPRIMER LE TEXTE DE LA LIGNE : Supprimer le séjour"| ||"[VEJA TABELA NA GUIA ""BUSINESS TRAVEL TABLES""] Por favor, informe-nos mais alguns detalhes sobre o número aproximado de noites que ficou, em que países ficou e o tipo de acomodação que utilizou na tabela abaixo."| |"Colunas:
+- País de estadia
+- Número de noites
+- % dessas noites em hotéis
+- % dessas noites em Airbnbs / pousadas
+- % dessas noites ficando com amigos / familiares"|"* TEXTO DO ESPAÇO RESERVADO PARA O PAÍS: Selecione seu país...                                 * ADICIONAR TEXTO DA LINHA: Adicionar estadia
+* REMOVER TEXTO DA LINHA: Remover estadia"| |$
+||general-sustainability_section|GENERAL SUSTAINABILITY |General sustainability section|We're now going to ask you a few additional questions on your feelings about Sustainability at Valtech and your own emissions reduction efforts. We would LOVE your feedback, but feel free to skip this section. As there are some free text answers we'd like to remind you not to say anything that could identify you or any colleagues personally (e.g. names, roles, etc.).  ||||||||Sección de sostenibilidad general|Ahora vamos a hacerle algunas preguntas adicionales sobre sus sentimientos acerca de la sostenibilidad en Valtech y sus propios esfuerzos de reducción de emisiones. Nos ENCANTARÍA recibir sus comentarios, pero no dude en omitir esta sección. Como hay algunas respuestas de texto libre, nos gustaría recordarle que no diga nada que pueda identificarlo a usted o a ningún compañero personalmente (por ejemplo, nombres, roles, etc.). | | | ||Section durabilité générale|Nous allons maintenant vous poser quelques questions supplémentaires sur vos sentiments concernant le développement durable chez Valtech et vos propres efforts de réduction des émissions. Nous AIMERIONS recevoir vos commentaires, mais n'hésitez pas à sauter cette section. Comme il y a des réponses en texte libre, nous aimerions vous rappeler de ne rien dire qui pourrait vous identifier ou identifier vos collègues personnellement (par exemple, les noms, les rôles, etc.). | | | ||Seção geral de sustentabilidade|Agora vamos fazer algumas perguntas adicionais sobre seus sentimentos em relação à Sustentabilidade na Valtech e seus próprios esforços de redução de emissões. Adoraríamos receber seu feedback, mas fique à vontade para pular esta seção. Como há algumas respostas de texto livre, gostaríamos de lembrá-lo de não dizer nada que possa identificar você ou seus colegas pessoalmente (por exemplo, nomes, funções, etc.). | | | |$
+|Optional|general-sustainability_champion|GENERAL SUSTAINABILITY |Do you know who the Sustainability Champion is for your entity?||MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Yes
+ - No"||||||¿Sabes quién es el Campeón de Sostenibilidad para tu entidad?| |"Opciones:
+- Sí
+- No"| | ||Savez-vous qui est le champion du développement durable pour votre entité ?| |"Options :
+ - Oui
+ - Non"| | ||Você sabe quem é o Campeão de Sustentabilidade na sua entidade?| |"Opções:
+- Sim
+- Não"| | |$
+|Optional|general-sustainability_targets|GENERAL SUSTAINABILITY |Before completing this survey, were you aware that Valtech is committing to emissions reduction targets?|Our emissions target is to be Net Zero by 2040, pending validation by the Science Based Targets initiative.|MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Yes
+ - No"||||||Antes de completar esta encuesta, ¿sabía que Valtech se está comprometiendo con los objetivos de reducción de emisiones?|Nuestro objetivo de emisiones es ser Cero Neto para 2040, a la espera de la validación por parte de la iniciativa Science Based Targets.|"Opciones:
+ - Sí
+- No"| | ||Avant de répondre à ce sondage, saviez-vous que Valtech s'engage à atteindre des objectifs de réduction des émissions ?|Notre objectif d'émissions est d'être net zéro d'ici à 2040, en attendant la validation par l'initiative Science Based Targets.|"Options :
+ - Oui
+ - Non"| | ||Antes de concluir esta pesquisa, você sabia que a Valtech está se comprometendo com as metas de redução de emissões?|Nossa meta de emissões é ser zerada até 2040, pendente de validação pela iniciativa Science Based Targets.|"Opções:
+- Sim
+- Não"| | |$
+|Optional|general-sustainability_local-initiatives|GENERAL SUSTAINABILITY |Are you aware of any initiatives in your base / normal Valtech office to help reduce our emissions?||MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Yes
+ - No
+ - N/A (I don't have a base Valtech office)"||||||¿Está al tanto de alguna iniciativa en su oficina base / normal de Valtech para ayudar a reducir nuestras emisiones?| |"Opciones:
+ - Sí
+ - No
+ - N/D (No tengo una oficina base de Valtech)"| | ||Connaissez-vous des initiatives dans votre bureau Valtech pour aider à réduire nos émissions ?| |"Options :
+ - Oui
+ - Non
+ - N/A (Je n'ai pas de bureau Valtech)"| | ||Você está ciente de alguma iniciativa em sua base /escritório normal da Valtech para ajudar a reduzir nossas emissões?| |"Opções:
+ - Sim
+- Não
+- N/A (Eu não tenho um escritório base da Valtech)"| | |$
+Only show if selected yes in previous question|Optional|general-sustainability_local-initiatives-details|GENERAL SUSTAINABILITY |Please share what these initiatives are.||OPEN TEXT|||||||Por favor, comparta cuáles son estas iniciativas.| | | | ||Partagez nous ces initiatives.| | | | ||Compartilhe quais são essas iniciativas.| | | | |$
+|Optional|general-sustainability_personal-reduction|GENERAL SUSTAINABILITY |Have you already started making a personal effort to reduce your emissions in any of these areas?||MULTIPLE OPTIONS - MULTIPLE CHOICE|"Options:
+ - Yes, I'm reducing my commuting emissions
+ - Yes, I'm reducing my business travel emissions
+ - Yes, I'm reducing my home emissions
+ - No, I haven't started trying to reduce my emissions in any of these areas yet"||||||¿Ya ha comenzado a hacer un esfuerzo personal para reducir sus emisiones en alguna de estas áreas?| |"Opciones:
+ - Sí, estoy reduciendo mis emisiones de transporte
+- Sí, estoy reduciendo mis emisiones de viajes de negocios
+- Sí, estoy reduciendo las emisiones de mi hogar
+- No, todavía no he empezado a tratar de reducir mis emisiones en ninguna de estas áreas"| | ||Avez-vous déjà commencé à faire un effort personnel pour réduire vos émissions dans l'un de ces domaines ?| |"Options :
+ - Oui, je réduis mes émissions de gaz à effet de serre
+ - Oui, je réduis mes émissions liées aux voyages d'affaires
+ - Oui, je réduis les émissions à la maison
+ - Non, je n'ai pas encore commencé à essayer de réduire mes émissions dans aucun de ces domaines"| | ||Você já começou a fazer um esforço pessoal para reduzir suas emissões em alguma dessas áreas?| |"Opções:
+ - Sim, estou reduzindo minhas emissões de deslocamento diário
+- Sim, estou reduzindo minhas emissões de viagens de negócios
+- Sim, estou reduzindo as emissões da minha casa
+- Não, ainda não comecei a tentar reduzir minhas emissões em nenhuma dessas áreas"| | |$
+"Only show if selected ""I'm reducing my commuting / business travel / home emissions"" in previous question"|Optional|general-sustainability_personal-reduction-details|GENERAL SUSTAINABILITY |Please can you share more details on what you're doing to reduce your emissions in these areas? ||OPEN TEXT|||||||¿Puede compartir más detalles sobre lo que está haciendo para reducir sus emisiones en estas áreas? | | | | ||Pouvez-vous nous donner plus de détails sur ce que vous faites pour réduire vos émissions dans ces domaines ? | | | | ||Você pode compartilhar mais detalhes sobre o que está fazendo para reduzir suas emissões nessas áreas? | | | | |$
+|Optional|general-sustainability_personal-reduction-support|GENERAL SUSTAINABILITY |How could Valtech best support you to reduce your personal emissions as an employee?|Select 1–3 options.|MULTIPLE OPTIONS - MULTIPLE CHOICE|"Options:
+ - Helping me learn about how I can make greener choices.
+ - Introducing formal employee benefits that help me reduce my footprint (e.g. tax-free bicycle lease schemes).
+ - Setting up more employee groups so we can share ideas and learn from each other.
+ - Negotiating discounts for employees on green solutions (e.g. discounts with solar panel suppliers).
+ - Communicating more frequently on our emissions reduction targets and initiatives.
+ - Introducing more **local** initiatives and events focussed on emissions reduction.
+ - Introducing more **global** initiatives and events focussed on emissions reduction.
+ - Other (please specify)"|||"* OTHER TEXT: Other (please specify)
+* OTHER PLACEHOLDER: Different support
+
+* VALIDATOR TEXT: Select 1–3 options."|||¿Cómo podría Valtech ayudarle mejor a reducir sus emisiones personales como empleado?|Seleccione opciones 1–3.|"Opciones:
+- Ayudarme a aprender cómo puedo tomar decisiones más ecológicas. - Introducir beneficios formales para los empleados que me ayuden a reducir mi huella (por ejemplo, esquemas de arrendamiento de bicicletas libres de impuestos).
+ - Crear más grupos de empleados para que podamos compartir ideas y aprender unos de otros.
+ Negociar descuentos para los empleados en soluciones ecológicas (por ejemplo, descuentos con proveedores de paneles solares).
+ Comunicarnos con mayor frecuencia sobre nuestros objetivos e iniciativas de reducción de emisiones.
+ - Introducir más iniciativas y eventos ** locales * * centrados en la reducción de emisiones.
+ - Introducir más ** iniciativas globales** y eventos centrados en la reducción de emisiones.
+ Otro (por favor especifique)"|"* OTRO TEXTO: Otro (especifique)
+* OTRO MARCADOR DE POSICIÓN: soporte diferente
+
+* TEXTO DEL VALIDADOR: Seleccione opciones 1–3."| ||Comment Valtech pourrait-elle vous aider au mieux à réduire vos émissions personnelles en tant qu'employé ?|Sélectionnez 1 à 3 options.|"Options :
+ - M'aider à comprendre comment je peux faire des choix plus écologiques. - Introduire des avantages sociaux formels qui m'aident à réduire mon empreinte (par exemple, des programmes de location de vélos avantageux).
+ - Mettre en place plus de groupes d'employés afin que nous puissions partager des idées et apprendre les uns des autres.
+ - Négocier des remises pour les employés sur les solutions vertes (par exemple des remises avec les fournisseurs de panneaux solaires).
+ - Communiquer plus fréquemment sur nos objectifs et initiatives de réduction des émissions.
+ - Introduire davantage d'initiatives et d'événements ** locaux * * axés sur la réduction des émissions.
+ - Introduire davantage d'initiatives et d'événements ** mondiaux * * axés sur la réduction des émissions.
+ - Autre (précisez)"|"* AUTRE TEXTE : Autre (veuillez préciser)
+* AUTRE ESPACE RÉSERVÉ : Support différent
+
+* TEXTE DU VALIDATEUR : sélectionnez 1 à 3 options."| ||Como a Valtech poderia ajudá-lo a reduzir suas emissões pessoais como funcionário?|Selecione opções 1-3.|"Opções:
+- Ajudando-me a aprender sobre como posso fazer escolhas mais ecológicas.                                             -  Apresentação de benefícios formais para funcionários que me ajudam a reduzir meu impacto (por exemplo, esquemas de aluguel de bicicletas isentos de impostos).
+- Criação de mais grupos de funcionários para que possamos compartilhar ideias e aprender uns com os outros.
+ - Negociação de descontos para funcionários em soluções verdes (por exemplo, descontos com fornecedores de painéis solares).
+ - Comunicar com mais frequência sobre nossas metas e iniciativas de redução de emissões.
+ - Apresentando mais iniciativas e eventos ** locais * * focados na redução de emissões.
+ - Apresentando mais iniciativas e eventos ** globais * * focados na redução de emissões.
+ - Outro (especifique)"|"* OUTRO TEXTO: Outro (especifique)
+* OUTRO ESPAÇO RESERVADO: suporte diferente
+
+* TEXTO VALIDADOR: Selecione opções 1-3."| |$
+"If ""I find it easy"" selected, move to general-sustainability-carbon-tax question"|Optional|general-sustainability_personal-reduction-challenging|GENERAL SUSTAINABILITY |Thinking as an individual within the Valtech context, which area do you find the most challenging when it comes to reducing your emissions?||MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Commuting to my base Valtech office
+ - Commuting to client site(s)
+ - Working from home
+ - Travelling on business 
+ - I find it easy to reduce my emissions in all of these categories!"||||||Pensando como individuo dentro del contexto de Valtech, ¿qué área le parece más desafiante cuando se trata de reducir sus emisiones?| |"Opciones:
+- Viajar a mi oficina base de Valtech
+- Conmutación al sitio(s) del cliente
+- Trabajar desde casa
+- Viajar por negocios
+- ¡Me resulta fácil reducir mis emisiones en todas estas categorías!"| | ||En tant qu'individu dans le contexte de Valtech, quel domaine trouvez-vous le plus difficile en matière de réduction de vos émissions ?| |"Options :
+ - Trajets domicile-travail vers mon bureau de Valtech
+ - Déplacement vers le (s) site(s) client (s)
+ - Travail à domicile
+ - Voyages d'affaires
+ - Je trouve facile de réduire mes émissions dans toutes ces catégories !"| | ||Pensando como um indivíduo dentro do contexto da Valtech, qual área você acha mais desafiadora quando se trata de reduzir suas emissões?| |"Opções:
+ - Deslocamento para o meu escritório base Valtech
+- Deslocamento para o (s) local(is) do cliente
+- Trabalhar em casa
+- Viajar a negócios
+- Eu acho fácil reduzir minhas emissões em todas essas categorias!"| | |$
+|Optional|general-sustainability_personal-reduction-challenging-reasons-for-commuting|GENERAL SUSTAINABILITY |Why do you find it hard to reduce your commuting emissions?|Select as many options as you like. |MULTIPLE OPTIONS - MULTIPLE CHOICE|"Options:
+ - There is no greener way for me to get there because I'm already using the greenest available method.
+ - There is no greener way for me to get there because there's no way to get to the site by walking / cycling or using public transport.
+ - In theory the distance could be walked or cycled but it's too difficult (e.g. it's too hot / there are no cycle lanes).
+ - It's not *practical* for me to use a greener method (e.g. taking the train rather than driving would take 6x longer).
+ - I have to drive and it's hard to find people to car share with and / or an electric vehicle is not an option for me.
+ - Other (please specify)"|List shown is dependent on answer to previous question|||||¿Por qué le resulta difícil reducir sus emisiones de transporte?|Selecciona tantos como quieras. |"Opciones:
+ - No hay manera más verde para mí para llegar allí porque ya estoy utilizando el método más verde disponible. - No hay una forma más ecológica de llegar allí porque no hay forma de llegar al sitio caminando /en bicicleta o en transporte público.
+ - En teoría, la distancia se puede recorrer a pie o en bicicleta, pero es demasiado difícil (por ejemplo, hace demasiado calor /no hay carriles para bicicletas).
+ - No es *práctico* para mí usar un método más ecológico (por ejemplo, tomar el tren en lugar de conducir tomaría 6 veces más tiempo).
+ - Tengo que conducir y es difícil encontrar personas con las que compartir el automóvil y / o un vehículo eléctrico no es una opción para mí.
+ Otro (por favor especifique)"| | ||Pourquoi avez-vous du mal à réduire vos émissions de gaz à effet de serre ?|Sélectionner autant que vous voulez. |"Options :
+ - Il n'y a pas de moyen plus vert pour moi d'y arriver parce que j'utilise déjà la méthode la plus verte disponible. - Il n'y a pas de moyen plus écologique pour moi de m'y rendre car il n'y a aucun moyen de se rendre sur le site en marchant /faisant du vélo ou en utilisant les transports en commun.
+ - En théorie, la distance peut être parcourue à pied ou à vélo, mais c'est trop difficile (par exemple, il fait trop chaud / il n'y a pas de pistes cyclables).
+ - Ce n'est pas *pratique* pour moi d'utiliser une méthode plus verte (par exemple, prendre le train plutôt que de conduire prendrait 6 fois plus de temps).
+ - Je dois conduire et il est difficile de trouver des gens avec qui partager ma voiture et / ou un véhicule électrique n'est pas une option pour moi.
+ - Autre, (précisez)"| | ||Por que você acha difícil reduzir suas emissões de deslocamento?|Selecione quantas opções quiser. |"Opções:
+- Não há nenhuma maneira mais verde para eu chegar lá, porque eu já estou usando o método mais verde disponível.                                                                                                                                                       - Não há nenhuma maneira mais verde para eu chegar lá, porque não há nenhuma maneira de chegar ao local a pé /de bicicleta ou usando o transporte público.
+- Em teoria, a distância poderia ser percorrida ou pedalada, mas é muito difícil (por exemplo, é muito quente /não há ciclovias).
+ - Não é *prático* para mim usar um método mais ecológico (por exemplo, pegar o trem em vez de dirigir levaria 6x mais tempo).
+ - Eu tenho que dirigir e é difícil encontrar pessoas para compartilhar o carro com e / ou um veículo elétrico não é uma opção para mim.
+ - Outro (especifique)"| | |$
+|Optional|general-sustainability_personal-reduction-challenging-reasons-for-working-from-home|GENERAL SUSTAINABILITY |Why do you find it hard to reduce your working from home emissions?|Select as many options as you like. |MULTIPLE OPTIONS - MULTIPLE CHOICE|"Options:
+ - I can't reduce my emissions any more because I'm already using all the low-carbon options available to me (e.g. solar panels etc.).
+ - In my country there are no practical / affordable ways I can reduce my home emissions, aside from simply reducing my usage.
+ - The bigger changes I'd need to make (e.g. installing solar panels) are too **expensive** for me right now.
+ - The bigger changes I'd need to make are not **practical** for me right now .
+ - The bigger changes I'd need to make are **not within my direct control** .
+ - I don't know where to start and I'd like some help.
+ - I don't have time and / or inclination to explore this.
+ - I'd like to make changes but others in my household are resistant.
+ - Other (please specify)"|List shown is dependent on answer to previous question|||||¿Por qué le resulta difícil reducir las emisiones de su trabajo desde casa?|Selecciona tantos como quieras. |"Opciones:
+ - Ya no puedo reducir mis emisiones porque ya estoy usando todas las opciones bajas en carbono disponibles para mí (por ejemplo, paneles solares, etc.). - En mi país no hay formas prácticas / asequibles en que pueda reducir las emisiones de mi hogar, aparte de simplemente reducir mi uso.
+ - Los cambios más grandes que tendría que hacer (por ejemplo, instalar paneles solares) son demasiado **caros** para mí en este momento.
+ - Los cambios más grandes que tendría que hacer no son **prácticos** para mí en este momento.
+ - Los cambios más grandes que tendría que hacer **no están bajo mi control directo ** .
+ - No sé por dónde empezar y me gustaría un poco de ayuda.
+ - No tengo tiempo y / o inclinación para explorar esto.
+ - Me gustaría hacer cambios, pero otros en mi hogar se resisten.
+ Otro (por favor especifique)"| | ||Pourquoi avez-vous du mal à réduire vos émissions de gaz à effet de serre ?|Sélectionner autant que vous voulez. |"Options :
+ - Je ne peux plus réduire mes émissions parce que j'utilise déjà toutes les options à faible émission de carbone à ma disposition (par exemple, panneaux solaires, etc.). - Dans mon pays, il n'y a pas de moyens pratiques / abordables de réduire les émissions de ma maison, en dehors de la simple réduction de mon utilisation.
+ - Les plus gros changements que je devrais faire (par exemple, installer des panneaux solaires) sont trop **chers** pour moi en ce moment.
+ - Les plus gros changements que je devrais faire ne sont pas **pratiques** pour moi en ce moment.
+ - Les plus grands changements que je devrais faire ne sont pas sous mon contrôle direct.
+ - Je ne sais pas par où commencer et j'aimerais de l'aide.
+ - Je n'ai pas le temps et / ou l'envie d'explorer cela.
+- J'aimerais faire des changements, mais d'autres membres de ma famille sont résistants.
+ - Autre (précisez)"| | ||Por que você acha difícil reduzir suas emissões de trabalho em casa?|Selecione quantas opções quiser. |"Opções:
+ - Não posso mais reduzir minhas emissões porque já estou usando todas as opções de baixo carbono disponíveis para mim (por exemplo, painéis solares, etc.).                                                                               - No meu país, não há maneiras práticas / acessíveis que eu possa reduzir minhas emissões domésticas, além de simplesmente reduzir meu uso.
+ - As mudanças maiores que eu precisaria fazer (por exemplo, instalar painéis solares) são muito **caras * * para mim agora.
+ - As maiores mudanças que eu precisaria fazer não são **práticas** para mim agora.
+ - As maiores mudanças que eu precisaria fazer **não estão dentro do meu controle direto**.
+ - Não sei por onde começar e gostaria de ajuda.
+ - Eu não tenho tempo e / ou disposição para explorar isso.
+ - Eu gostaria de fazer mudanças, mas outros na minha casa são resistentes.
+ - Outro (especifique)"| | |$
+|Optional|general-sustainability_personal-reduction-challenging-reasons-for-business-travel|GENERAL SUSTAINABILITY |Why do you find it hard to reduce your business travel emissions?|Select as many options as you like. |MULTIPLE OPTIONS - MULTIPLE CHOICE|"Options:
+ - I already travel in as green a way as possible and I can't see how I can make this any greener.
+ - I can't see how I could reduce my travel for Valtech without adversely affecting business outcomes.
+ - Others in Valtech make decisions about my travel and there's little I can do to influence this .
+ - There's a client expectation that I will attend meetings / events in person and this is hard to challenge.
+ - There's often no greener alternative for me (e.g. I travel a lot across oceans and I can't reasonably take a greener option than the plane).
+ - I don't know what options are available / don't have time to research other methods.
+ - I can't afford the extra time that a greener option would take.
+ - Other (please specify)"|List shown is dependent on answer to previous question|||||¿Por qué le resulta difícil reducir las emisiones de sus viajes de negocios?|Selecciona tantos como quieras. |"Opciones:
+ - Ya viajo de la manera más verde posible y no puedo ver cómo puedo hacer esto más verde.
+ No puedo ver cómo podría reducir mis viajes para Valtech sin afectar negativamente los resultados comerciales.
+ - Otros en Valtech toman decisiones sobre mi viaje y hay poco que pueda hacer para influir en esto.
+ - Hay una expectativa del cliente de que asistiré a reuniones / eventos en persona y esto es difícil de desafiar.
+ - A menudo no hay una alternativa más ecológica para mí (por ejemplo, viajo mucho a través de los océanos y no puedo elegir una opción más ecológica que el avión).
+ - No sé qué opciones están disponibles / no tengo tiempo para investigar otros métodos.
+ - No puedo permitirme el tiempo extra que tomaría una opción más ecológica.
+ - Otro (por favor especifique)"| | ||Pourquoi avez-vous du mal à réduire les émissions de vos voyages d'affaires ?|Sélectionner autant que vous voulez. |"Options :
+ - Je voyage déjà d'une manière aussi verte que possible et je ne vois pas comment je peux rendre cela plus vert.
+ - Je ne vois pas comment je pourrais réduire mes voyages pour Valtech sans affecter négativement les résultats commerciaux.
+ - D'autres à Valtech prennent des décisions concernant mon voyage et il y a peu de choses que je peux faire pour influencer cela.
+ - Les clients s'attendent à ce que j'assiste à des réunions / événements en personne, ce qui est difficile à contester.
+ - Il n'y a souvent pas d'alternative plus verte pour moi (par exemple, je voyage beaucoup à travers les océans et je ne peux pas raisonnablement prendre une option plus verte que l'avion).
+ - Je ne sais pas quelles options sont disponibles /je n'ai pas le temps de rechercher d'autres méthodes.
+ - Je ne peux pas me permettre les heures supplémentaires qu'une option plus verte prendrait.
+ - Autre (précisez)"| | ||Por que você acha difícil reduzir suas emissões de viagens de negócios?|Selecione quantas opções quiser. |"Opções:
+ - Eu já viajo da maneira mais verde possível e não consigo ver como posso tornar isso mais verde.
+ - Não consigo ver como poderia reduzir minhas viagens para a Valtech sem afetar negativamente os resultados dos negócios.
+ - Outros na Valtech tomam decisões sobre minha viagem e há pouco que eu possa fazer para influenciar isso.
+ - Há uma expectativa do cliente de que eu participe de reuniões / eventos pessoalmente e isso é difícil de desafiar.
+ - Muitas vezes não há alternativa mais verde para mim (por exemplo, eu atravesso muito os oceanos e não posso razoavelmente tomar uma opção mais verde do que o avião).
+ - Não sei quais opções estão disponíveis / não tenho tempo para pesquisar outros métodos.
+ - Não posso me dar ao luxo do tempo extra que uma opção mais verde levaria.
+ - Outro (especifique)"| | |$
+|Optional|general-sustainability_personal-reduction-challenging-reasons-details|GENERAL SUSTAINABILITY |Please feel free to share more information on your response to the previous question ||OPEN TEXT|||||||Siéntase libre de compartir más información sobre su respuesta a la pregunta anterior | | | | ||N'hésitez pas à partager plus d'informations sur votre réponse à la question précédente | | | | ||Sinta-se à vontade para compartilhar mais informações sobre sua resposta à pergunta anterior | | | | |$
+|Optional|general-sustainability_carbon-tax|GENERAL SUSTAINABILITY |Would you be in favour of Valtech introducing a carbon tax or carbon budget? |"A carbon budget would involve setting more granular targets on specific carbon emitting activities. For example, limiting the number of flights each person or team was permitted to take per month / year.
+
+ A carbon tax would be an internal levy added to specific carbon emitting activities such as flights. The money generated from this could be reinvested into emissions reduction initiatives. "|MULTIPLE OPTIONS - ONE CHOICE|"Options:
+ - Yes
+ - No
+ - Not sure"||||||¿Estaría usted a favor de que Valtech introdujera un impuesto sobre el carbono o un presupuesto de carbono? |"Un presupuesto de carbono implicaría establecer objetivos más detallados sobre actividades específicas de emisión de carbono. Por ejemplo, limitar el número de vuelos que cada persona o equipo podía tomar por mes / año.
+
+ Un impuesto al carbono sería un gravamen interno agregado a actividades específicas de emisión de carbono, como los vuelos. El dinero generado a partir de esto podría reinvertirse en iniciativas de reducción de emisiones. "|"Opciones:
+- Sí
+- No
+- No estoy seguro"| | ||Seriez-vous favorable à l'introduction par Valtech d'une taxe carbone ou d'un budget carbone ? |"Un budget carbone impliquerait de fixer des objectifs plus précis sur des activités spécifiques d'émission de carbone. Par exemple, limiter le nombre de vols que chaque personne ou équipe était autorisée à prendre par mois / année.
+
+ Une taxe carbone serait une taxe interne ajoutée à des activités spécifiques émettrices de carbone telles que les vols. Les fonds ainsi générés pourraient être réinvestis dans des initiatives de réduction des émissions. "|"Options :
+ - Oui
+ - Non
+ - Pas sûr"| | ||Você seria a favor da Valtech introduzir uma taxa sobre o carbono ou um orçamento de carbono? |"Um orçamento de carbono envolveria o estabelecimento de metas mais detalhadas em atividades específicas de emissão de carbono. Por exemplo, limitar o número de voos que cada pessoa ou equipe fosse permitido para fazer por mês / ano.
+
+ Uma taxa sobre o carbono seria uma cobrança interna adicionada a atividades específicas de emissão de carbono, como voos. O dinheiro gerado a partir disso poderia ser reinvestido em iniciativas de redução de emissões. "|"Opções:
+- Sim
+- Não
+- Não tenho certeza"| | |$
+|Optional|general-sustainability_carbon-tax-reasons|GENERAL SUSTAINABILITY |Why is this?||OPEN TEXT|||||||¿Por qué?| | | | ||Pour quelle raison ?| | | | ||Mas por que isso?| | | | |$
+|Optional|general-sustainability_open-comments|GENERAL SUSTAINABILITY |Are there any final thoughts or ideas you'd like to add on the topic of emissions reduction and sustainability at Valtech?||OPEN TEXT|||||||¿Hay algún pensamiento o idea final que le gustaría agregar sobre el tema de la reducción de emisiones y la sostenibilidad en Valtech?| | | | ||Avez-vous des idées ou des remarques à ajouter concernant le développement durable et la réduction des émissions chez Valtech ?| | | | ||Há alguma consideração ou ideia final que você gostaria de acrescentar sobre o tema da redução de emissões e sustentabilidade na Valtech?| | | | |$
