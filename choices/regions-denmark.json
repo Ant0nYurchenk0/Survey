@@ -1,0 +1,32 @@
+[
+  {
+    "id": "Region Hovedstaden",
+    "title": {
+      "default": "Region Hovedstaden"
+    }
+  },
+  {
+    "id": "Region Sjælland",
+    "title": {
+      "default": "Region Sjælland"
+    }
+  },
+    {
+    "id": "Region Syddanmark",
+    "title": {
+      "default": "Region Syddanmark"
+    }
+  },
+  {
+    "id": "Region Midtjylland",
+    "title": {
+      "default": "Region Midtjylland"
+    }
+  },
+  {
+    "id": "Region Nordjylland",
+    "title": {
+      "default": "Region Nordjylland"
+    }
+  }
+]

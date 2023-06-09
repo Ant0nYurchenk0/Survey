@@ -1,0 +1,38 @@
+[
+  {
+    "id": "North Central",
+    "title": {
+      "default": "North Central"
+    }
+  },
+  {
+    "id": "North Eastern",
+    "title": {
+      "default": "North Eastern"
+    }
+  },
+    {
+    "id": "North Western",
+    "title": {
+      "default": "North Western"
+    }
+  },
+  {
+    "id": "South Central",
+    "title": {
+      "default": "South Central"
+    }
+  },
+  {
+    "id": "South Eastern",
+    "title": {
+      "default": "South Eastern"
+    }
+  },
+  {
+    "id": "South Western",
+    "title": {
+      "default": "South Western"
+    }
+  }
+]

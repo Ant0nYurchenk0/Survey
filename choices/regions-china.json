@@ -1,0 +1,206 @@
+[
+  {
+    "id": "Anhui Province",
+    "title": {
+      "default": "Anhui Province"
+    }
+  },
+  {
+    "id": "Beijing Municipality",
+    "title": {
+      "default": "Beijing Municipality"
+    }
+  },
+    {
+    "id": "Chongqing Municipality",
+    "title": {
+      "default": "Chongqing Municipality"
+    }
+  },
+  {
+    "id": "Fujian Province",
+    "title": {
+      "default": "Fujian Province"
+    }
+  },
+  {
+    "id": "Guangdong Province",
+    "title": {
+      "default": "Guangdong Province"
+    }
+  },
+  {
+    "id": "Gansu Province",
+    "title": {
+      "default": "Gansu Province"
+    }
+    },
+  {
+    "id": "Guangxi Zhuang Autonomous Region",
+    "title": {
+      "default": "Guangxi Zhuang Autonomous Region"
+    }
+  },
+    {
+    "id": "Guizhou Province",
+    "title": {
+      "default": "Guizhou Province"
+    }
+  },
+  {
+    "id": "Hainan Province",
+    "title": {
+      "default": "Hainan Province"
+    }
+  },
+  {
+    "id": "Hebei Province",
+    "title": {
+      "default": "Hebei Province"
+    }
+  },
+  {
+    "id": "Heilongjiang Province",
+    "title": {
+      "default": "Heilongjiang Province"
+    }
+  },
+    {
+    "id": "Henan Province",
+    "title": {
+      "default": "Henan Province"
+    }
+  },
+  {
+    "id": "Hong Kong Special Administrative Region",
+    "title": {
+      "default": "Hong Kong Special Administrative Region"
+    }
+  },
+    {
+    "id": "Hubei Province",
+    "title": {
+      "default": "Hubei Province"
+    }
+  },
+  {
+    "id": "Hunan Province",
+    "title": {
+      "default": "Hunan Province"
+    }
+  },
+  {
+    "id": "Jilin Province",
+    "title": {
+      "default": "Jilin Province"
+    }
+  },
+  {
+    "id": "Jiangsu Province",
+    "title": {
+      "default": "Jiangsu Province"
+    }
+  },
+    {
+    "id": "Jiangxi Province",
+    "title": {
+      "default": "Jiangxi Province"
+    }
+  },
+  {
+    "id": "Liaoning Province",
+    "title": {
+      "default": "Liaoning Province"
+    }
+  },
+    {
+    "id": "Macau Special Administrative Region",
+    "title": {
+      "default": "Macau Special Administrative Region"
+    }
+  },
+  {
+    "id": "Inner Mongolia Autonomous Region",
+    "title": {
+      "default": "Inner Mongolia Autonomous Region"
+    }
+  },
+  {
+    "id": "Ningxia Hui Autonomous Region",
+    "title": {
+      "default": "Ningxia Hui Autonomous Region"
+    }
+  },
+  {
+    "id": "Qinghai Province",
+    "title": {
+      "default": "Qinghai Province"
+    }
+  },
+    {
+    "id": "Sichuan Province",
+    "title": {
+      "default": "Sichuan Province"
+    }
+  },
+  {
+    "id": "Shandong Province",
+    "title": {
+      "default": "Shandong Province"
+    }
+  },
+    {
+    "id": "Shanghai Municipality",
+    "title": {
+      "default": "Shanghai Municipality"
+    }
+  },
+  {
+    "id": "Shaanxi Province",
+    "title": {
+      "default": "Shaanxi Province"
+    }
+  },
+  {
+    "id": "Shanxi Province",
+    "title": {
+      "default": "Shanxi Province"
+    }
+  },
+  {
+    "id": "Tianjin Municipality",
+    "title": {
+      "default": "Tianjin Municipality"
+    }
+  },
+    {
+    "id": "Taiwan Province",
+    "title": {
+      "default": "Taiwan Province"
+    }
+  },
+  {
+    "id": "Xinjiang Uyghur Autonomous Region",
+    "title": {
+      "default": "Xinjiang Uyghur Autonomous Region"
+    }
+  },
+    {
+    "id": "Tibet Autonomous Region",
+    "title": {
+      "default": "Tibet Autonomous Region"
+    }
+  },
+  {
+    "id": "Yunnan Province",
+    "title": {
+      "default": "Yunnan Province"
+    }
+  },
+  {
+    "id": "Zhejiang Province",
+    "title": {
+      "default": "Zhejiang Province"
+    }
+  }
+]

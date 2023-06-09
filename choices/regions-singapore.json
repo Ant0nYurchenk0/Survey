@@ -1,0 +1,32 @@
+[
+  {
+    "id": "Central Region",
+    "title": {
+      "default": "Central Region"
+    }
+  },
+  {
+    "id": "East Region",
+    "title": {
+      "default": "East Region"
+    }
+  },
+    {
+    "id": "North Region",
+    "title": {
+      "default": "North Region"
+    }
+  },
+  {
+    "id": "North-East Region",
+    "title": {
+      "default": "North-East Region"
+    }
+  },
+  {
+    "id": "West Region",
+    "title": {
+      "default": "West Region"
+    }
+  }
+]

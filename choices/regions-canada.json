@@ -1,0 +1,80 @@
+[
+  {
+    "id": "Alberta",
+    "title": {
+      "default": "Alberta"
+    }
+  },
+  {
+    "id": "British Columbia",
+    "title": {
+      "default": "British Columbia"
+    }
+  },
+    {
+    "id": "Manitoba",
+    "title": {
+      "default": "Manitoba"
+    }
+  },
+  {
+    "id": "New Brunswick",
+    "title": {
+      "default": "New Brunswick"
+    }
+  },
+  {
+    "id": "Newfoundland and Labrador",
+    "title": {
+      "default": "Newfoundland and Labrador"
+    }
+  },
+  {
+    "id": "Northwest Territories",
+    "title": {
+      "default": "Northwest Territories"
+    }
+  },
+  {
+    "id": "Nova Scotia",
+    "title": {
+      "default": "Nova Scotia"
+    }
+  },
+  {
+    "id": "Nunavut",
+    "title": {
+      "default": "Nunavut"
+    }
+  },
+    {
+    "id": "Ontario",
+    "title": {
+      "default": "Ontario"
+    }
+  },
+  {
+    "id": "Prince Edward Island",
+    "title": {
+      "default": "Prince Edward Island"
+    }
+  },
+  {
+    "id": "Québec",
+    "title": {
+      "default": "Québec"
+    }
+  },
+  {
+    "id": "Saskatchewan",
+    "title": {
+      "default": "Saskatchewan"
+    }
+  },
+  {
+    "id": "Yukon",
+    "title": {
+      "default": "Yukon"
+    }
+  }
+]

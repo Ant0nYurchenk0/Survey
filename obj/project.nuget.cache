@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aNyB/Etj5ANbl/dhDb33oDpubOZIrIz7arHpKZdXDwfwz4by28DoBLbFkhOVVY2LxBcyqaqf8c8bklKWemK9IA==",
+  "dgSpecHash": "5oqhCSYyB1tu+AfnW4XGWoIK+ChcPUczlfJPOdGa57+/L4p48Hdscasi5yLCUoHI7KE5Os9OTWU6O18WkTgCUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anton.yurchenko\\Documents\\Prog\\C#\\Survey\\Survey.csproj",
+  "projectFilePath": "C:\\Users\\anton.yurchenko\\Documents\\Prog\\Survey\\Survey.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anton.yurchenko\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\anton.yurchenko\\.nuget\\packages\\syncfusion.compression.net.core\\21.2.6\\syncfusion.compression.net.core.21.2.6.nupkg.sha512",

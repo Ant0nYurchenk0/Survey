@@ -160,33 +160,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\anton.yurchenko\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\21.2.3\\ToolboxNuGetPackages": {}
+    "C:\\Users\\anton.yurchenko\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anton.yurchenko\\Documents\\Prog\\C#\\Survey\\Survey.csproj",
+      "projectUniqueName": "C:\\Users\\anton.yurchenko\\Documents\\Prog\\Survey\\Survey.csproj",
       "projectName": "Survey",
-      "projectPath": "C:\\Users\\anton.yurchenko\\Documents\\Prog\\C#\\Survey\\Survey.csproj",
+      "projectPath": "C:\\Users\\anton.yurchenko\\Documents\\Prog\\Survey\\Survey.csproj",
       "packagesPath": "C:\\Users\\anton.yurchenko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anton.yurchenko\\Documents\\Prog\\C#\\Survey\\obj\\",
+      "outputPath": "C:\\Users\\anton.yurchenko\\Documents\\Prog\\Survey\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\21.2.3\\ToolboxNuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\anton.yurchenko\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -229,7 +223,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

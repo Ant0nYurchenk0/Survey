@@ -1,0 +1,50 @@
+[
+  {
+    "id": "Bucuresti-Ilfov",
+    "title": {
+      "default": "Bucuresti-Ilfov"
+    }
+  },
+  {
+    "id": "Centru",
+    "title": {
+      "default": "Centru"
+    }
+  },
+    {
+    "id": "Nord-Est",
+    "title": {
+      "default": "Nord-Est"
+    }
+  },
+  {
+    "id": "Nord-Vest",
+    "title": {
+      "default": "Nord-Vest"
+    }
+  },
+  {
+    "id": "Sud - Muntenia",
+    "title": {
+      "default": "Sud - Muntenia"
+    }
+  },
+  {
+    "id": "Sud-Est",
+    "title": {
+      "default": "Sud-Est"
+    }
+  },
+  {
+    "id": "Sud-Vest Oltenia",
+    "title": {
+      "default": "Sud-Vest Oltenia"
+    }
+  },
+  {
+    "id": "Vest",
+    "title": {
+      "default": "Vest"
+    }
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "Baden-Württemberg",
+    "title": {
+      "default": "Baden-Württemberg"
+    }
+  },
+  {
+    "id": "Bayern",
+    "title": {
+      "default": "Bayern"
+    }
+  },
+    {
+    "id": "Berlin",
+    "title": {
+      "default": "Berlin"
+    }
+  },
+  {
+    "id": "Brandenburg",
+    "title": {
+      "default": "Brandenburg"
+    }
+  },
+  {
+    "id": "Bremen",
+    "title": {
+      "default": "Bremen"
+    }
+  },
+  {
+    "id": "Hamburg",
+    "title": {
+      "default": "Hamburg"
+    }
+  },
+    {
+    "id": "Hessen",
+    "title": {
+      "default": "Hessen"
+    }
+  },
+  {
+    "id": "Niedersachsen",
+    "title": {
+      "default": "Niedersachsen"
+    }
+  },
+    {
+    "id": "Mecklenburg-Vorpommern",
+    "title": {
+      "default": "Mecklenburg-Vorpommern"
+    }
+  },
+  {
+    "id": "Nordrhein-Westfalen",
+    "title": {
+      "default": "Nordrhein-Westfalen"
+    }
+  },
+  {
+    "id": "Rheinland-Pfalz",
+    "title": {
+      "default": "Rheinland-Pfalz"
+    }
+  },
+  {
+    "id": "Saarland",
+    "title": {
+      "default": "Saarland"
+    }
+  },
+    {
+    "id": "Sachsen",
+    "title": {
+      "default": "Sachsen"
+    }
+  },
+  {
+    "id": "Sachsen-Anhalt",
+    "title": {
+      "default": "Sachsen-Anhalt"
+    }
+  },
+    {
+    "id": "Schleswig-Holstein",
+    "title": {
+      "default": "Schleswig-Holstein"
+    }
+  },
+  {
+    "id": "Thüringen",
+    "title": {
+      "default": "Thüringen"
+    }
+  }
+]

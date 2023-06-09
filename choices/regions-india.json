@@ -1,0 +1,218 @@
+[
+  {
+    "id": "Andaman and Nicobar Islands",
+    "title": {
+      "default": "Andaman and Nicobar Islands"
+    }
+  },
+  {
+    "id": "Andhra Pradesh",
+    "title": {
+      "default": "Andhra Pradesh"
+    }
+  },
+    {
+    "id": "Arunachal Pradesh",
+    "title": {
+      "default": "Arunachal Pradesh"
+    }
+  },
+  {
+    "id": "Assam",
+    "title": {
+      "default": "Assam"
+    }
+  },
+  {
+    "id": "Bihar",
+    "title": {
+      "default": "Bihar"
+    }
+  },
+  {
+    "id": "Chandigarh",
+    "title": {
+      "default": "Chandigarh"
+    }
+  },
+    {
+    "id": "Chhattisgarh",
+    "title": {
+      "default": "Chhattisgarh"
+    }
+  },
+  {
+    "id": "Dadra and Nagar Haveli and Daman and Diu",
+    "title": {
+      "default": "Dadra and Nagar Haveli and Daman and Diu"
+    }
+  },
+    {
+    "id": "Delhi",
+    "title": {
+      "default": "Delhi"
+    }
+  },
+  {
+    "id": "Goa",
+    "title": {
+      "default": "Goa"
+    }
+  },
+  {
+    "id": "Gujarat",
+    "title": {
+      "default": "Gujarat"
+    }
+  },
+  {
+    "id": "Haryana",
+    "title": {
+      "default": "Haryana"
+    }
+  },
+    {
+    "id": "Himachal Pradesh",
+    "title": {
+      "default": "Himachal Pradesh"
+    }
+  },
+  {
+    "id": "Jammu and Kashmir",
+    "title": {
+      "default": "Jammu and Kashmir"
+    }
+  },
+    {
+    "id": "Jharkhand",
+    "title": {
+      "default": "Jharkhand"
+    }
+  },
+  {
+    "id": "Karnataka",
+    "title": {
+      "default": "Karnataka"
+    }
+  },
+  {
+    "id": "Kerala",
+    "title": {
+      "default": "Kerala"
+    }
+  },
+  {
+    "id": "Ladakh",
+    "title": {
+      "default": "Ladakh"
+    }
+  },
+    {
+    "id": "Lakshadweep",
+    "title": {
+      "default": "Lakshadweep"
+    }
+  },
+  {
+    "id": "Madhya Pradesh",
+    "title": {
+      "default": "Madhya Pradesh"
+    }
+  },
+    {
+    "id": "Maharashtra",
+    "title": {
+      "default": "Maharashtra"
+    }
+  },
+  {
+    "id": "Manipur",
+    "title": {
+      "default": "Manipur"
+    }
+  },
+  {
+    "id": "Meghalaya",
+    "title": {
+      "default": "Meghalaya"
+    }
+  },
+  {
+    "id": "Mizoram",
+    "title": {
+      "default": "Mizoram"
+    }
+  },
+    {
+    "id": "Nagaland",
+    "title": {
+      "default": "Nagaland"
+    }
+  },
+  {
+    "id": "Odisha",
+    "title": {
+      "default": "Odisha"
+    }
+  },
+    {
+    "id": "Puducherry",
+    "title": {
+      "default": "Puducherry"
+    }
+  },
+  {
+    "id": "Punjab",
+    "title": {
+      "default": "Punjab"
+    }
+  },
+  {
+    "id": "Rajasthan",
+    "title": {
+      "default": "Rajasthan"
+    }
+  },
+  {
+    "id": "Sikkim",
+    "title": {
+      "default": "Sikkim"
+    }
+  },
+    {
+    "id": "Tamil Nadu",
+    "title": {
+      "default": "Tamil Nadu"
+    }
+  },
+  {
+    "id": "Telangana",
+    "title": {
+      "default": "Telangana"
+    }
+  },
+    {
+    "id": "Tripura",
+    "title": {
+      "default": "Tripura"
+    }
+  },
+  {
+    "id": "Uttar Pradesh",
+    "title": {
+      "default": "Uttar Pradesh"
+    }
+  },
+  {
+    "id": "Uttarakhand",
+    "title": {
+      "default": "Uttarakhand"
+    }
+  },
+  {
+    "id": "West Bengal",
+    "title": {
+      "default": "West Bengal"
+    }
+  }
+]

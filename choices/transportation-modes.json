@@ -1,0 +1,245 @@
+[
+  {
+    "id": "Walking",
+    "title": {
+      "default": "Walking",
+      "es": "Caminar",
+      "fr": "Marche",
+      "pt-BR": "Caminhada"
+    }
+  },
+  {
+    "id": "Cycling",
+    "title": {
+      "default": "Cycling",
+      "es": "Ciclismo",
+      "fr": "Vélo",
+      "pt-BR": "Bicicleta"
+    }
+  },
+  {
+    "id": "E-scooter",
+    "title": {
+      "default": "E-scooter",
+      "es": "E-scooter",
+      "fr": "E-scooter",
+      "pt-BR": "Patinete elétrico"
+    }
+  },
+  {
+    "id": "E-bike",
+    "title": {
+      "default": "E-bike",
+      "es": "Bicicleta eléctrica",
+      "fr": "Vélo Électrique",
+      "pt-BR": "Bicicleta elétrica"
+    }
+  },
+  {
+    "id": "International train",
+    "title": {
+      "default": "International train",
+      "es": "Tren Internacional",
+      "fr": "Train International",
+      "pt-BR": "Trem Internacional"
+    }
+  },
+  {
+    "id": "National train",
+    "title": {
+      "default": "National train",
+      "es": "Tren nacional",
+      "fr": "Train national",
+      "pt-BR": "Trem Nacional"
+    }
+  },
+  {
+    "id": "Light rail / Tram",
+    "title": {
+      "default": "Light rail / Tram",
+      "es": "Tren ligero / tranvía",
+      "fr": "Train léger / Tramway",
+      "pt-BR": "Metrô de superfície / Bonde  Elétrico"
+    }
+  },
+  {
+    "id": "Metro / Underground / Subway",
+    "title": {
+      "default": "Metro / Underground / Subway",
+      "es": "Metro / Subterráneo",
+      "fr": "Métro / métro / métro",
+      "pt-BR": "Metrô / Metrô / Metrô"
+    }
+  },
+  {
+    "id": "Bus",
+    "title": {
+      "default": "Bus",
+      "es": "Autobús",
+      "fr": "Bus",
+      "pt-BR": "Ônibus urbano"
+    }
+  },
+  {
+    "id": "Coach",
+    "title": {
+      "default": "Coach",
+      "es": "Autocar",
+      "fr": "Autocar",
+      "pt-BR": "Ônibus de viagem"
+    }
+  },
+  {
+    "id": "Car - Conventional fuel vehicle: petrol (gasoline), diesel",
+    "title": {
+      "default": "Car - Conventional fuel vehicle: petrol (gasoline), diesel",
+      "es": "Coche",
+      "fr": "Voiture",
+      "pt-BR": "Automóvel"
+    }
+  },
+  {
+    "id": "Car - Hybrid vehicle (petrol-electric)",
+    "title": {
+      "default": "Car - Hybrid vehicle (petrol-electric)",
+      "es": "Vehículo de combustible convencional",
+      "fr": "Véhicule à carburant conventionnel",
+      "pt-BR": "Veículo a combustível convencional"
+    }
+  },
+  {
+    "id": "Car - Electric vehicle (EV)",
+    "title": {
+      "default": "Car - Electric vehicle (EV)",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Car - Bioethanol",
+    "title": {
+      "default": "Car - Bioethanol",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Car - Biodiesel",
+    "title": {
+      "default": "Car - Biodiesel",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Car - LPG-powered vehicle (liquefied petroleum gas)",
+    "title": {
+      "default": "Car - LPG-powered vehicle (liquefied petroleum gas)",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Car share (on average 2 people in vehicle)",
+    "title": {
+      "default": "Car share (on average 2 people in vehicle)",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Car share (on average 3 people in vehicle)",
+    "title": {
+      "default": "Car share (on average 3 people in vehicle)",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Car share (4 or more people)",
+    "title": {
+      "default": "Car share (4 or more people)",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Taxi - Conventional fuel vehicle: petrol (gasoline), diesel",
+    "title": {
+      "default": "Taxi - Conventional fuel vehicle: petrol (gasoline), diesel",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Taxi - Hybrid vehicle (petrol-electric)",
+    "title": {
+      "default": "Taxi - Hybrid vehicle (petrol-electric)",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Taxi - Electric vehicle (EV)",
+    "title": {
+      "default": "Taxi - Electric vehicle (EV)",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Plane",
+    "title": {
+      "default": "Plane",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Ferry",
+    "title": {
+      "default": "Ferry",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Moped",
+    "title": {
+      "default": "Moped",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Motorbike",
+    "title": {
+      "default": "Motorbike",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Other",
+    "title": {
+      "default": "Other",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  }
+]

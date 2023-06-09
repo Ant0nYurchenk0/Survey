@@ -1,0 +1,65 @@
+[
+  {
+    "id": "Electric boiler",
+    "title": {
+      "default": "Electric boiler",
+      "es": "Caldera eléctrica",
+      "fr": "Chaudière électrique",
+      "pt-BR": "Caldeira elétrica"
+    }
+  },
+  {
+    "id": "Electric space heater",
+    "title": {
+      "default": "Electric space heater",
+      "es": "Calentador de espacio eléctrico",
+      "fr": "Chauffage électrique d'appoint",
+      "pt-BR": "Aquecedor de ambiente elétrico"
+    }
+  },
+  {
+    "id": "Small plug-in electric heater",
+    "title": {
+      "default": "Small plug-in electric heater",
+      "es": "Calentador eléctrico portátil",
+      "fr": "Petit chauffage électrique",
+      "pt-BR": "Aquecedor elétrico portátil"
+    }
+  },
+  {
+    "id": "Electric blanket / throw",
+    "title": {
+      "default": "Electric blanket / throw",
+      "es": "Manta eléctrica",
+      "fr": "Couverture chauffante",
+      "pt-BR": "Cobertor elétrico"
+    }
+  },
+  {
+    "id": "Air source heat pump",
+    "title": {
+      "default": "Air source heat pump",
+      "es": "Bomba de calor de fuente de aire",
+      "fr": "Pompe à chaleur à air",
+      "pt-BR": "Bomba de calor de fonte de ar"
+    }
+  },
+  {
+    "id": "Ground source heat pump",
+    "title": {
+      "default": "Ground source heat pump",
+      "es": "Bomba de calor de fuente de tierra",
+      "fr": "Pompe à chaleur géothermique",
+      "pt-BR": "Bomba de calor de fonte de solo"
+    }
+  },
+  {
+    "id": "Water source heat pump",
+    "title": {
+      "default": "Water source heat pump",
+      "es": "Bomba de calor de fuente de agua",
+      "fr": "Pompe à chaleur à eau",
+      "pt-BR": "Bomba de calor de fonte de água"
+    }
+  }
+]

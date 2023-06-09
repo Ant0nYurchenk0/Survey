@@ -1,0 +1,74 @@
+[
+  {
+    "id": "Drenthe",
+    "title": {
+      "default": "Drenthe"
+    }
+  },
+  {
+    "id": "Flevoland",
+    "title": {
+      "default": "Flevoland"
+    }
+  },
+  {
+    "id": "Friesland",
+    "title": {
+      "default": "Friesland"
+    }
+  },
+  {
+    "id": "Gelderland",
+    "title": {
+      "default": "Gelderland"
+    }
+  },
+  {
+    "id": "Groningen",
+    "title": {
+      "default": "Groningen"
+    }
+  },
+  {
+    "id": "Limburg",
+    "title": {
+      "default": "Limburg"
+    }
+  },
+  {
+    "id": "Overijssel",
+    "title": {
+      "default": "Overijssel"
+    }
+  },
+  {
+    "id": "Noord-Brabant",
+    "title": {
+      "default": "Noord-Brabant"
+    }
+  },
+  {
+    "id": "Noord-Holland",
+    "title": {
+      "default": "Noord-Holland"
+    }
+  },
+  {
+    "id": "Utrecht",
+    "title": {
+      "default": "Utrecht"
+    }
+  },
+  {
+    "id": "Zeeland",
+    "title": {
+      "default": "Zeeland"
+    }
+  },
+  {
+    "id": "Zuid-Holland",
+    "title": {
+      "default": "Zuid-Holland"
+    }
+  }
+]

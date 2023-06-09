@@ -1,0 +1,164 @@
+[
+  {
+    "id": "Acre",
+    "title": {
+      "default": "Acre"
+    }
+  },
+  {
+    "id": "Alagoas",
+    "title": {
+      "default": "Alagoas"
+    }
+  },
+  {
+    "id": "Amapá",
+    "title": {
+      "default": "Amapá"
+    }
+  },
+  {
+    "id": "Amazonas",
+    "title": {
+      "default": "Amazonas"
+    }
+  },
+    {
+    "id": "Bahia",
+    "title": {
+      "default": "Bahia"
+    }
+  },
+  {
+    "id": "Ceará",
+    "title": {
+      "default": "Ceará"
+    }
+  },
+  {
+    "id": "Distrito Federal",
+    "title": {
+      "default": "Distrito Federal"
+    }
+  },
+  {
+    "id": "Espírito Santo",
+    "title": {
+      "default": "Espírito Santo"
+    }
+  },
+    {
+    "id": "Goiás",
+    "title": {
+      "default": "Goiás"
+    }
+  },
+  {
+    "id": "Maranhão",
+    "title": {
+      "default": "Maranhão"
+    }
+  },
+  {
+    "id": "Mato Grosso",
+    "title": {
+      "default": "Mato Grosso"
+    }
+  },
+  {
+    "id": "Mato Grosso do Sul",
+    "title": {
+      "default": "Mato Grosso do Sul"
+    }
+  },
+    {
+    "id": "Minas Gerais",
+    "title": {
+      "default": "Minas Gerais"
+    }
+  },
+  {
+    "id": "Pará",
+    "title": {
+      "default": "Pará"
+    }
+  },
+  {
+    "id": "Paraíba",
+    "title": {
+      "default": "Paraíba"
+    }
+  },
+  {
+    "id": "Paraná",
+    "title": {
+      "default": "Paraná"
+    }
+  },
+    {
+    "id": "Pernambuco",
+    "title": {
+      "default": "Pernambuco"
+    }
+  },
+  {
+    "id": "Piauí",
+    "title": {
+      "default": "Piauí"
+    }
+  },
+  {
+    "id": "Rio de Janeiro",
+    "title": {
+      "default": "Rio de Janeiro"
+    }
+  },
+  {
+    "id": "Rio Grande do Norte",
+    "title": {
+      "default": "Rio Grande do Norte"
+    }
+  },
+    {
+    "id": "Rio Grande do Sul",
+    "title": {
+      "default": "Rio Grande do Sul"
+    }
+  },
+  {
+    "id": "Rondônia",
+    "title": {
+      "default": "Rondônia"
+    }
+  },
+  {
+    "id": "Roraima",
+    "title": {
+      "default": "Roraima"
+    }
+  },
+  {
+    "id": "Santa Catarina",
+    "title": {
+      "default": "Santa Catarina"
+    }
+  },
+    {
+    "id": "São Paulo",
+    "title": {
+      "default": "São Paulo"
+    }
+  },
+  {
+    "id": "Sergipe",
+    "title": {
+      "default": "Sergipe"
+    }
+  },
+  {
+    "id": "Tocantins",
+    "title": {
+      "default": "Tocantins"
+    }
+  }
+]

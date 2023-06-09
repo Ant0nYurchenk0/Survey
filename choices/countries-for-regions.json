@@ -1,0 +1,200 @@
+[
+  {
+    "id": "argentina",
+    "title": {
+      "default": "Argentina",
+      "es": "Otro",
+      "fr": "Autre",
+      "pt-BR": "Outro"
+    }
+  },
+  {
+    "id": "brazil",
+    "title": {
+      "default": "Brazil",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "bulgaria",
+    "title": {
+      "default": "Bulgaria",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "canada",
+    "title": {
+      "default": "Canada",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "china",
+    "title": {
+      "default": "China",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "denmark",
+    "title": {
+      "default": "Denmark",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "france",
+    "title": {
+      "default": "France",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "germany",
+    "title": {
+      "default": "Germany",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "india",
+    "title": {
+      "default": "India",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "mexico",
+    "title": {
+      "default": "Mexico",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "netherlands",
+    "title": {
+      "default": "Netherlands",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "north-macedonia",
+    "title": {
+      "default": "North Macedonia",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "poland",
+    "title": {
+      "default": "Poland",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "portugal",
+    "title": {
+      "default": "Portugal",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "romania",
+    "title": {
+      "default": "Romania",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "singapore",
+    "title": {
+      "default": "Singapore",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "sweden",
+    "title": {
+      "default": "Sweden",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "switzerland",
+    "title": {
+      "default": "Switzerland",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "ukraine",
+    "title": {
+      "default": "Ukraine",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "united-arab-emirates",
+    "title": {
+      "default": "United Arab Emirates",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "united-kingdom",
+    "title": {
+      "default": "United Kingdom",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "united-states",
+    "title": {
+      "default": "United States",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  }
+]

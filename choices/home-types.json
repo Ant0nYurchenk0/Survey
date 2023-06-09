@@ -1,0 +1,47 @@
+[
+  {
+    "id": "Flat / apartment",
+    "title": {
+      "default": "Flat / apartment",
+      "es": "Piso / apartamento",
+      "fr": "Appartement",
+      "pt-BR": "Apartamento / prédio"
+    }
+  },
+  {
+    "id": "Terraced / row house / townhouse (i.e. not detached)",
+    "title": {
+      "default": "Terraced / row house / townhouse (i.e. not detached)",
+      "es": "Casa en hilera (no independiente)",
+      "fr": "Maison mitoyenne / maison en bande / maison de ville (pas individuelle)",
+      "pt-BR": "Avarandada / casario / conjugada (ou seja, não independente)"
+    }
+  },
+  {
+    "id": "Semi-detached house",
+    "title": {
+      "default": "Semi-detached house",
+      "es": "Casa semiadosada",
+      "fr": "Maison jumelée",
+      "pt-BR": "Casa geminada"
+    }
+  },
+  {
+    "id": "Detached house",
+    "title": {
+      "default": "Detached house",
+      "es": "Casa independiente",
+      "fr": "Maison individuelle",
+      "pt-BR": "Casa independente"
+    }
+  },
+  {
+    "id": "Bungalow",
+    "title": {
+      "default": "Bungalow",
+      "es": "Bungaló",
+      "fr": "Bungalow",
+      "pt-BR": "Chalé"
+    }
+  }
+]

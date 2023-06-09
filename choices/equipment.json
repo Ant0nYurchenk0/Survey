@@ -1,0 +1,110 @@
+[
+  {
+    "id": "Laptop",
+    "title": {
+      "default": "Laptop",
+      "es": "Laptop",
+      "fr": "Ordinateur portable",
+      "pt-BR": "Laptop"
+    }
+  },
+  {
+    "id": "One monitor/screen",
+    "title": {
+      "default": "One monitor/screen",
+      "es": "Un monitor/pantalla",
+      "fr": "Un moniteur/écran",
+      "pt-BR": "Um monitor/tela"
+    }
+  },
+  {
+    "id": "Second monitor/screen",
+    "title": {
+      "default": "Second monitor/screen",
+      "es": "Segundo monitor/pantalla",
+      "fr": "Deuxième moniteur/écran",
+      "pt-BR": "Segundo monitor/tela"
+    }
+  },
+  {
+    "id": "Third monitor/screen",
+    "title": {
+      "default": "Third monitor/screen",
+      "es": "Tercer monitor/pantalla",
+      "fr": "Troisième moniteur/écran",
+      "pt-BR": "Terceiro monitor/tela"
+    }
+  },
+  {
+    "id": "Desktop PC",
+    "title": {
+      "default": "Desktop PC",
+      "es": "PC de escritorio",
+      "fr": "Ordinateur de bureau",
+      "pt-BR": "Desktop PC"
+    }
+  },
+  {
+    "id": "Tablet",
+    "title": {
+      "default": "Tablet",
+      "es": "Tablet",
+      "fr": "Tablette",
+      "pt-BR": "Tablet"
+    }
+  },
+  {
+    "id": "Company owned mobile",
+    "title": {
+      "default": "Company owned mobile",
+      "es": "Móvil propiedad de la empresa",
+      "fr": "Mobile appartenant à l'entreprise",
+      "pt-BR": "Celular de propriedade da empresa"
+    }
+  },
+  {
+    "id": "Ceiling light",
+    "title": {
+      "default": "Ceiling light",
+      "es": "Luz de techo",
+      "fr": "Plafonnier",
+      "pt-BR": "Lâmpada de teto"
+    }
+  },
+  {
+    "id": "Desk lamp",
+    "title": {
+      "default": "Desk lamp",
+      "es": "Lámpara de escritorio",
+      "fr": "Lampe de bureau",
+      "pt-BR": "Lâmpada de mesa"
+    }
+  },
+  {
+    "id": "Printer",
+    "title": {
+      "default": "Printer",
+      "es": "Impresora",
+      "fr": "Imprimante",
+      "pt-BR": "Impressora"
+    }
+  },
+  {
+    "id": "Shredder",
+    "title": {
+      "default": "Shredder",
+      "es": "Trituradora",
+      "fr": "Déchiqueteuse",
+      "pt-BR": "Fragmentadora"
+    }
+  },
+  {
+    "id": "Speakers",
+    "title": {
+      "default": "Speakers",
+      "es": "Altavoces",
+      "fr": "Haut-parleurs",
+      "pt-BR": "Alto-falantes"
+    }
+  }
+]

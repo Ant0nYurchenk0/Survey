@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Aargau",
+    "title": {
+      "default": "Aargau"
+    }
+  },
+  {
+    "id": "Appenzell Ausserrhoden",
+    "title": {
+      "default": "Appenzell Ausserrhoden"
+    }
+  },
+  {
+    "id": "Appenzell Innerrhoden",
+    "title": {
+      "default": "Appenzell Innerrhoden"
+    }
+  },
+  {
+    "id": "Basel-Landschaft",
+    "title": {
+      "default": "Basel-Landschaft"
+    }
+  },
+  {
+    "id": "Basel-Stadt",
+    "title": {
+      "default": "Basel-Stadt"
+    }
+  },
+  {
+    "id": "Bern; Berne",
+    "title": {
+      "default": "Bern; Berne"
+    }
+  },
+  {
+    "id": "Fribourg; Freiburg",
+    "title": {
+      "default": "Fribourg; Freiburg"
+    }
+  },
+  {
+    "id": "Genève",
+    "title": {
+      "default": "Genève"
+    }
+  },
+  {
+    "id": "Glarus",
+    "title": {
+      "default": "Glarus"
+    }
+  },
+  {
+    "id": "Graubünden; Grischun; Grigioni",
+    "title": {
+      "default": "Graubünden; Grischun; Grigioni"
+    }
+  },
+  {
+    "id": "Jura",
+    "title": {
+      "default": "Jura"
+    }
+  },
+  {
+    "id": "Luzern",
+    "title": {
+      "default": "Luzern"
+    }
+  },
+  {
+    "id": "Neuchâtel",
+    "title": {
+      "default": "Neuchâtel"
+    }
+  },
+  {
+    "id": "Nidwalden",
+    "title": {
+      "default": "Nidwalden"
+    }
+  },
+  {
+    "id": "Obwalden",
+    "title": {
+      "default": "Obwalden"
+    }
+  },
+  {
+    "id": "Schaffhausen",
+    "title": {
+      "default": "Schaffhausen"
+    }
+  },
+  {
+    "id": "Schwyz",
+    "title": {
+      "default": "Schwyz"
+    }
+  },
+  {
+    "id": "Solothurn",
+    "title": {
+      "default": "Solothurn"
+    }
+  },
+  {
+    "id": "St. Gallen",
+    "title": {
+      "default": "St. Gallen"
+    }
+  },
+  {
+    "id": "Thurgau",
+    "title": {
+      "default": "Thurgau"
+    }
+  },
+  {
+    "id": "Ticino",
+    "title": {
+      "default": "Ticino"
+    }
+  },
+  {
+    "id": "Uri",
+    "title": {
+      "default": "Uri"
+    }
+  },
+  {
+    "id": "Valais; Wallis",
+    "title": {
+      "default": "Valais; Wallis"
+    }
+  },
+  {
+    "id": "Vaud",
+    "title": {
+      "default": "Vaud"
+    }
+  },
+  {
+    "id": "Zug",
+    "title": {
+      "default": "Zug"
+    }
+  },
+  {
+    "id": "Zürich",
+    "title": {
+      "default": "Zürich"
+    }
+  }
+]

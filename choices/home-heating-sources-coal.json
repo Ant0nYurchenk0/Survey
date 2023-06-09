@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Coal furnace",
+    "title": {
+      "default": "Coal furnace",
+      "es": "Horno de carbón",
+      "fr": "Four à charbon",
+      "pt-BR": "Fornalha a carvão"
+    }
+  },
+  {
+    "id": "Coal burner",
+    "title": {
+      "default": "Coal burner",
+      "es": "Quemador de carbón",
+      "fr": "Brûleur à charbon",
+      "pt-BR": "Queimador a carvão"
+    }
+  },
+  {
+    "id": "Coal space heater",
+    "title": {
+      "default": "Coal space heater",
+      "es": "Calentador de carbón",
+      "fr": "Chauffage d'appoint à charbon",
+      "pt-BR": "Aquecedor de ambiente a carvão"
+    }
+  },
+  {
+    "id": "Coal fireplace",
+    "title": {
+      "default": "Coal fireplace",
+      "es": "Chimenea de carbón",
+      "fr": "Cheminée à charbon",
+      "pt-BR": "Lareira a carvão"
+    }
+  }
+]

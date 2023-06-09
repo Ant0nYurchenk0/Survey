@@ -1,0 +1,29 @@
+[
+  {
+    "id": "Oil furnace",
+    "title": {
+      "default": "Oil furnace",
+      "es": "Horno de aceite",
+      "fr": "Fournaise au mazout",
+      "pt-BR": "Fornalha a gás"
+    }
+  },
+  {
+    "id": "Oil boiler",
+    "title": {
+      "default": "Oil boiler",
+      "es": "Caldera de aceite",
+      "fr": "Chaudière à mazout",
+      "pt-BR": "Caldeira a gás"
+    }
+  },
+  {
+    "id": "Oil space heater / Portable oil heater",
+    "title": {
+      "default": "Oil space heater / Portable oil heater",
+      "es": "Calentador de aceite/  Calentador de aceite portátil",
+      "fr": "Chauffage d'appoint mazout / chauffage",
+      "pt-BR": "Aquecedor de ambiente a gás / Aquecedor de gás portátil"
+    }
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "Autonomous Republic of Crimea",
+    "title": {
+      "default": "Autonomous Republic of Crimea"
+    }
+  },
+  {
+    "id": "Cherkasy Oblast",
+    "title": {
+      "default": "Cherkasy Oblast"
+    }
+  },
+    {
+    "id": "Chernihiv Oblast",
+    "title": {
+      "default": "Chernihiv Oblast"
+    }
+  },
+  {
+    "id": "Chernivtsi Oblast",
+    "title": {
+      "default": "Chernivtsi Oblast"
+    }
+  },
+  {
+    "id": "Dnipropetrovsk Oblast",
+    "title": {
+      "default": "Dnipropetrovsk Oblast"
+    }
+  },
+  {
+    "id": "Donetsk Oblast",
+    "title": {
+      "default": "Donetsk Oblast"
+    }
+  },
+    {
+    "id": "Ivano-Frankivsk Oblast",
+    "title": {
+      "default": "Ivano-Frankivsk Oblast"
+    }
+  },
+  {
+    "id": "Kharkiv Oblast",
+    "title": {
+      "default": "Kharkiv Oblast"
+    }
+  },
+    {
+    "id": "Kherson Oblast",
+    "title": {
+      "default": "Kherson Oblast"
+    }
+  },
+  {
+    "id": "Khmelnytskyi Oblast",
+    "title": {
+      "default": "Khmelnytskyi Oblast"
+    }
+  },
+  {
+    "id": "Kirovohrad Oblast",
+    "title": {
+      "default": "Kirovohrad Oblast"
+    }
+  },
+  {
+    "id": "Kyiv",
+    "title": {
+      "default": "Kyiv"
+    }
+  },
+    {
+    "id": "Kyiv Oblast",
+    "title": {
+      "default": "Kyiv Oblast"
+    }
+  },
+  {
+    "id": "Luhansk Oblast",
+    "title": {
+      "default": "Luhansk Oblast"
+    }
+  },
+    {
+    "id": "Lviv Oblast",
+    "title": {
+      "default": "Lviv Oblast"
+    }
+  },
+  {
+    "id": "Mykolaiv Oblast",
+    "title": {
+      "default": "Mykolaiv Oblast"
+    }
+  },
+  {
+    "id": "Odesa Oblast",
+    "title": {
+      "default": "Odesa Oblast"
+    }
+  },
+  {
+    "id": "Poltava Oblast",
+    "title": {
+      "default": "Poltava Oblast"
+    }
+  },
+    {
+    "id": "Rivne Oblast",
+    "title": {
+      "default": "Rivne Oblast"
+    }
+  },
+  {
+    "id": "Sevastopol",
+    "title": {
+      "default": "Sevastopol"
+    }
+  },
+    {
+    "id": "Sumy Oblast",
+    "title": {
+      "default": "Sumy Oblast"
+    }
+  },
+  {
+    "id": "Ternopil Oblast",
+    "title": {
+      "default": "Ternopil Oblast"
+    }
+  },
+  {
+    "id": "Vinnytsia Oblast",
+    "title": {
+      "default": "Vinnytsia Oblast"
+    }
+  },
+  {
+    "id": "Volyn Oblast",
+    "title": {
+      "default": "Volyn Oblast"
+    }
+  },
+    {
+    "id": "Zakarpattia Oblast",
+    "title": {
+      "default": "Zakarpattia Oblast"
+    }
+  },
+  {
+    "id": "Zaporizhzhia Oblast",
+    "title": {
+      "default": "Zaporizhzhia Oblast"
+    }
+  },
+    {
+    "id": "Zhytomyr Oblast",
+    "title": {
+      "default": "Zhytomyr Oblast"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "Gas (natural gas, propane, LPG)",
+    "title": {
+      "default": "Gas (natural gas, propane, LPG)",
+      "es": "Gas (gas natural, propano, GLP)",
+      "fr": "Gaz (gaz naturel, propane, GPL)",
+      "pt-BR": "Gás (gás natural, propano, GPL)"
+    }
+  },
+  {
+    "id": "Oil (diesel, kerosene, heating oil)",
+    "title": {
+      "default": "Oil (diesel, kerosene, heating oil)",
+      "es": "Aceite (diesel, queroseno, aceite de calefacción)",
+      "fr": "Huile (diesel, kérosène, mazout de chauffage)",
+      "pt-BR": "Óleo (diesel, querosene, óleo de aquecimento)"
+    }
+  },
+  {
+    "id": "Electricity",
+    "title": {
+      "default": "Electricity",
+      "es": "Electricidad",
+      "fr": "Électricité",
+      "pt-BR": "Eletricidade"
+    }
+  },
+  {
+    "id": "Renewable / biomass",
+    "title": {
+      "default": "Renewable / biomass",
+      "es": "Renovable / biomasa",
+      "fr": "Énergies renouvelables / biomasse",
+      "pt-BR": "Renováveis / biomassa"
+    }
+  },
+  {
+    "id": "Coal",
+    "title": {
+      "default": "Coal",
+      "es": "Carbón",
+      "fr": "Charbon",
+      "pt-BR": "Carvão"
+    }
+  },
+  {
+    "id": "District heating",
+    "title": {
+      "default": "District heating",
+      "es": "Calefacción urbana",
+      "fr": "Chauffage collectif",
+      "pt-BR": "Aquecimento urbano"
+    }
+  }
+]

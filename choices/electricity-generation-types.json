@@ -1,0 +1,65 @@
+[
+  {
+    "id": "Gas-powered generator",
+    "title": {
+      "default": "Gas-powered generator",
+      "es": "Generador de gas",
+      "fr": "Générateur à gaz",
+      "pt-BR": "Gerador a gasolina"
+    }
+  },
+  {
+    "id": "Oil-powered generator",
+    "title": {
+      "default": "Oil-powered generator",
+      "es": "Generador de aceite",
+      "fr": "Générateur au fioul",
+      "pt-BR": "Gerador a óleo"
+    }
+  },
+  {
+    "id": "Coal-powered generator",
+    "title": {
+      "default": "Coal-powered generator",
+      "es": "Generadores de carbón",
+      "fr": "Générateur à charbon",
+      "pt-BR": "Gerador a carvão"
+    }
+  },
+  {
+    "id": "Biomass-powered generator",
+    "title": {
+      "default": "Biomass-powered generator",
+      "es": "Generador alimentado por biomasa",
+      "fr": "Générateur à biomasse",
+      "pt-BR": "Gerador a biomassa/resíduos"
+    }
+  },
+  {
+    "id": "Solar panels",
+    "title": {
+      "default": "Solar panels",
+      "es": "Paneles solares",
+      "fr": "Panneaux solaires",
+      "pt-BR": "Painéis solares"
+    }
+  },
+  {
+    "id": "Wind turbine",
+    "title": {
+      "default": "Wind turbine",
+      "es": "Turbina eólica",
+      "fr": "Eolienne",
+      "pt-BR": "Energia eólica"
+    }
+  },
+  {
+    "id": "Hydroelectricity",
+    "title": {
+      "default": "Hydroelectricity",
+      "es": "Sistema hidroeléctrico",
+      "fr": "Hydroélectricité",
+      "pt-BR": "Sistema hidrelétrico"
+    }
+  }
+]

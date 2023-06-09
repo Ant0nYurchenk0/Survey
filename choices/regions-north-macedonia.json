@@ -1,0 +1,50 @@
+[
+  {
+    "id": "Eastern",
+    "title": {
+      "default": "Eastern"
+    }
+  },
+  {
+    "id": "Northeastern",
+    "title": {
+      "default": "Northeastern"
+    }
+  },
+    {
+    "id": "Pelagonia",
+    "title": {
+      "default": "Pelagonia"
+    }
+  },
+  {
+    "id": "Polog",
+    "title": {
+      "default": "Polog"
+    }
+  },
+  {
+    "id": "Skopje",
+    "title": {
+      "default": "Skopje"
+    }
+  },
+  {
+    "id": "Southeastern",
+    "title": {
+      "default": "Southeastern"
+    }
+  },
+    {
+    "id": "Southwestern",
+    "title": {
+      "default": "Southwestern"
+    }
+  },
+  {
+    "id": "Vardar",
+    "title": {
+      "default": "Vardar"
+    }
+  }
+]

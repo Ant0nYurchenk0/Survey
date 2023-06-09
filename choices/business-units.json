@@ -1,0 +1,353 @@
+[
+  {
+    "id": "Valtech Argentina (including Lyracons)",
+    "title": {
+      "default": "Valtech Argentina (including Lyracons)",
+      "es": "Valtech Argentina (including Lyracons)",
+      "fr": "Valtech Argentina (including Lyracons)",
+      "pt-BR": "Valtech Argentina (including Lyracons)"
+    }
+  },
+  {
+    "id": "Valtech Brazil",
+    "title": {
+      "default": "Valtech Brazil",
+      "es": "Valtech Brazil",
+      "fr": "Valtech Brazil",
+      "pt-BR": "Valtech Brazil"
+    }
+  },
+  {
+    "id": "bulgaria",
+    "title": {
+      "default": "Valtech Bulgaria",
+      "es": "Valtech Bulgaria",
+      "fr": "Valtech Bulgaria",
+      "pt-BR": "Valtech Bulgaria"
+    }
+  },
+  {
+    "id": "canada",
+    "title": {
+      "default": "Valtech Canada",
+      "es": "Valtech Canada",
+      "fr": "Valtech Canada",
+      "pt-BR": "Valtech Canada"
+    }
+  },
+  {
+    "id": "Valtech China",
+    "title": {
+      "default": "Valtech China",
+      "es": "Valtech China",
+      "fr": "Valtech China",
+      "pt-BR": "Valtech China"
+    }
+  },
+  {
+    "id": "Valtech Denmark",
+    "title": {
+      "default": "Valtech Denmark",
+      "es": "Valtech Denmark",
+      "fr": "Valtech Denmark",
+      "pt-BR": "Valtech Denmark"
+    }
+  },
+  {
+    "id": "Valtech Dubai (UAE)",
+    "title": {
+      "default": "Valtech Dubai (UAE)",
+      "es": "Valtech Dubai (UAE)",
+      "fr": "Valtech Dubai (UAE)",
+      "pt-BR": "Valtech Dubai (UAE)"
+    }
+  },
+  {
+    "id": "Valtech France",
+    "title": {
+      "default": "Valtech France",
+      "es": "Valtech France",
+      "fr": "Valtech France",
+      "pt-BR": "Valtech France"
+    }
+  },
+  {
+    "id": "Valtech Germany",
+    "title": {
+      "default": "Valtech Germany",
+      "es": "Valtech Germany",
+      "fr": "Valtech Germany",
+      "pt-BR": "Valtech Germany"
+    }
+  },
+  {
+    "id": "Valtech India",
+    "title": {
+      "default": "Valtech India",
+      "es": "Valtech India",
+      "fr": "Valtech India",
+      "pt-BR": "Valtech India"
+    }
+  },
+  {
+    "id": "Valtech Mexico",
+    "title": {
+      "default": "Valtech Mexico",
+      "es": "Valtech Mexico",
+      "fr": "Valtech Mexico",
+      "pt-BR": "Valtech Mexico"
+    }
+  },
+  {
+    "id": "Valtech Netherlands",
+    "title": {
+      "default": "Valtech Netherlands",
+      "es": "Valtech Netherlands",
+      "fr": "Valtech Netherlands",
+      "pt-BR": "Valtech Netherlands"
+    }
+  },
+  {
+    "id": "Valtech North Macedonia",
+    "title": {
+      "default": "Valtech North Macedonia",
+      "es": "Valtech North Macedonia",
+      "fr": "Valtech North Macedonia",
+      "pt-BR": "Valtech North Macedonia"
+    }
+  },
+  {
+    "id": "Valtech Poland",
+    "title": {
+      "default": "Valtech Poland",
+      "es": "Valtech Poland",
+      "fr": "Valtech Poland",
+      "pt-BR": "Valtech Poland"
+    }
+  },
+  {
+    "id": "Valtech Portugal",
+    "title": {
+      "default": "Valtech Portugal",
+      "es": "Valtech Portugal",
+      "fr": "Valtech Portugal",
+      "pt-BR": "Valtech Portugal"
+    }
+  },
+  {
+    "id": "Valtech Romania",
+    "title": {
+      "default": "Valtech Romania",
+      "es": "Valtech Romania",
+      "fr": "Valtech Romania",
+      "pt-BR": "Valtech Romania"
+    }
+  },
+  {
+    "id": "Valtech Singapore",
+    "title": {
+      "default": "Valtech Singapore",
+      "es": "Valtech Singapore",
+      "fr": "Valtech Singapore",
+      "pt-BR": "Valtech Singapore"
+    }
+  },
+  {
+    "id": "Valtech Sweden",
+    "title": {
+      "default": "Valtech Sweden",
+      "es": "Valtech Sweden",
+      "fr": "Valtech Sweden",
+      "pt-BR": "Valtech Sweden"
+    }
+  },
+  {
+    "id": "Valtech Switzerland",
+    "title": {
+      "default": "Valtech Switzerland",
+      "es": "Valtech Switzerland",
+      "fr": "Valtech Switzerland",
+      "pt-BR": "Valtech Switzerland"
+    }
+  },
+  {
+    "id": "uk",
+    "title": {
+      "default": "Valtech UK",
+      "es": "Valtech UK",
+      "fr": "Valtech UK",
+      "pt-BR": "Valtech UK"
+    }
+  },
+  {
+    "id": "Valtech Ukraine",
+    "title": {
+      "default": "Valtech Ukraine",
+      "es": "Valtech Ukraine",
+      "fr": "Valtech Ukraine",
+      "pt-BR": "Valtech Ukraine"
+    }
+  },
+  {
+    "id": "Valtech US",
+    "title": {
+      "default": "Valtech US",
+      "es": "Valtech US",
+      "fr": "Valtech US",
+      "pt-BR": "Valtech US"
+    }
+  },
+  {
+    "id": "Valtech_Radon",
+    "title": {
+      "default": "Valtech_Radon",
+      "es": "Valtech",
+      "fr": "Valtech",
+      "pt-BR": "Valtech"
+    }
+  },
+  {
+    "id": "Valtech_Tome",
+    "title": {
+      "default": "Valtech_Tome",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Valtech_Union",
+    "title": {
+      "default": "Valtech_Union",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "AMER_Commerce Service Line (e.g. Absolunet)",
+    "title": {
+      "default": "AMER_Commerce Service Line (e.g. Absolunet)",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "AMER_Inside Service Line",
+    "title": {
+      "default": "AMER_Inside Service Line",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "AMER_Salesforce Service Line (e.g. CloudCO, Wings)",
+    "title": {
+      "default": "AMER_Salesforce Service Line (e.g. CloudCO, Wings)",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "EUR_CoSDaT Service Line (e.g. eCapacity)",
+    "title": {
+      "default": "EUR_CoSDaT Service Line (e.g. eCapacity)",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "EUR_Salesforce Service Line (e.g. Appsolutely)",
+    "title": {
+      "default": "EUR_Salesforce Service Line (e.g. Appsolutely)",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "EUR_B2B_Commerce Service Line (e.g. Evident)",
+    "title": {
+      "default": "EUR_B2B_Commerce Service Line (e.g. Evident)",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "APAC_Salesforce Service Line",
+    "title": {
+      "default": "APAC_Salesforce Service Line",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "APAC_Mobility Service Line",
+    "title": {
+      "default": "APAC_Mobility Service Line",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Regional Team - North America",
+    "title": {
+      "default": "Regional Team - North America",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Regional Team - LATAM",
+    "title": {
+      "default": "Regional Team - LATAM",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Regional Team - APMENA",
+    "title": {
+      "default": "Regional Team - APMENA",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Regional Team - Europe",
+    "title": {
+      "default": "Regional Team - Europe",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Global Client Projects (former VGP)",
+    "title": {
+      "default": "Global Client Projects (former VGP)",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Global Team",
+    "title": {
+      "default": "Global Team",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "January",
+    "title": {
+      "default": "January",
+      "es": "Enero",
+      "fr": "Janvier",
+      "pt-BR": "Janeiro"
+    }
+  },
+  {
+    "id": "February",
+    "title": {
+      "default": "February",
+      "es": "Febrero",
+      "fr": "Février",
+      "pt-BR": "Fevereiro"
+    }
+  },
+  {
+    "id": "March",
+    "title": {
+      "default": "March",
+      "es": "Marzo",
+      "fr": "Mars",
+      "pt-BR": "Março"
+    }
+  },
+  {
+    "id": "April",
+    "title": {
+      "default": "April",
+      "es": "Abril",
+      "fr": "Avril",
+      "pt-BR": "Abril"
+    }
+  },
+  {
+    "id": "May",
+    "title": {
+      "default": "May",
+      "es": "Mayo",
+      "fr": "Mai",
+      "pt-BR": "Maio"
+    }
+  },
+  {
+    "id": "June",
+    "title": {
+      "default": "June",
+      "es": "Junio",
+      "fr": "Juin",
+      "pt-BR": "Junho"
+    }
+  },
+  {
+    "id": "July",
+    "title": {
+      "default": "July",
+      "es": "Julio",
+      "fr": "Juillet",
+      "pt-BR": "Julho"
+    }
+  },
+  {
+    "id": "August",
+    "title": {
+      "default": "August",
+      "es": "Agosto",
+      "fr": "Août",
+      "pt-BR": "Agosto"
+    }
+  },
+  {
+    "id": "September",
+    "title": {
+      "default": "September",
+      "es": "Septiembre",
+      "fr": "Septembre",
+      "pt-BR": "Setembro"
+    }
+  },
+  {
+    "id": "October",
+    "title": {
+      "default": "October",
+      "es": "Octubre",
+      "fr": "Octobre",
+      "pt-BR": "Outubro"
+    }
+  },
+  {
+    "id": "November",
+    "title": {
+      "default": "November",
+      "es": "Noviembre",
+      "fr": "Novembre",
+      "pt-BR": "Novembro"
+    }
+  },
+  {
+    "id": "December",
+    "title": {
+      "default": "December",
+      "es": "Diciembre",
+      "fr": "Décembre",
+      "pt-BR": "Dezembro"
+    }
+  }
+]

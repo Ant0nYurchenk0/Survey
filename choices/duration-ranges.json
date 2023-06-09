@@ -1,0 +1,137 @@
+[
+  {
+    "id": "0-1",
+    "title": {
+      "default": "0–1 hour",
+      "es": "0–1 hora",
+      "fr": "0–1 heure",
+      "pt-BR": "0–1 hora"
+    }
+  },
+  {
+    "id": "1-2",
+    "title": {
+      "default": "1–2 hours",
+      "es": "1–2 horas",
+      "fr": "1–2 heures",
+      "pt-BR": "1–2 horas"
+    }
+  },
+  {
+    "id": "2-3",
+    "title": {
+      "default": "2–3 hours",
+      "es": "2–3 horas",
+      "fr": "2–3 heures",
+      "pt-BR": "2–3 horas"
+    }
+  },
+  {
+    "id": "3-4",
+    "title": {
+      "default": "3–4 hours",
+      "es": "3–4 horas",
+      "fr": "3–4 heures",
+      "pt-BR": "3–4 horas"
+    }
+  },
+  {
+    "id": "4-5",
+    "title": {
+      "default": "4–5 hours",
+      "es": "4–5 horas",
+      "fr": "4–5 heures",
+      "pt-BR": "4–5 horas"
+    }
+  },
+  {
+    "id": "5-6",
+    "title": {
+      "default": "5–6 hours",
+      "es": "5–6 horas",
+      "fr": "5–6 heures",
+      "pt-BR": "5–6 horas"
+    }
+  },
+  {
+    "id": "6-7",
+    "title": {
+      "default": "6–7 hours",
+      "es": "6–7 horas",
+      "fr": "6–7 heures",
+      "pt-BR": "6–7 horas"
+    }
+  },
+  {
+    "id": "7-8",
+    "title": {
+      "default": "7–8 hours",
+      "es": "7–8 horas",
+      "fr": "7–8 heures",
+      "pt-BR": "7–8 horas"
+    }
+  },
+  {
+    "id": "8-9",
+    "title": {
+      "default": "8–9 hours",
+      "es": "8–9 horas",
+      "fr": "8–9 heures",
+      "pt-BR": "8–9 horas"
+    }
+  },
+  {
+    "id": "9-10",
+    "title": {
+      "default": "9–10 hours",
+      "es": "9–10 horas",
+      "fr": "9–10 heures",
+      "pt-BR": "9–10 horas"
+    }
+  },
+  {
+    "id": "10-11",
+    "title": {
+      "default": "10–11 hours",
+      "es": "10–11 horas",
+      "fr": "10–11 heures",
+      "pt-BR": "10–11 horas"
+    }
+  },
+  {
+    "id": "11-12",
+    "title": {
+      "default": "11–12 hours",
+      "es": "11–12 horas",
+      "fr": "11–12 heures",
+      "pt-BR": "11–12 horas"
+    }
+  },
+  {
+    "id": "12-13",
+    "title": {
+      "default": "12–13 hours",
+      "es": "12–13 horas",
+      "fr": "12–13 heures",
+      "pt-BR": "12–13 horas"
+    }
+  },
+  {
+    "id": "13-14",
+    "title": {
+      "default": "13–14 hours",
+      "es": "13–14 horas",
+      "fr": "13–14 heures",
+      "pt-BR": "13–14 horas"
+    }
+  },
+  {
+    "id": "14-plus",
+    "title": {
+      "default": "over 14 hours",
+      "es": "más de 14 horas",
+      "fr": "plus de 14 heures",
+      "pt-BR": "mais de 14 horas"
+    }
+  }
+]

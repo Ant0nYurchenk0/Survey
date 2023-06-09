@@ -1,0 +1,44 @@
+[
+  {
+    "id": "Abu Dhabi",
+    "title": {
+      "default": "Abu Dhabi"
+    }
+  },
+  {
+    "id": "Ajman",
+    "title": {
+      "default": "Ajman"
+    }
+  },
+    {
+    "id": "Dubai",
+    "title": {
+      "default": "Dubai"
+    }
+  },
+  {
+    "id": "Fujairah",
+    "title": {
+      "default": "Fujairah"
+    }
+  },
+  {
+    "id": "Ras Al Khaimah",
+    "title": {
+      "default": "Ras Al Khaimah"
+    }
+  },
+  {
+    "id": "Sharjah",
+    "title": {
+      "default": "Sharjah"
+    }
+  },
+  {
+    "id": "Umm Al Quwain",
+    "title": {
+      "default": "Umm Al Quwain"
+    }
+  }
+]

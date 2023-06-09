@@ -1,0 +1,122 @@
+[
+  {
+    "id": "Azores",
+    "title": {
+      "default": "Azores"
+    }
+  },
+  {
+    "id": "Aveiro",
+    "title": {
+      "default": "Aveiro"
+    }
+  },
+  {
+    "id": "Beja",
+    "title": {
+      "default": "Beja"
+    }
+  },
+  {
+    "id": "Braga",
+    "title": {
+      "default": "Braga"
+    }
+  },
+  {
+    "id": "Bragança",
+    "title": {
+      "default": "Bragança"
+    }
+  },
+  {
+    "id": "Castelo Branco",
+    "title": {
+      "default": "Castelo Branco"
+    }
+  },
+  {
+    "id": "Coimbra",
+    "title": {
+      "default": "Coimbra"
+    }
+  },
+  {
+    "id": "Évora",
+    "title": {
+      "default": "Évora"
+    }
+  },
+  {
+    "id": "Faro",
+    "title": {
+      "default": "Faro"
+    }
+  },
+  {
+    "id": "Guarda",
+    "title": {
+      "default": "Guarda"
+    }
+  },
+  {
+    "id": "Leiria",
+    "title": {
+      "default": "Leiria"
+    }
+  },
+  {
+    "id": "Lisboa",
+    "title": {
+      "default": "Lisboa"
+    }
+  },
+  {
+    "id": "Madeira",
+    "title": {
+      "default": "Madeira"
+    }
+  },
+  {
+    "id": "Portalegre",
+    "title": {
+      "default": "Portalegre"
+    }
+  },
+  {
+    "id": "Porto",
+    "title": {
+      "default": "Porto"
+    }
+  },
+  {
+    "id": "Santarém",
+    "title": {
+      "default": "Santarém"
+    }
+  },
+  {
+    "id": "Setúbal",
+    "title": {
+      "default": "Setúbal"
+    }
+  },
+  {
+    "id": "Viana do Castelo",
+    "title": {
+      "default": "Viana do Castelo"
+    }
+  },
+  {
+    "id": "Vila Real",
+    "title": {
+      "default": "Vila Real"
+    }
+  },
+  {
+    "id": "Viseu",
+    "title": {
+      "default": "Viseu"
+    }
+  }
+]

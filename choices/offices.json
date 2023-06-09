@@ -1,0 +1,497 @@
+[
+  {
+    "id": "Argentina - Buenos Aires - Av. Gaona (Ramos Mejía)",
+    "title": {
+      "default": "Argentina - Buenos Aires - Av. Gaona (Ramos Mejía)",
+      "es": "Lista de oficinas",
+      "fr": "Autre [préciser]",
+      "pt-BR": "Outros [especificar]"
+    }
+  },
+  {
+    "id": "Argentina - Buenos Aires - Esteban de Luca (Parque Patricios)",
+    "title": {
+      "default": "Argentina - Buenos Aires - Esteban de Luca (Parque Patricios)",
+      "es": "Otros [especificar]",
+      "fr": "Inclure \"Je n'ai pas de bureau de base\" en option",
+      "pt-BR": "Incluir como opção \"Não tenho escritório base\""
+    }
+  },
+  {
+    "id": "Brazil - São Paulo - Rua Senador César Lacerda de Vergueiro",
+    "title": {
+      "default": "Brazil - São Paulo - Rua Senador César Lacerda de Vergueiro",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Brazil - São Paulo - Rua Jardim Deputado José Armando Affonseca",
+    "title": {
+      "default": "Brazil - São Paulo - Rua Jardim Deputado José Armando Affonseca",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Brazil - São Paulo - Rua Bruxelas",
+    "title": {
+      "default": "Brazil - São Paulo - Rua Bruxelas",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Brazil - Florianópolis - Rua Cristóvão Nunes Pires",
+    "title": {
+      "default": "Brazil - Florianópolis - Rua Cristóvão Nunes Pires",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Canada - Ste Thérèse - Sicard St",
+    "title": {
+      "default": "Canada - Ste Thérèse - Sicard St",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Canada - Montréal - St Laurent Boulevard",
+    "title": {
+      "default": "Canada - Montréal - St Laurent Boulevard",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Canada - Toronto - Spadina Avenue",
+    "title": {
+      "default": "Canada - Toronto - Spadina Avenue",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "China - Shanghai - South Maoming Road",
+    "title": {
+      "default": "China - Shanghai - South Maoming Road",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Denmark - Aarhus - Åboulevarden",
+    "title": {
+      "default": "Denmark - Aarhus - Åboulevarden",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Denmark - Copenhagen - Kanonbådsvej",
+    "title": {
+      "default": "Denmark - Copenhagen - Kanonbådsvej",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Denmark - Copenhagen - Bernstorffsgade",
+    "title": {
+      "default": "Denmark - Copenhagen - Bernstorffsgade",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "France - Paris - Rue de Courcelles",
+    "title": {
+      "default": "France - Paris - Rue de Courcelles",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "France - Paris - Rue des Jeuneurs",
+    "title": {
+      "default": "France - Paris - Rue des Jeuneurs",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Germany - Köln - Anna-Schneider-Steig",
+    "title": {
+      "default": "Germany - Köln - Anna-Schneider-Steig",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Germany - Düsseldorf - Toulouser Allee",
+    "title": {
+      "default": "Germany - Düsseldorf - Toulouser Allee",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Germany - München - Friedenheimer Brücke",
+    "title": {
+      "default": "Germany - München - Friedenheimer Brücke",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Germany - Hamburg - Harkortstraße",
+    "title": {
+      "default": "Germany - Hamburg - Harkortstraße",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "India - Gurugram - Unitech Cyber Park",
+    "title": {
+      "default": "India - Gurugram - Unitech Cyber Park",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "India - Bengaluru - Main Road",
+    "title": {
+      "default": "India - Bengaluru - Main Road",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Mexico - Ciudad de México - Calle Bajío",
+    "title": {
+      "default": "Mexico - Ciudad de México - Calle Bajío",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Netherlands - Amersfoort - Amsterdamseweg",
+    "title": {
+      "default": "Netherlands - Amersfoort - Amsterdamseweg",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Netherlands - Amsterdam - Paul van Vlissingenstraat",
+    "title": {
+      "default": "Netherlands - Amsterdam - Paul van Vlissingenstraat",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Netherlands - Eindhoven - Essenstraat",
+    "title": {
+      "default": "Netherlands - Eindhoven - Essenstraat",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Netherlands - Utrecht - Kanaalweg",
+    "title": {
+      "default": "Netherlands - Utrecht - Kanaalweg",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Netherlands - Utrecht - Nijverheidsweg",
+    "title": {
+      "default": "Netherlands - Utrecht - Nijverheidsweg",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "North Macedonia - Skopje - Stoltenbergova",
+    "title": {
+      "default": "North Macedonia - Skopje - Stoltenbergova",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "North Macedonia - Bitola - Prilepska",
+    "title": {
+      "default": "North Macedonia - Bitola - Prilepska",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Portugal - Lisbon - Campo Pequeno",
+    "title": {
+      "default": "Portugal - Lisbon - Campo Pequeno",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Singapore - Keong Saik Road",
+    "title": {
+      "default": "Singapore - Keong Saik Road",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Sweden - Gothenburg - Kyrkogatan",
+    "title": {
+      "default": "Sweden - Gothenburg - Kyrkogatan",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Sweden - Stockholm - Hantverkargatan",
+    "title": {
+      "default": "Sweden - Stockholm - Hantverkargatan",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Sweden - Stockholm - Regeringsgatan",
+    "title": {
+      "default": "Sweden - Stockholm - Regeringsgatan",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Switzerland - Baden - Stadtturmstraße",
+    "title": {
+      "default": "Switzerland - Baden - Stadtturmstraße",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Switzerland - Bern - Christoffelgasse",
+    "title": {
+      "default": "Switzerland - Bern - Christoffelgasse",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Switzerland - Geneva - Route de Saint-Julien",
+    "title": {
+      "default": "Switzerland - Geneva - Route de Saint-Julien",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "UAE - Dubai - Dubai Internet City",
+    "title": {
+      "default": "UAE - Dubai - Dubai Internet City",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Ukraine - Chernihiv - Peremohy Avenue",
+    "title": {
+      "default": "Ukraine - Chernihiv - Peremohy Avenue",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Ukraine - Chernihiv - Zavodska St",
+    "title": {
+      "default": "Ukraine - Chernihiv - Zavodska St",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Ukraine - Chernivtsi - Vynnychenka St",
+    "title": {
+      "default": "Ukraine - Chernivtsi - Vynnychenka St",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Ukraine - Dnipro - Barykadna St",
+    "title": {
+      "default": "Ukraine - Dnipro - Barykadna St",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Ukraine - Kyiv - Verkhniy Val St",
+    "title": {
+      "default": "Ukraine - Kyiv - Verkhniy Val St",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "Ukraine - Vinnytsia - Keletska St",
+    "title": {
+      "default": "Ukraine - Vinnytsia - Keletska St",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "UK - Bristol - Keynsham Road",
+    "title": {
+      "default": "UK - Bristol - Keynsham Road",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "UK - London - Colebrooke Row",
+    "title": {
+      "default": "UK - London - Colebrooke Row",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "UK - Manchester - Basil Chambers (High Street)",
+    "title": {
+      "default": "UK - Manchester - Basil Chambers (High Street)",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "USA - Baltimore - Falls Road",
+    "title": {
+      "default": "USA - Baltimore - Falls Road",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "USA - Charlotte - Morehead Street",
+    "title": {
+      "default": "USA - Charlotte - Morehead Street",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "USA - Chicago - South Sangamon Street",
+    "title": {
+      "default": "USA - Chicago - South Sangamon Street",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "USA - Dallas - Windrose Avenue",
+    "title": {
+      "default": "USA - Dallas - Windrose Avenue",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "USA - Kansas City - Walnut Street",
+    "title": {
+      "default": "USA - Kansas City - Walnut Street",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "USA - New York - West 13th Street",
+    "title": {
+      "default": "USA - New York - West 13th Street",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "USA - Royal Oak (Detroit) - W 4th Street",
+    "title": {
+      "default": "USA - Royal Oak (Detroit) - W 4th Street",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  },
+  {
+    "id": "none",
+    "title": {
+      "default": "I don't have a base office",
+      "es": "",
+      "fr": "",
+      "pt-BR": ""
+    }
+  }
+]

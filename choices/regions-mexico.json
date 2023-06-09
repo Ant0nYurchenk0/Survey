@@ -1,0 +1,194 @@
+[
+  {
+    "id": "Aguascalientes",
+    "title": {
+      "default": "Aguascalientes"
+    }
+  },
+  {
+    "id": "Baja California",
+    "title": {
+      "default": "Baja California"
+    }
+  },
+  {
+    "id": "Baja California Sur",
+    "title": {
+      "default": "Baja California Sur"
+    }
+  },
+  {
+    "id": "Campeche",
+    "title": {
+      "default": "Campeche"
+    }
+  },
+   {
+    "id": "Chiapas",
+    "title": {
+      "default": "Chiapas"
+    }
+  },
+  {
+    "id": "Chihuahua",
+    "title": {
+      "default": "Chihuahua"
+    }
+  },
+  {
+    "id": "Ciudad de México",
+    "title": {
+      "default": "Ciudad de México"
+    }
+  },
+  {
+    "id": "Coahuila",
+    "title": {
+      "default": "Coahuila"
+    }
+  },
+  {
+    "id": "Colima",
+    "title": {
+      "default": "Colima"
+    }
+  },
+  {
+    "id": "Durango",
+    "title": {
+      "default": "Durango"
+    }
+  },
+  {
+    "id": "Estado de México",
+    "title": {
+      "default": "Estado de México"
+    }
+  },
+  {
+    "id": "Guanajuato",
+    "title": {
+      "default": "Guanajuato"
+    }
+  },
+  {
+    "id": "Guerrero",
+    "title": {
+      "default": "Guerrero"
+    }
+  },
+  {
+    "id": "Hidalgo",
+    "title": {
+      "default": "Hidalgo"
+    }
+  },
+  {
+    "id": "Jalisco",
+    "title": {
+      "default": "Jalisco"
+    }
+  },
+  {
+    "id": "Michoacán",
+    "title": {
+      "default": "Michoacán"
+    }
+  },
+  {
+    "id": "Morelos",
+    "title": {
+      "default": "Morelos"
+    }
+  },
+  {
+    "id": "Nayarit",
+    "title": {
+      "default": "Nayarit"
+    }
+  },
+  {
+    "id": "Nuevo León",
+    "title": {
+      "default": "Nuevo León"
+    }
+  },
+  {
+    "id": "Oaxaca",
+    "title": {
+      "default": "Oaxaca"
+    }
+  },
+  {
+    "id": "Puebla",
+    "title": {
+      "default": "Puebla"
+    }
+  },
+  {
+    "id": "Querétaro",
+    "title": {
+      "default": "Querétaro"
+    }
+  },
+  {
+    "id": "Quintana Roo",
+    "title": {
+      "default": "Quintana Roo"
+    }
+  },
+  {
+    "id": "San Luis Potosí",
+    "title": {
+      "default": "San Luis Potosí"
+    }
+  },
+    {
+    "id": "Sinaloa",
+    "title": {
+      "default": "Sinaloa"
+    }
+  },
+  {
+    "id": "Sonora",
+    "title": {
+      "default": "Sonora"
+    }
+  },   
+  {
+    "id": "Tabasco",
+    "title": {
+      "default": "Tabasco"
+    }
+  },
+  {
+    "id": "Tamaulipas",
+    "title": {
+      "default": "Tamaulipas"
+    }
+  },   
+    {
+    "id": "Tlaxcala",
+    "title": {
+      "default": "Tlaxcala"
+    }
+  },
+  {
+    "id": "Veracruz",
+    "title": {
+      "default": "Veracruz"
+    }
+  },   
+    {
+    "id": "Yucatán",
+    "title": {
+      "default": "Yucatán"
+    }
+  },
+  {
+    "id": "Zacatecas",
+    "title": {
+      "default": "Zacatecas"
+    }
+  }                     
+]

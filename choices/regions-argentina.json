@@ -1,0 +1,146 @@
+[
+  {
+    "id": "Ciudad Autónoma de Buenos Aires",
+    "title": {
+      "default": "Ciudad Autónoma de Buenos Aires"
+    }
+  },
+  {
+    "id": "Buenos Aires",
+    "title": {
+      "default": "Buenos Aires"
+    }
+  },
+  {
+    "id": "Catamarca",
+    "title": {
+      "default": "Catamarca"
+    }
+  },
+  {
+    "id": "Chaco",
+    "title": {
+      "default": "Chaco"
+    }
+  },
+  {
+    "id": "Chubut",
+    "title": {
+      "default": "Chubut"
+    }
+  },
+  {
+    "id": "Córdoba",
+    "title": {
+      "default": "Córdoba"
+    }
+  },
+  {
+    "id": "Corrientes",
+    "title": {
+      "default": "Corrientes"
+    }
+  },
+  {
+    "id": "Entre Ríos",
+    "title": {
+      "default": "Entre Ríos"
+    }
+  },
+  {
+    "id": "Formosa",
+    "title": {
+      "default": "Formosa"
+    }
+  },
+  {
+    "id": "Jujuy",
+    "title": {
+      "default": "Jujuy"
+    }
+  },
+    {
+    "id": "La Pampa",
+    "title": {
+      "default": "La Pampa"
+    }
+  },
+  {
+    "id": "La Rioja",
+    "title": {
+      "default": "La Rioja"
+    }
+  },
+    {
+    "id": "Mendoza",
+    "title": {
+      "default": "Mendoza"
+    }
+  },
+  {
+    "id": "Misiones",
+    "title": {
+      "default": "Misiones"
+    }
+  },
+    {
+    "id": "Neuquén",
+    "title": {
+      "default": "Neuquén"
+    }
+  },
+  {
+    "id": "Río Negro",
+    "title": {
+      "default": "Río Negro"
+    }
+  },
+    {
+    "id": "Salta",
+    "title": {
+      "default": "Salta"
+    }
+  },
+  {
+    "id": "San Juan",
+    "title": {
+      "default": "San Juan"
+    }
+  },
+    {
+    "id": "San Luis",
+    "title": {
+      "default": "San Luis"
+    }
+  },
+  {
+    "id": "Santa Cruz",
+    "title": {
+      "default": "Santa Cruz"
+    }
+  },
+    {
+    "id": "Santa Fe",
+    "title": {
+      "default": "Santa Fe"
+    }
+  },
+  {
+    "id": "Santiago del Estero",
+    "title": {
+      "default": "Santiago del Estero"
+    }
+  },
+  {
+    "id": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+    "title": {
+      "default": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+    }
+  },
+  {
+    "id": "Tucumán",
+    "title": {
+      "default": "Tucumán"
+    }
+  }
+]

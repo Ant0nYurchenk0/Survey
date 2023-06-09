@@ -1,0 +1,74 @@
+[
+  {
+    "id": "Cymru Wales",
+    "title": {
+      "default": "Cymru Wales"
+    }
+  },
+  {
+    "id": "East Midlands",
+    "title": {
+      "default": "East Midlands"
+    }
+  },
+    {
+    "id": "East of England",
+    "title": {
+      "default": "East of England"
+    }
+  },
+  {
+    "id": "London",
+    "title": {
+      "default": "London"
+    }
+  },
+  {
+    "id": "North East and Cumbria",
+    "title": {
+      "default": "North East and Cumbria"
+    }
+  },
+  {
+    "id": "North West",
+    "title": {
+      "default": "North West"
+    }
+  },
+    {
+    "id": "Northern Ireland",
+    "title": {
+      "default": "Northern Ireland"
+    }
+  },
+  {
+    "id": "Scotland",
+    "title": {
+      "default": "Scotland"
+    }
+  },
+    {
+    "id": "South East",
+    "title": {
+      "default": "South East"
+    }
+  },
+  {
+    "id": "South West",
+    "title": {
+      "default": "South West"
+    }
+  },
+  {
+    "id": "West Midlands",
+    "title": {
+      "default": "West Midlands"
+    }
+  },
+  {
+    "id": "Yorkshire and the Humber",
+    "title": {
+      "default": "Yorkshire and the Humber"
+    }
+  }
+]

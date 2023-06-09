@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Solar heating (hot water system)",
+    "title": {
+      "default": "Solar heating (hot water system)",
+      "es": "Calefacción solar (sistema de agua caliente)",
+      "fr": "Chauffage solaire (système d'eau chaude)",
+      "pt-BR": "Aquecimento solar (sistema de água quente)"
+    }
+  },
+  {
+    "id": "Wood burner system (logs, pellets, chips)",
+    "title": {
+      "default": "Wood burner system (logs, pellets, chips)",
+      "es": "Sistema de quemador de madera (troncos, pellets, astillas)",
+      "fr": "Système de poêle à bois (bûches, granulés, copeaux)",
+      "pt-BR": "Sistema de queimador de madeira (toras, pellets, cavacos)"
+    }
+  },
+  {
+    "id": "Geothermal (natural, not electric heat pump)",
+    "title": {
+      "default": "Geothermal (natural, not electric heat pump)",
+      "es": "Geotérmica (natural, no bomba de calor eléctrica)",
+      "fr": "Géothermie (naturelle, pas de pompe à chaleur électrique)",
+      "pt-BR": "Geotérmica (natural, não bomba de calor elétrica)"
+    }
+  },
+  {
+    "id": "Hydrogen fuel cells",
+    "title": {
+      "default": "Hydrogen fuel cells",
+      "es": "Pilas de combustible de hidrógeno",
+      "fr": "Piles à combustible à hydrogène",
+      "pt-BR": "Células de combustível de hidrogênio"
+    }
+  }
+]

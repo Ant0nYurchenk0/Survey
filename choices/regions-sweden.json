@@ -1,0 +1,128 @@
+[
+  {
+    "id": "Blekinge",
+    "title": {
+      "default": "Blekinge"
+    }
+  },
+  {
+    "id": "Dalarna",
+    "title": {
+      "default": "Dalarna"
+    }
+  },
+    {
+    "id": "Gävleborg",
+    "title": {
+      "default": "Gävleborg"
+    }
+  },
+  {
+    "id": "Gotland",
+    "title": {
+      "default": "Gotland"
+    }
+  },
+  {
+    "id": "Halland",
+    "title": {
+      "default": "Halland"
+    }
+  },
+  {
+    "id": "Jämtland",
+    "title": {
+      "default": "Jämtland"
+    }
+  },
+    {
+    "id": "Jönköping",
+    "title": {
+      "default": "Jönköping"
+    }
+  },
+  {
+    "id": "Kalmar",
+    "title": {
+      "default": "Kalmar"
+    }
+  },
+    {
+    "id": "Kronoberg",
+    "title": {
+      "default": "Kronoberg"
+    }
+  },
+  {
+    "id": "Norrbotten",
+    "title": {
+      "default": "Norrbotten"
+    }
+  },
+  {
+    "id": "Örebro",
+    "title": {
+      "default": "Örebro"
+    }
+  },
+  {
+    "id": "Östergötland",
+    "title": {
+      "default": "Östergötland"
+    }
+  },
+    {
+    "id": "Skåne",
+    "title": {
+      "default": "Skåne"
+    }
+  },
+  {
+    "id": "Södermanland",
+    "title": {
+      "default": "Södermanland"
+    }
+  },
+    {
+    "id": "Stockholm",
+    "title": {
+      "default": "Stockholm"
+    }
+  },
+  {
+    "id": "Uppsala",
+    "title": {
+      "default": "Uppsala"
+    }
+  },
+  {
+    "id": "Värmland",
+    "title": {
+      "default": "Värmland"
+    }
+  },
+  {
+    "id": "Västerbotten",
+    "title": {
+      "default": "Västerbotten"
+    }
+  },
+    {
+    "id": "Västernorrland",
+    "title": {
+      "default": "Västernorrland"
+    }
+  },
+  {
+    "id": "Västmanland",
+    "title": {
+      "default": "Västmanland"
+    }
+  },
+    {
+    "id": "Västra Götaland",
+    "title": {
+      "default": "Västra Götaland"
+    }
+  }
+]

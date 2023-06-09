@@ -1,0 +1,128 @@
+[
+  {
+    "id": "Plane",
+    "title": {
+      "default": "Plane",
+      "es": "Avión",
+      "fr": "Avion",
+      "pt-BR": "Avião"
+    }
+  },
+  {
+    "id": "Train",
+    "title": {
+      "default": "Train",
+      "es": "Tren",
+      "fr": "Train",
+      "pt-BR": "Trem"
+    }
+  },
+  {
+    "id": "Petrol / diesel car",
+    "title": {
+      "default": "Petrol / diesel car",
+      "es": "Coche de gasolina / diesel",
+      "fr": "Voiture essence / diesel",
+      "pt-BR": "Carro a gasolina / diesel"
+    }
+  },
+  {
+    "id": "Hybrid car",
+    "title": {
+      "default": "Hybrid car",
+      "es": "Coche híbrido",
+      "fr": "Voiture hybride",
+      "pt-BR": "Carro híbrido"
+    }
+  },
+  {
+    "id": "Electric car",
+    "title": {
+      "default": "Electric car",
+      "es": "Coche eléctrico",
+      "fr": "Voiture électrique",
+      "pt-BR": "Carro elétrico"
+    }
+  },
+  {
+    "id": "Bioethanol car",
+    "title": {
+      "default": "Bioethanol car",
+      "es": "Coche Biodiésel",
+      "fr": "Voiture biodiesel",
+      "pt-BR": "Carro biodiesel"
+    }
+  },
+  {
+    "id": "Biodiesel car",
+    "title": {
+      "default": "Biodiesel car",
+      "es": "Coche Bioetanol",
+      "fr": "Voiture bioéthanol",
+      "pt-BR": "Carro bioetanol"
+    }
+  },
+  {
+    "id": "LPG car",
+    "title": {
+      "default": "LPG car",
+      "es": "Coche de GLP",
+      "fr": "Voiture GPL",
+      "pt-BR": "Carro a GLP"
+    }
+  },
+  {
+    "id": "Petrol / diesel taxi",
+    "title": {
+      "default": "Petrol / diesel taxi",
+      "es": "Taxi de gasolina / diesel",
+      "fr": "Taxi essence / diesel",
+      "pt-BR": "Táxi a gasolina / diesel"
+    }
+  },
+  {
+    "id": "Hybrid taxi",
+    "title": {
+      "default": "Hybrid taxi",
+      "es": "Taxi híbrido",
+      "fr": "Taxi hybride",
+      "pt-BR": "Táxi híbrido"
+    }
+  },
+  {
+    "id": "Electric taxi",
+    "title": {
+      "default": "Electric taxi",
+      "es": "Taxi eléctrico",
+      "fr": "Taxi électrique",
+      "pt-BR": "Táxi elétrico"
+    }
+  },
+  {
+    "id": "Ferry / Ship",
+    "title": {
+      "default": "Ferry / Ship",
+      "es": "Ferry / barco",
+      "fr": "Ferry / bateau",
+      "pt-BR": "Ferry / navio"
+    }
+  },
+  {
+    "id": "Bus",
+    "title": {
+      "default": "Bus",
+      "es": "Autocar",
+      "fr": "Autocar",
+      "pt-BR": "Ônibus de viagem"
+    }
+  },
+  {
+    "id": "Coach",
+    "title": {
+      "default": "Coach",
+      "es": "Autobús",
+      "fr": "Bus",
+      "pt-BR": "Ônibus urbano"
+    }
+  }
+]

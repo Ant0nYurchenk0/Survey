@@ -1,0 +1,29 @@
+[
+  {
+    "id": "Gas furnace",
+    "title": {
+      "default": "Gas furnace",
+      "es": "Horno de gas",
+      "fr": "Fournaise au gaz",
+      "pt-BR": "Fornalha a gás"
+    }
+  },
+  {
+    "id": "Gas boiler",
+    "title": {
+      "default": "Gas boiler",
+      "es": "Caldera de gas",
+      "fr": "Chaudière à gaz",
+      "pt-BR": "Caldeira a gás"
+    }
+  },
+  {
+    "id": "Gas space heater / Portable gas heater",
+    "title": {
+      "default": "Gas space heater / Portable gas heater",
+      "es": "Calentador de gas /  Calentador de gas portátil",
+      "fr": "Chauffage d'appoint gaz / chauffage",
+      "pt-BR": "Aquecedor de ambiente a gás / Aquecedor de gás portátil"
+    }
+  }
+]

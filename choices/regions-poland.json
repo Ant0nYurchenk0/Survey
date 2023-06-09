@@ -1,0 +1,98 @@
+[
+  {
+    "id": "Dolnoslaskie",
+    "title": {
+      "default": "Dolnoslaskie"
+    }
+  },
+  {
+    "id": "Kujawsko-Pomorskie",
+    "title": {
+      "default": "Kujawsko-Pomorskie"
+    }
+  },
+    {
+    "id": "Lodzkie",
+    "title": {
+      "default": "Lodzkie"
+    }
+  },
+  {
+    "id": "Lubelskie",
+    "title": {
+      "default": "Lubelskie"
+    }
+  },
+  {
+    "id": "Lubuskie",
+    "title": {
+      "default": "Lubuskie"
+    }
+  },
+  {
+    "id": "Malopolskie",
+    "title": {
+      "default": "Malopolskie"
+    }
+  },
+    {
+    "id": "Mazowieckie",
+    "title": {
+      "default": "Mazowieckie"
+    }
+  },
+  {
+    "id": "Opolskie",
+    "title": {
+      "default": "Opolskie"
+    }
+  },
+    {
+    "id": "Podkarpackie",
+    "title": {
+      "default": "Podkarpackie"
+    }
+  },
+  {
+    "id": "Podlaskie",
+    "title": {
+      "default": "Podlaskie"
+    }
+  },
+  {
+    "id": "Pomorskie",
+    "title": {
+      "default": "Pomorskie"
+    }
+  },
+  {
+    "id": "Slaskie",
+    "title": {
+      "default": "Slaskie"
+    }
+  },
+    {
+    "id": "Swietokrzyskie",
+    "title": {
+      "default": "Swietokrzyskie"
+    }
+  },
+  {
+    "id": "Warminsko-mazurskie",
+    "title": {
+      "default": "Warminsko-mazurskie"
+    }
+  },
+    {
+    "id": "Wielkopolskie",
+    "title": {
+      "default": "Wielkopolskie"
+    }
+  },
+  {
+    "id": "Zachodniopomorskie",
+    "title": {
+      "default": "Zachodniopomorskie"
+    }
+  }
+]

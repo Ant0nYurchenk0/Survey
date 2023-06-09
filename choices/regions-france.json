@@ -1,0 +1,110 @@
+[
+  {
+    "id": "Auvergne-Rhône-Alpes",
+    "title": {
+      "default": "Auvergne-Rhône-Alpes"
+    }
+  },
+  {
+    "id": "Bourgogne-Franche-Comté",
+    "title": {
+      "default": "Bourgogne-Franche-Comté"
+    }
+  },
+  {
+    "id": "Bretagne",
+    "title": {
+      "default": "Bretagne"
+    }
+  },
+  {
+    "id": "Centre-Val de Loire",
+    "title": {
+      "default": "Centre-Val de Loire"
+    }
+  },
+  {
+    "id": "Corse",
+    "title": {
+      "default": "Corse"
+    }
+  },
+  {
+    "id": "Grand Est",
+    "title": {
+      "default": "Grand Est"
+    }
+  },
+  {
+    "id": "Hauts-de-France",
+    "title": {
+      "default": "Hauts-de-France"
+    }
+  },
+  {
+    "id": "Île-de-France",
+    "title": {
+      "default": "Île-de-France"
+    }
+  },
+  {
+    "id": "Normandie",
+    "title": {
+      "default": "Normandie"
+    }
+  },
+  {
+    "id": "Nouvelle-Aquitaine",
+    "title": {
+      "default": "Nouvelle-Aquitaine"
+    }
+  },
+  {
+    "id": "Occitanie",
+    "title": {
+      "default": "Occitanie"
+    }
+  },
+  {
+    "id": "Pays de la Loire",
+    "title": {
+      "default": "Pays de la Loire"
+    }
+  },
+  {
+    "id": "Provence-Alpes-Côte d’Azur",
+    "title": {
+      "default": "Provence-Alpes-Côte d’Azur"
+    }
+  },
+  {
+    "id": "Guadeloupe",
+    "title": {
+      "default": "Guadeloupe"
+    }
+  },
+  {
+    "id": "Guyane",
+    "title": {
+      "default": "Guyane"
+    }
+  },
+  {
+    "id": "La Réunion",
+    "title": {
+      "default": "La Réunion"
+    }
+  },
+  {
+    "id": "Martinique",
+    "title": {
+      "default": "Martinique"
+    }
+  },
+  {
+    "id": "Mayotte",
+    "title": {
+      "default": "Mayotte"
+    }
+  }
+]

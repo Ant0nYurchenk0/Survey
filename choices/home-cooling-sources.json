@@ -1,0 +1,65 @@
+[
+  {
+    "id": "Ceiling fan",
+    "title": {
+      "default": "Ceiling fan",
+      "es": "Ventilador de techo",
+      "fr": "Ventilateur de plafond",
+      "pt-BR": "Ventilador de teto"
+    }
+  },
+  {
+    "id": "Plug in fan",
+    "title": {
+      "default": "Plug in fan",
+      "es": "Ventilador que se conecte",
+      "fr": "Ventilateur sur pied",
+      "pt-BR": "Ventilador plug-in"
+    }
+  },
+  {
+    "id": "Air conditioning",
+    "title": {
+      "default": "Air conditioning",
+      "es": "Aire acondicionado",
+      "fr": "Climatisation",
+      "pt-BR": "Ar condicionado"
+    }
+  },
+  {
+    "id": "Air source heat pump",
+    "title": {
+      "default": "Air source heat pump",
+      "es": "Bomba de calor de fuente de aire",
+      "fr": "Pompe à chaleur à air",
+      "pt-BR": "Bomba de aquecimento a ar"
+    }
+  },
+  {
+    "id": "Ground source heat pump",
+    "title": {
+      "default": "Ground source heat pump",
+      "es": "Bomba de calor de fuente de tierra",
+      "fr": "Pompe à chaleur géothermique",
+      "pt-BR": "Bomba de aquecimento do solo"
+    }
+  },
+  {
+    "id": "Water source heat pump",
+    "title": {
+      "default": "Water source heat pump",
+      "es": "Bomba de calor de fuente de agua",
+      "fr": "Pompe à chaleur à eau",
+      "pt-BR": "Bomba de aquecimento a água"
+    }
+  },
+  {
+    "id": "Other",
+    "title": {
+      "default": "Other",
+      "es": "Otro",
+      "fr": "Autre",
+      "pt-BR": "Outros"
+    }
+  }
+]
