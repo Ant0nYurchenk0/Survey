@@ -93,144 +93,144 @@
     "id": "Car - Conventional fuel vehicle: petrol (gasoline), diesel",
     "title": {
       "default": "Car - Conventional fuel vehicle: petrol (gasoline), diesel",
-      "es": "Coche",
-      "fr": "Voiture",
-      "pt-BR": "Automóvel"
+      "es": "Coche - Vehículo de combustible convencional: gasolina (gasolina), diesel",
+      "fr": "Voiture - Véhicule à carburant conventionnel : essence (essence), diesel",
+      "pt-BR": "Automóvel - Veículo a combustível convencional: gasolina (gasolina), diesel"
     }
   },
   {
     "id": "Car - Hybrid vehicle (petrol-electric)",
     "title": {
       "default": "Car - Hybrid vehicle (petrol-electric)",
-      "es": "Vehículo de combustible convencional",
-      "fr": "Véhicule à carburant conventionnel",
-      "pt-BR": "Veículo a combustível convencional"
+      "es": "Coche - Vehículo híbrido (gasolina-eléctrico)",
+      "fr": "Voiture - Véhicule hybride (essence-électrique)",
+      "pt-BR": "Carro - Veículo híbrido (gasolina-elétrico)"
     }
   },
   {
     "id": "Car - Electric vehicle (EV)",
     "title": {
       "default": "Car - Electric vehicle (EV)",
-      "es": "",
-      "fr": "",
-      "pt-BR": ""
+      "es": "Coche - Vehículo eléctrico",
+      "fr": "Voiture - Véhicule électrique (VE)",
+      "pt-BR": "Carro - Veículo elétrico (EV)"
     }
   },
   {
     "id": "Car - Bioethanol",
     "title": {
       "default": "Car - Bioethanol",
-      "es": "",
-      "fr": "",
-      "pt-BR": ""
+      "es": "Coche - Vehículo alimentado por biocarburantes (por ejemplo, bioetanol, \"flexfuel\")",
+      "fr": "Voiture - Véhicule à biocarburant (par exemple, bioéthanol, \"flexfuel\")",
+      "pt-BR": "Carro - Veículo movido a biocombustível (por exemplo, bioetanol, \"flexfuel\")"
     }
   },
   {
     "id": "Car - Biodiesel",
     "title": {
       "default": "Car - Biodiesel",
-      "es": "",
-      "fr": "",
-      "pt-BR": ""
+      "es": "Coche - Vehículo alimentado por biocarburantes (por ejemplo, biodiésel, \"flexfuel\")",
+      "fr": "Voiture - Véhicule à biocarburant (par exemple, biodiesel, \"flexfuel\")",
+      "pt-BR": "Carro - Veículo movido a biocombustível (por exemplo, biodiesel, \"flexfuel\")"
     }
   },
   {
     "id": "Car - LPG-powered vehicle (liquefied petroleum gas)",
     "title": {
       "default": "Car - LPG-powered vehicle (liquefied petroleum gas)",
-      "es": "",
-      "fr": "",
-      "pt-BR": ""
+      "es": "Coche - Vehículo propulsado por GLP (gas licuado de petróleo)",
+      "fr": "Voiture - Véhicule fonctionnant au GPL (gaz de pétrole liquéfié)",
+      "pt-BR": "Carro - Veículo movido a GPL (gás de petróleo liquefeito)"
     }
   },
   {
     "id": "Car share (on average 2 people in vehicle)",
     "title": {
       "default": "Car share (on average 2 people in vehicle)",
-      "es": "",
-      "fr": "",
-      "pt-BR": ""
+      "es": "Coche compartido (en promedio 2 personas en el vehículo)",
+      "fr": "Autopartage (en moyenne 2 personnes en véhicule)",
+      "pt-BR": "Carro compartilhado (em média 2 pessoas no veículo)"
     }
   },
   {
     "id": "Car share (on average 3 people in vehicle)",
     "title": {
       "default": "Car share (on average 3 people in vehicle)",
-      "es": "",
-      "fr": "",
-      "pt-BR": ""
+      "es": "Coche compartido (en promedio 3 personas en el vehículo)",
+      "fr": "Autopartage (en moyenne 3 personnes en véhicule)",
+      "pt-BR": "Carro compartilhado (em média 3 pessoas no veículo)"
     }
   },
   {
     "id": "Car share (4 or more people)",
     "title": {
       "default": "Car share (4 or more people)",
-      "es": "",
-      "fr": "",
-      "pt-BR": ""
+      "es": "Coche compartido (en promedio 4 personas en el vehículo)",
+      "fr": "Autopartage (en moyenne 4 personnes en véhicule)",
+      "pt-BR": "Carro compartilhado (em média 4 pessoas no veículo)"
     }
   },
   {
     "id": "Taxi - Conventional fuel vehicle: petrol (gasoline), diesel",
     "title": {
       "default": "Taxi - Conventional fuel vehicle: petrol (gasoline), diesel",
-      "es": "",
-      "fr": "",
-      "pt-BR": ""
+      "es": "Taxi - Vehículo de combustible convencional: gasolina (gasolina), diesel",
+      "fr": "Taxi - Véhicule à carburant conventionnel : essence (essence), diesel",
+      "pt-BR": "Táxi - Veículo a combustível convencional: gasolina (gasolina), diesel"
     }
   },
   {
     "id": "Taxi - Hybrid vehicle (petrol-electric)",
     "title": {
       "default": "Taxi - Hybrid vehicle (petrol-electric)",
-      "es": "",
-      "fr": "",
-      "pt-BR": ""
+      "es": "Taxi - Vehículo híbrido (gasolina-eléctrico)",
+      "fr": "Taxi - Véhicule hybride (essence-électrique)",
+      "pt-BR": "Táxi - Veículo híbrido (gasolina-elétrico)"
     }
   },
   {
     "id": "Taxi - Electric vehicle (EV)",
     "title": {
       "default": "Taxi - Electric vehicle (EV)",
-      "es": "",
-      "fr": "",
-      "pt-BR": ""
+      "es": "Taxi - Vehículo eléctrico",
+      "fr": "Taxi - Véhicule électrique (VE)",
+      "pt-BR": "Táxi - Veículo elétrico (EV)"
     }
   },
   {
     "id": "Plane",
     "title": {
       "default": "Plane",
-      "es": "",
-      "fr": "",
-      "pt-BR": ""
+      "es": "Avión",
+      "fr": "Avion",
+      "pt-BR": "Avião"
     }
   },
   {
     "id": "Ferry",
     "title": {
       "default": "Ferry",
-      "es": "",
-      "fr": "",
-      "pt-BR": ""
+      "es": "Ferry",
+      "fr": "Ferry",
+      "pt-BR": "Balsa"
     }
   },
   {
     "id": "Moped",
     "title": {
       "default": "Moped",
-      "es": "",
-      "fr": "",
-      "pt-BR": ""
+      "es": "Ciclomotor",
+      "fr": "Cyclomoteur",
+      "pt-BR": "Ciclomotor"
     }
   },
   {
     "id": "Motorbike",
     "title": {
       "default": "Motorbike",
-      "es": "",
-      "fr": "",
-      "pt-BR": ""
+      "es": "Motocicleta",
+      "fr": "Moto",
+      "pt-BR": "Moto"
     }
   },
   {
